@@ -1,0 +1,19 @@
+{
+    "name": "AdGuard SDNS",
+    "description": "AdGuard version of r-a-y's SDNS",
+    "version": "1.0.0",
+    "sources": [
+        {
+            "source": "https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt",
+            "type": "hosts"
+        }
+    ],
+    "transformations": [
+        "Deduplicate",
+        "Compress",
+        "Validate",
+        "TrimLines",
+        "InsertFinalNewLine"
+    ]
+}
+
