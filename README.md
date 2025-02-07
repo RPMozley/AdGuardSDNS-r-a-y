@@ -1,5 +1,6 @@
 # AdGuardSDNS-r-a-y
-Convert r-a-y's AdGuard SDNS HOSTS format to AdGuard format
+Convert [r-a-y](https://github.com/r-a-y/mobile-hosts)'s AdGuard SDNS HOSTS format to Adblock format for use in AdGuard Home.
 
-    $ yarnpkg run hostlist-compiler -c Documents/GitHub/AdGuardSDNS-r-a-y/hostlist-compiler-config.json -o Documents/GitHub/AdGuardSDNS-r-a-y/adguard-sdns.txt
+Using [r-a-y's converter.php](https://github.com/r-a-y/mobile-hosts) to get latest AdGuardDNS release -> AdGuardDNS.txt
+Then convert into Adblock format with [AdGuard's hostlist-compiler](https://github.com/AdguardTeam/HostlistCompiler) -> adguard-sdns.txt
 
