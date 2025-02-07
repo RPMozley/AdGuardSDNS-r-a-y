@@ -1,10 +1,10 @@
 {
     "name": "AdGuard SDNS",
     "description": "AdGuard version of r-a-y's SDNS",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "sources": [
         {
-            "source": "/home/richard/Documents/GitHub/AdGuardSDNS-r-a-y/AdguardDNS.txt",
+            "source": "Documents/GitHub/AdGuardSDNS-r-a-y/AdguardDNS.txt",
             "type": "hosts"
         }
     ],
