@@ -22,14 +22,4 @@ jobs:
     - name: Use r-a-y converter
       run: php ./converter.php
 
-    - name: Simple commit
-    uses: zwaldowski/git-commit-action@v1
-    with:
-      working_directory:
 
-      commit_message:
-      
-      author_name:
-      
-      author_email: 
-    
