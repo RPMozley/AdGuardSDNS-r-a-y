@@ -1,8 +1,8 @@
-# AdguardDNS
-#
-# Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 08 Feb 2025 16:38:01 +0000
-#
+! AdguardDNS
+! 
+! Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+! Last converted - Sat, 08 Feb 2025 17:36:32 +0000
+! 
 
 ||videocdnmetrika.com^
 ||pkyffuewwuhnld.com^
