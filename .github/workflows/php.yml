@@ -23,3 +23,23 @@ jobs:
       run: php ./converter.php
 
 
+    - name: Create GitHub Commit
+    # You may pin to the exact commit or the version.
+    # uses: qoomon/actions--create-commit@277b71633c22f4984dd482b9cb3030e5466d4aac
+      uses: qoomon/actions--create-commit@v1.2.1
+      with:
+      # The commit message
+      message: 
+      # Amend the last commit
+      amend: # optional, default is false
+      # Allow an empty commit
+      allow-empty: # optional, default is false
+      # Skip action, if nothing to commit
+      skip-empty: # optional, default is false
+      # A GitHub access token
+      token: # default is ${{ github.token }}
+      # The working directory
+      working-directory: # default is .
+      # The remote name to create the commit at.
+      remoteName: # default is origin
+          
