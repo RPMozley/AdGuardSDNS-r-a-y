@@ -21,7 +21,7 @@ jobs:
     - name: Make converter.php executable
       run: chmod +x converter.php
     - name: Use r-a-y converter
-      run: ./converter.php
+      run: php ./converter.php
 
     # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
     # Docs: https://getcomposer.org/doc/articles/scripts.md
