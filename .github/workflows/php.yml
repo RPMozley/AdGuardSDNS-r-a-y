@@ -28,10 +28,7 @@ jobs:
 #        git config --local user.name "github-actions[bot]"
 #        git commit -a -m "Add changes"
       
-    - name: Github Pushy
+    - name: Git Commit/Push Changes
   # You may pin to the exact commit or the version.
   # uses: htilssu/github_push_action@faad922b0e00d377a9c69e7c08593e3b332e6387
-      uses: htilssu/github_push_action@v0
-      with:
-    # GitHub Token
-        token: ${{ github.token }}
+      uses: actions-x/commit@v6
