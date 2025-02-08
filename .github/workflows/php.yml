@@ -1,10 +1,9 @@
 name: PHP run
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:
+  - cron: "0 */8 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -12,7 +11,7 @@ permissions:
 jobs:
   update:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Check out repository
@@ -23,8 +22,17 @@ jobs:
     - name: Use r-a-y converter
       run: php ./converter.php
 
-    # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
-    # Docs: https://getcomposer.org/doc/articles/scripts.md
-
-    # - name: Run test suite
-    #   run: composer run-script test
+    - name: Simple commit
+    # You may pin to the exact commit or the version.
+    # uses: zwaldowski/git-commit-action@66730766679672410dc04830ae6389f4376c8c94
+    uses: zwaldowski/git-commit-action@v1
+    with:
+      # Directory to create commit in
+      working_directory: # optional, default is .
+      # Commit message
+      commit_message: # default is Automated commit
+      # Name to use for commit author
+      author_name: # optional, default is GitHub Actions
+      # Email to use for commit author
+      author_email: # optional, default is actions@github.com
+    
