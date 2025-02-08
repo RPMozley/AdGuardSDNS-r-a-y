@@ -22,24 +22,21 @@ jobs:
     - name: Use r-a-y converter
       run: php ./converter.php
 
-
-    - name: Create GitHub Commit
+    - name: Verified commit
     # You may pin to the exact commit or the version.
-    # uses: qoomon/actions--create-commit@277b71633c22f4984dd482b9cb3030e5466d4aac
-      uses: qoomon/actions--create-commit@v1.2.1
-      with:
-      # The commit message
-      message: 
-      # Amend the last commit
-      amend: # optional, default is false
-      # Allow an empty commit
-      allow-empty: # optional, default is false
-      # Skip action, if nothing to commit
-      skip-empty: # optional, default is false
-      # A GitHub access token
-      token: # default is ${{ github.token }}
-      # The working directory
-      working-directory: # default is .
-      # The remote name to create the commit at.
-      remoteName: # default is origin
-          
+    # uses: swinton/commit@bfa68d879ec57187f2c5bf616158433763f05f06
+    uses: swinton/commit@v2.0.0
+    with:
+      # Newline-separated list of files to be committed, relative to root of repository.
+
+      files: 
+      # Base directory containing files to be committed, defaults to the GitHub workspace directory path, $GITHUB_WORKSPACE.
+
+      workspace: # optional, default is 
+      # Commit message to be used
+
+      commit-message: 
+      # Reference to be updated with commit. This reference must already exist. Defaults to the repository's default branch ref.
+
+      ref: # optional, default is 
+
