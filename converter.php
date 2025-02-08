@@ -33,11 +33,11 @@ foreach ( $lists as $name => $list ) {
 	$lines = explode( "\n", $lines );
 
 	// HOSTS header.
-	$hosts  = "# {$name}\n";
-	$hosts .= "#\n";
-	$hosts .= "# Converted from - {$list}\n";
-	$hosts .= "# Last converted - " . date( 'r' ) . "\n";
-	$hosts .= "#\n\n";
+	$hosts  = "! {$name}\n";
+	$hosts .= "! \n";
+	$hosts .= "! Converted from - {$list}\n";
+	$hosts .= "! Last converted - " . date( 'r' ) . "\n";
+	$hosts .= "! \n\n";
 
 	$domains = $exceptions = array();
 
