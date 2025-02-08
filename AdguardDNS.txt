@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 08 Feb 2025 04:52:16 +0000
+# Last converted - Sat, 08 Feb 2025 08:26:55 +0000
 #
 
 0.0.0.0 videocdnmetrika.com
@@ -52068,6 +52068,9 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 vjzqfh.icu
+0.0.0.0 8ff0.cn
+0.0.0.0 tdinmai.top
 0.0.0.0 xtdvvp.icu
 0.0.0.0 vbllxaaj.icu
 0.0.0.0 apk02070oo.xyz
