@@ -29,9 +29,26 @@ jobs:
 #        git commit -a -m "Add changes"
       
     - name: Git Commit/Push Changes
-  # You may pin to the exact commit or the version.
-  # uses: htilssu/github_push_action@faad922b0e00d377a9c69e7c08593e3b332e6387
       uses: actions-x/commit@v6
       with:
         email: github-actions[bot]@users.noreply.github.com
         name: github-actions[bot]
+
+  convert:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js
+      uses: actions/setup-node@v4
+
+    - run: npm i -g @adguard/hostlist-compiler
+    - run: hostlist-compiler -c hostlist-compiler.json -o adguardDNS-r-a-y.txt
+    
+    - name: Git Commit/Push Changes
+      uses: actions-x/commit@v6
+      with:
+        email: github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+
