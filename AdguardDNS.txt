@@ -1,7 +1,7 @@
 ! AdguardDNS
 ! 
 ! Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-! Last converted - Sun, 09 Feb 2025 06:24:45 +0000
+! Last converted - Sun, 09 Feb 2025 12:33:02 +0000
 ! 
 
 ||videocdnmetrika.com^
@@ -31398,6 +31398,7 @@
 ||fbfec2.xyz^
 ||fe30a5b4.xyz^
 ||fe9dc503.xyz^
+||fs-loader.com^
 ||img-load.com^
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
@@ -52147,6 +52148,8 @@
 ||cnzz.trafficmanager.net^
 ||tmvirr.icu^
 ||udinmat.top^
+||odinmak.top^
+||brornaeq.com^
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
