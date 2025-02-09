@@ -23,35 +23,18 @@ jobs:
       run: chmod +x converter.php
     - name: Use r-a-y converter
       run: php ./converter.php
+
+    - name: Use Node.js
+      uses: actions/setup-node@v4
+
+    - run: npm i -g @adguard/hostlist-compiler
+    - run: hostlist-compiler -c hostlist-compiler.json -o adguardDNS-r-a-y.txt
       
     - name: Commit files
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git commit -a -m "Automatic update"
-      
-    - name: Push Changes
-      run: git push origin main
-
-  convert:
-
-    runs-on: ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@v4
-    - name: Use Node.js
-      uses: actions/setup-node@v4
-    - name: Pull latest changes
-      run: git pull origin main
-
-    - run: npm i -g @adguard/hostlist-compiler
-    - run: hostlist-compiler -c hostlist-compiler.json -o adguardDNS-r-a-y.txt
-    
-    - name: Commit files
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git commit -a -m "Automatic convert"
       
     - name: Push Changes
       run: git push origin main
