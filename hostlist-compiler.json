@@ -1,0 +1,19 @@
+{
+    "name": "AdGuard SDNS",
+    "description": "AdBlock version of r-a-y's SDNS",
+    "version": "1.0.6",
+    "sources": [
+        {
+            "source": "AdguardDNS.txt",
+            "type": "adblock"
+        }
+    ],
+    "transformations": [
+        "Deduplicate",
+        "Compress",
+        "Validate",
+        "TrimLines",
+        "InsertFinalNewLine"
+    ]
+}
+
