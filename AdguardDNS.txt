@@ -1,7 +1,7 @@
 ! AdguardDNS
 ! 
 ! Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-! Last converted - Sat, 08 Feb 2025 18:23:00 +0000
+! Last converted - Sun, 09 Feb 2025 01:35:26 +0000
 ! 
 
 ||videocdnmetrika.com^
@@ -52145,6 +52145,8 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||tmvirr.icu^
+||udinmat.top^
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
