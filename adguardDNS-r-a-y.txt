@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-10T06:33:01.611Z
+! Last modified: 2025-02-10T12:46:40.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,9 +12,17 @@
 ! AdguardDNS
 !
 ! Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-! Last converted - Mon, 10 Feb 2025 06:32:52 +0000
+! Last converted - Mon, 10 Feb 2025 12:46:30 +0000
 !
 
+||loowhujoom.net^
+||glugherg.net^
+||louthicoozit.net^
+||feckurteg.net^
+||octo25.me^
+||vidscriptshark.com^
+||threewoodslose.com^
+||sharkfirelife.com^
 ||videocdnmetrika.com^
 ||pkyffuewwuhnld.com^
 ||phahifoobsie.net^
@@ -11918,7 +11926,6 @@
 ||glsfreeads.com^
 ||glssp.net^
 ||gludqoqmuwbc.com^
-||glugherg.net^
 ||glugreez.com^
 ||gluilyepacme.shop^
 ||glukropi.com^
@@ -33228,7 +33235,6 @@
 ||ads-server.mxplay.com^
 ||mxaserver.mxplay.com^
 ||contextualadv.com^
-||prebid-cache.ifunny.co^
 ||tk0x1.com^
 ||itdsmr.com^
 ||external-api.impression-neo.naver.com^
@@ -33750,6 +33756,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||us-behavior.apitd.net^
 ||collector.snplow.net^
 ||squeezely.tech^
 ||d5yoctgpv4cpx.cloudfront.net^
@@ -34273,7 +34280,6 @@
 ||analytics.growthphysics.com^
 ||sp.tinymce.com^
 ||wazimo.com^
-||srmdata-eur.com^
 ||doppler-beacons.cbsivideo.com^
 ||events.askjdhaa.com^
 ||tikstok.fun^
@@ -42330,7 +42336,6 @@
 ||dosawes.com^
 ||lusupodum.com^
 ||clairpixum.com^
-||octo25.me^
 ||bmmwa.info^
 ||iwrcoct.info^
 ||hfnuqljjnt.com^
@@ -42361,7 +42366,6 @@
 ||miradres.com^
 ||eehhabacgieacfjeaacg.world^
 ||bidmatic.io^
-||vidscriptshark.com^
 ||1qe.info^
 ||23oct2023.site^
 ||fcepahafyq.com^
@@ -52101,6 +52105,7 @@
 ||brornaeq.com^
 ||strakuty.com^
 ||zcrddj.icu^
+||nonguds.com^
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
