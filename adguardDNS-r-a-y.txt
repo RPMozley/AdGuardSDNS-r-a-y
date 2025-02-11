@@ -2,18 +2,18 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-11T01:48:09.857Z
+! Last modified: 2025-02-11T03:43:17.217Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 !
 ! Source: AdguardDNS.txt
 !
-! AdguardDNS
-!
-! Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-! Last converted - Tue, 11 Feb 2025 01:48:04 +0000
-!
+# AdguardDNS
+#
+# Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+# Last converted - Tue, 11 Feb 2025 03:43:11 +0000
+#
 
 ||debridleech.com^
 ||trckkkk.com^
@@ -30149,7 +30149,6 @@
 ||adsrvmedia.com^
 ||adstargeting.com^
 ||adstargets.com^
-||adsterra.com^
 ||adsterratech.com^
 ||adstock.pro^
 ||adstoo.com^
@@ -31604,7 +31603,6 @@
 ||popmog.com^
 ||probid.ai^
 ||promos.fling.com^
-||proto2ad.durasite.net^
 ||pub-81f2b77f5bc841c5ae64221394d67f53.r2.dev^
 ||pubfeed.linkby.com^
 ||public.porn.fr^
@@ -34825,7 +34823,6 @@
 ||tracking.atreemo.com^
 ||imhd.io^
 ||atom-log.3.cn^
-||ezodn.com^
 ||x-storage-a1.cir.io^
 ||solutionshindsight.net^
 ||d.wi-fi.ru^
@@ -35523,7 +35520,6 @@
 ||avstat.it^
 ||awasete.com^
 ||awesomelytics.com^
-||awin1.com^
 ||axf8.net^
 ||azera-s014.com^
 ||b1img.com^
@@ -36305,7 +36301,6 @@
 ||logaholic.com^
 ||logcounter.com^
 ||logdy.com^
-||logentries.com^
 ||lognormal.net^
 ||logua.com^
 ||logxp.ru^
@@ -37411,7 +37406,6 @@
 ||eulerian.belambra.fr^
 ||eulerian.belambra.be^
 ||goatcounter.com^
-||daraz.com^
 ||affex.org^
 ||net.jumia.com^
 ||net.iberia.com^
@@ -40024,7 +40018,6 @@
 ||adrevenue.appsflyer.com^
 ||api.appsflyer.com^
 ||api2.appsflyer.com^
-||app.appsflyer.com^
 ||attr.appsflyer.com^
 ||banner.appsflyer.com^
 ||cdnappicons.appsflyer.com^
@@ -40777,7 +40770,6 @@
 ||api.country.is^
 ||api.june.so^
 ||api.wipmania.com^
-||app.adjust.com^
 ||apple.www.letv.com^
 ||apps-pbd.ctraffic.io^
 ||argos.citruserve.com^
@@ -41743,7 +41735,6 @@
 ||adapf.com^
 ||adpon.jp^
 ||af-z.jp^
-||afi-b.com^
 ||aid-ad.jp^
 ||amoad.com^
 ||analyticsip.net^
@@ -44975,7 +44966,6 @@
 ||static.affiliate.rakuten.co.jp^
 ||xml.affiliate.rakuten.co.jp^
 ||aimg.fc2.com^
-||hb.afl.rakuten.co.jp^
 ||hbb.afl.rakuten.co.jp^
 ||media5.fc2.com^
 ||ov.yahoo.co.jp^
@@ -46438,7 +46428,6 @@
 ||www.kundvisaren.se^
 ||www.mymediaindex.com^
 ||www.stadiumstage.com^
-||www.statcounter.com^
 ||www.vejaskor.com.se^
 ||www.datadoghq-browser-agent.com^
 ||www.gymshark-sweden.com.se^
