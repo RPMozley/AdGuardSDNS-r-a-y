@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-10T18:31:48.315Z
+! Last modified: 2025-02-11T01:48:09.857Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 ! AdguardDNS
 !
 ! Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-! Last converted - Mon, 10 Feb 2025 18:31:43 +0000
+! Last converted - Tue, 11 Feb 2025 01:48:04 +0000
 !
 
 ||debridleech.com^
@@ -33157,6 +33157,7 @@
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||san.myadssupport.com^
 ||api.youngle.tech^
 ||api.myadsget.com^
 ||api.sve.cc^
@@ -52151,6 +52152,8 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||fuuksew.com^
+||xfxvpt.icu^
 ||tmvirr.icu^
 ||udinmat.top^
 ||odinmak.top^
