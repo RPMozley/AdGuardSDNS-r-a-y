@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 11 Feb 2025 03:43:11 +0000
+# Last converted - Tue, 11 Feb 2025 06:31:44 +0000
 #
 
 0.0.0.0 debridleech.com
@@ -23528,6 +23528,7 @@
 0.0.0.0 semicolonrichsieve.com
 0.0.0.0 semicolonsmall.com
 0.0.0.0 semiinfest.com
+0.0.0.0 seminaloakweb.com
 0.0.0.0 seminarcrackingconclude.com
 0.0.0.0 seminarentirely.com
 0.0.0.0 semqraso.net
@@ -52202,6 +52203,8 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 fuuksew.com
 0.0.0.0 xfxvpt.icu
+0.0.0.0 s31u.com
+0.0.0.0 ccinmaf.top
 0.0.0.0 tmvirr.icu
 0.0.0.0 udinmat.top
 0.0.0.0 odinmak.top

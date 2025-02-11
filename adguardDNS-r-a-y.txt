@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-11T03:43:17.217Z
+! Last modified: 2025-02-11T06:31:48.829Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 11 Feb 2025 03:43:11 +0000
+# Last converted - Tue, 11 Feb 2025 06:31:44 +0000
 #
 
 ||debridleech.com^
@@ -23504,6 +23504,7 @@
 ||semicolonrichsieve.com^
 ||semicolonsmall.com^
 ||semiinfest.com^
+||seminaloakweb.com^
 ||seminarcrackingconclude.com^
 ||seminarentirely.com^
 ||semqraso.net^
@@ -52143,6 +52144,8 @@
 ||cnzz.trafficmanager.net^
 ||fuuksew.com^
 ||xfxvpt.icu^
+||s31u.com^
+||ccinmaf.top^
 ||tmvirr.icu^
 ||udinmat.top^
 ||odinmak.top^
