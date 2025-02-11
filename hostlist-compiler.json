@@ -5,7 +5,7 @@
     "sources": [
         {
             "source": "AdguardDNS.txt",
-            "type": "adblock"
+            "type": "hosts"
         }
     ],
     "transformations": [
