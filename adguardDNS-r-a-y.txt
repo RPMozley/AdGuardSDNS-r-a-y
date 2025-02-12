@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-11T18:30:29.304Z
+! Last modified: 2025-02-12T01:48:17.745Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 11 Feb 2025 18:30:23 +0000
+# Last converted - Wed, 12 Feb 2025 01:48:12 +0000
 #
 
 ||directone.xyz^
@@ -16273,6 +16273,7 @@
 ||masculineillness.com^
 ||masklink.org^
 ||masonopen.com^
+||masonrycruor.shop^
 ||masqueradeentrustveneering.com^
 ||masqueradethousand.com^
 ||massacreintentionalmemorize.com^
@@ -33328,6 +33329,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
 ||squeezely.tech^
@@ -36949,6 +36951,7 @@
 ||wizaly.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
+||inf.miui.com^
 ||q.quora.com^
 ||evts.ecocart.io^
 ||e.fomo.com^
@@ -39578,6 +39581,7 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||log.ultimatecleaner.pro^
 ||impression.link^
 ||rm.aarki.net^
 ||use-cr.svr-algorix.com^
@@ -51664,6 +51668,9 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||traukvan.com^
+||20wx.com^
+||vitqzd.icu^
 ||fuuksew.com^
 ||xfxvpt.icu^
 ||s31u.com^
