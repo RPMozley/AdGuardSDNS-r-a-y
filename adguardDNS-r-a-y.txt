@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-12T01:48:17.745Z
+! Last modified: 2025-02-12T06:32:07.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Feb 2025 01:48:12 +0000
+# Last converted - Wed, 12 Feb 2025 06:32:02 +0000
 #
 
 ||directone.xyz^
@@ -51671,6 +51671,7 @@
 ||traukvan.com^
 ||20wx.com^
 ||vitqzd.icu^
+||icinmao.top^
 ||fuuksew.com^
 ||xfxvpt.icu^
 ||s31u.com^
@@ -56574,6 +56575,7 @@
 ||xn--s-4z5e652a53k.com^
 ||categorysort.com^
 ||adcastmarket.com^
+||recoshopping.naver.com^
 ||ad-creative.pstatic.net^
 ||centaurs-rest.coupang.com^
 ||ad.cashdoc.io^
