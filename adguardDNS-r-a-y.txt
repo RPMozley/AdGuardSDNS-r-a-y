@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-12T12:46:02.306Z
+! Last modified: 2025-02-12T18:32:03.706Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,9 +12,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Feb 2025 12:45:54 +0000
+# Last converted - Wed, 12 Feb 2025 18:31:57 +0000
 #
 
+||getwptag.org^
 ||directone.xyz^
 ||dramaticsalad.com^
 ||chinnedwithset.com^
@@ -1851,6 +1852,7 @@
 ||877f80dfaa.com^
 ||884de19f2b.com^
 ||888promos.com^
+||88cb0eb486.com^
 ||88d7b6aa44fb8eb.com^
 ||88eq7spm.de^
 ||89dfa3575e.com^
@@ -1882,6 +1884,7 @@
 ||91df02fe64.com^
 ||921b6384ac.com^
 ||92888e5ff3.com^
+||92d31be64a.com^
 ||92e6136b5d.com^
 ||92e703f830.com^
 ||92f77b89a1b2df1b539ff2772282e19b.com^
@@ -5875,6 +5878,7 @@
 ||bygoneudderpension.com^
 ||bygsworlowe.info^
 ||byhoppipan.com^
+||bylawrite.com^
 ||bynamebosh.com^
 ||bynix.xyz^
 ||bypassmaestro.com^
@@ -7405,6 +7409,7 @@
 ||courageousdiedbow.com^
 ||courierembedded.com^
 ||coursebonfire.com^
+||coursedbardes.com^
 ||coursejavgg124.fun^
 ||coursewimplongitude.com^
 ||courthousedefective.com^
@@ -8060,6 +8065,7 @@
 ||decisionnews.com^
 ||decisivewade.com^
 ||deckedsi.com^
+||deckeekith.xyz^
 ||deckengilder.shop^
 ||decknetwork.net^
 ||declarcercket.org^
@@ -11617,6 +11623,7 @@
 ||gixeedsute.net^
 ||gixiluros.com^
 ||gixtgaieap.xyz^
+||gizokraijaw.net^
 ||gjigle.com^
 ||gjjvjbe.com^
 ||gjonfartyb.com^
@@ -13506,6 +13513,7 @@
 ||impactradius.com^
 ||impactserving.com^
 ||impactslam.com^
+||impairgaunt.com^
 ||impartial-steal.pro^
 ||impartialpath.com^
 ||impatientliftdiploma.com^
@@ -14163,6 +14171,7 @@
 ||jangonetwork.com^
 ||janitorhalfchronicle.com^
 ||januaryprinter.com^
+||januaryverby.com^
 ||janzmuarcst.com^
 ||japanbros.com^
 ||japegr.click^
@@ -14606,6 +14615,7 @@
 ||jzqbyykjorakb.top^
 ||jztucbb.com^
 ||jztwidpixa.icu^
+||jzvwawvwkwkwl.top^
 ||jzycnlq.com^
 ||k-oggwkhhxt.love^
 ||k55p9ka2.de^
@@ -15916,6 +15926,7 @@
 ||ludsaichid.net^
 ||ludxivsakalg.com^
 ||luggagebuttonlocum.com^
+||luggieimpeyan.top^
 ||luhhcodutax.com^
 ||lukeaccesspopped.com^
 ||lukeexposure.com^
@@ -16181,6 +16192,7 @@
 ||maltcontaining.com^
 ||malthaeurite.com^
 ||malthuscorno.shop^
+||malthuscosshen.com^
 ||maltohoo.xyz^
 ||maltunfaithfulpredominant.com^
 ||malurusoenone.top^
@@ -22408,6 +22420,7 @@
 ||romepoptahul.com^
 ||romfpzib.com^
 ||romperspardesi.com^
+||rompishvariola.com^
 ||roobetaffiliates.com^
 ||rooedfibers.com^
 ||roofprison.com^
@@ -23705,6 +23718,7 @@
 ||skhmjezzj.com^
 ||skibbybester.top^
 ||skidgleambrand.com^
+||skidlidmassier.top^
 ||skiingwights.com^
 ||skilfulrussian.com^
 ||skilldicier.com^
@@ -23821,6 +23835,7 @@
 ||small-headed.sbs^
 ||smallerfords.com^
 ||smallestbiological.com^
+||smallestexpectedspecialty.com^
 ||smallestgirlfriend.com^
 ||smallestspoutmuffled.com^
 ||smallestunrealilliterate.com^
@@ -24568,6 +24583,7 @@
 ||stotoowu.net^
 ||stotseepta.com^
 ||stougluh.net^
+||stouksomsi.net^
 ||stoursas.xyz^
 ||stoutfoggyprotrude.com^
 ||stovearmpitagreeable.com^
@@ -25847,6 +25863,7 @@
 ||topflownews.com^
 ||topfreenewsfeed.com^
 ||tophaw.com^
+||tophtitled.com^
 ||topiccorruption.com^
 ||toplinkz.ru^
 ||topmostolddoor.com^
@@ -28807,6 +28824,7 @@
 ||yakvssigg.xyz^
 ||yalittlewallo.info^
 ||yallarec.com^
+||yamanaisleepry.com^
 ||yamshikbrucia.top^
 ||yapclench.com^
 ||yapdiscuss.com^
@@ -33365,6 +33383,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||botradar.tech^
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
@@ -36987,6 +37006,7 @@
 ||wizaly.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
+||malog.byapps.co.kr^
 ||sofire.terabox.app^
 ||sofire.terabox.com^
 ||inf.miui.com^
@@ -40576,6 +40596,7 @@
 ||ihi.flowplayer.com^
 ||imp.constantcontact.com^
 ||impress.vcita.com^
+||in.treasuredata.com^
 ||inbound-analytics.pixlee.co^
 ||ingest.make.rvapps.io^
 ||ins.connatix.com^
@@ -51709,6 +51730,7 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||strelgrell.com^
+||h8ne.com^
 ||traukvan.com^
 ||20wx.com^
 ||vitqzd.icu^
@@ -56616,6 +56638,7 @@
 ||xn--s-4z5e652a53k.com^
 ||categorysort.com^
 ||adcastmarket.com^
+||recoshopping.naver.com^
 ||ad-creative.pstatic.net^
 ||centaurs-rest.coupang.com^
 ||ad.cashdoc.io^
