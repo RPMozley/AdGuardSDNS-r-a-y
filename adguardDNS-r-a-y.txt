@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-12T18:32:03.706Z
+! Last modified: 2025-02-13T01:49:02.625Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Feb 2025 18:31:57 +0000
+# Last converted - Thu, 13 Feb 2025 01:48:57 +0000
 #
 
 ||getwptag.org^
@@ -20587,6 +20587,7 @@
 ||proleclips.com^
 ||prologuerussialavender.com^
 ||prologuetwinsmolecule.com^
+||promerycergerful.com^
 ||promiseyuri.com^
 ||promo-bc.com^
 ||promobenef.com^
@@ -51731,6 +51732,10 @@
 ||cnzz.trafficmanager.net^
 ||strelgrell.com^
 ||h8ne.com^
+||jcinmaa.top^
+||uhi02130uik.xyz^
+||uhi02121uik.xyz^
+||bypllv.icu^
 ||traukvan.com^
 ||20wx.com^
 ||vitqzd.icu^
