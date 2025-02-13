@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 13 Feb 2025 01:48:57 +0000
+# Last converted - Thu, 13 Feb 2025 06:31:48 +0000
 #
 
 0.0.0.0 getwptag.org
@@ -51795,6 +51795,10 @@
 0.0.0.0 uhi02130uik.xyz
 0.0.0.0 uhi02121uik.xyz
 0.0.0.0 bypllv.icu
+0.0.0.0 bhelzun.com
+0.0.0.0 fafvvt.icu
+0.0.0.0 gukviels.com
+0.0.0.0 kcinmad.top
 0.0.0.0 traukvan.com
 0.0.0.0 20wx.com
 0.0.0.0 vitqzd.icu
