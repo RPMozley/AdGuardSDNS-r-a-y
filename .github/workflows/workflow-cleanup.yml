@@ -2,8 +2,7 @@ name: Delete old workflow runs
 on:
   workflow_dispatch:
   schedule:
-    - cron: '7 0 * * 1'
-# Run weekly, at 00:07 on Monday.
+    - cron: '10 1 */5 * *'
 
 jobs:
   del_runs:
@@ -17,5 +16,5 @@ jobs:
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
-          retain_days: 7
-          keep_minimum_runs: 6
+          retain_days: 1
+          keep_minimum_runs: 4
