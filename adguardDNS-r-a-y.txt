@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-13T18:32:15.898Z
+! Last modified: 2025-02-14T01:48:21.133Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 13 Feb 2025 18:32:10 +0000
+# Last converted - Fri, 14 Feb 2025 01:48:16 +0000
 #
 
 ||engine.trialhd.com^
@@ -1743,6 +1743,7 @@
 ||63r2vxacp0pr.com^
 ||63voy9ciyi14.com^
 ||64580df84b.com^
+||6570131a3f.com^
 ||65wenv5f.xyz^
 ||665166e5a9.com^
 ||6657e4f5c2.com^
@@ -1875,6 +1876,7 @@
 ||8trd.online^
 ||8wtkfxiss1o2.com^
 ||905trk.com^
+||90b8ae1064.com^
 ||90e7fd481d.com^
 ||910de7044f.com^
 ||9119fa4031.com^
@@ -3814,6 +3816,7 @@
 ||articlepawn.com^
 ||articulatefootwearmumble.com^
 ||artistictastesnly.info^
+||artlesscontagionseated.com^
 ||artlessdeprivationunfriendly.com^
 ||artoas301endore.com^
 ||artreconnect.com^
@@ -8162,6 +8165,7 @@
 ||delicateomissionarched.com^
 ||delicatereliancegodmother.com^
 ||delicious-slip.pro^
+||deliciousdaredowen.com^
 ||delicioustaco.b-cdn.net^
 ||delightacheless.com^
 ||delightedheavy.com^
@@ -12931,6 +12935,7 @@
 ||hnrgmc.com^
 ||hntkeiupbnoaeha.xyz^
 ||hnxhksg.com^
+||hnzdkdcwdgs.com^
 ||hoa44trk.com^
 ||hoabauwezow.com^
 ||hoachalaide.net^
@@ -25181,6 +25186,7 @@
 ||tarsiusbaconic.com^
 ||tartarsharped.com^
 ||tartator.com^
+||tartconvert.com^
 ||tarvardsusyseinpou.info^
 ||tasesetitoefany.info^
 ||tastedflower.com^
@@ -28645,6 +28651,7 @@
 ||xawlop.com^
 ||xaxoro.com^
 ||xaxrtiahkft.com^
+||xazoglawq.com^
 ||xazojei-z.top^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbtjupfy.xyz^
@@ -28750,6 +28757,7 @@
 ||xms.lol^
 ||xmsflzmygw.com^
 ||xnrowzw.com^
+||xnszbmnxuzfvr.com^
 ||xoalt.com^
 ||xoarmpftxu.com^
 ||xoilactv123.gdn^
@@ -39560,6 +39568,7 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||i.mxplayer.j2inter.com^
 ||flashtalking.com^
 ||stat.weamvideo.com^
 ||log.ultimatecleaner.pro^
@@ -51653,6 +51662,9 @@
 ||saddarue.com^
 ||scinmab.top^
 ||stroveiks.com^
+||dhuquxqy.com^
+||zbldxf.icu^
+||ldbnhd.icu^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^
