@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-14T06:31:32.160Z
+! Last modified: 2025-02-14T12:45:09.757Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,9 +12,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 14 Feb 2025 06:31:22 +0000
+# Last converted - Fri, 14 Feb 2025 12:45:05 +0000
 #
 
+||splendid-concert.com^
 ||engine.trialhd.com^
 ||getwptag.org^
 ||directone.xyz^
@@ -37013,6 +37014,7 @@
 ||wizaly.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
+||tracker.multisearch.io^
 ||apm.yahoo.co.jp^
 ||malog.byapps.co.kr^
 ||sofire.terabox.app^
@@ -39647,6 +39649,8 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||aws.userlogsanalytics.com^
+||atb-stats-api.imolive.tv^
 ||i.mxplayer.j2inter.com^
 ||flashtalking.com^
 ||stat.weamvideo.com^
@@ -41853,7 +41857,6 @@
 ||c.keltis.com^
 ||sayac.kapital.com.tr^
 ||informers.sinoptik.ua^
-||tracker.multisearch.io^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 ||za.zalo.me^
@@ -51749,6 +51752,7 @@
 ||dhuquxqy.com^
 ||zbldxf.icu^
 ||ldbnhd.icu^
+||i8m6.com^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^

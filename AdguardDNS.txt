@@ -1,9 +1,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 14 Feb 2025 06:31:22 +0000
+# Last converted - Fri, 14 Feb 2025 12:45:05 +0000
 #
 
+0.0.0.0 splendid-concert.com
 0.0.0.0 engine.trialhd.com
 0.0.0.0 getwptag.org
 0.0.0.0 directone.xyz
@@ -37046,6 +37047,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 tracker.multisearch.io
 0.0.0.0 apm.yahoo.co.jp
 0.0.0.0 malog.byapps.co.kr
 0.0.0.0 sofire.terabox.app
@@ -39681,6 +39683,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 aws.userlogsanalytics.com
+0.0.0.0 atb-stats-api.imolive.tv
 0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 flashtalking.com
 0.0.0.0 stat.weamvideo.com
@@ -41887,7 +41891,6 @@
 0.0.0.0 c.keltis.com
 0.0.0.0 sayac.kapital.com.tr
 0.0.0.0 informers.sinoptik.ua
-0.0.0.0 tracker.multisearch.io
 0.0.0.0 f-emc.ngsp.gov.vn
 0.0.0.0 tracking.aita.gov.vn
 0.0.0.0 za.zalo.me
@@ -51808,6 +51811,7 @@
 0.0.0.0 dhuquxqy.com
 0.0.0.0 zbldxf.icu
 0.0.0.0 ldbnhd.icu
+0.0.0.0 i8m6.com
 0.0.0.0 strelgrell.com
 0.0.0.0 h8ne.com
 0.0.0.0 jcinmaa.top
