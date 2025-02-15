@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-14T18:31:10.274Z
+! Last modified: 2025-02-15T01:47:07.386Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 14 Feb 2025 18:31:05 +0000
+# Last converted - Sat, 15 Feb 2025 01:47:02 +0000
 #
 
 ||dtignite.com^
@@ -25800,7 +25800,6 @@
 ||tiglonhominy.top^
 ||tignuget.net^
 ||tigreanreshew.com^
-||tigris.dev^
 ||tigroulseedsipt.net^
 ||tiktakz.xyz^
 ||tilesmuzarab.com^
@@ -51781,6 +51780,9 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||sholxorw.com^
+||xehyjx.icu^
+||jgxirv.icu^
 ||saddarue.com^
 ||scinmab.top^
 ||stroveiks.com^
