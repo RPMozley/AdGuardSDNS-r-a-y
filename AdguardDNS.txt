@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 15 Feb 2025 22:27:33 +0000
+# Last converted - Sun, 16 Feb 2025 01:59:16 +0000
 #
 
 0.0.0.0 dtignite.com
@@ -49254,6 +49254,8 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 vudqth.icu
+0.0.0.0 grarnuns.com
 0.0.0.0 sholxorw.com
 0.0.0.0 xehyjx.icu
 0.0.0.0 jgxirv.icu
