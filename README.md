@@ -5,7 +5,7 @@ Using [r-a-y](https://github.com/r-a-y/mobile-hosts)'s converter.php to get late
 
 Tidy up list using [AdGuard's hostlist-compiler](https://github.com/AdguardTeam/HostlistCompiler) -> [adguardDNS-r-a-y.txt](https://raw.githubusercontent.com/RPMozley/AdGuardSDNS-r-a-y/main/adguardDNS-r-a-y.txt)
 
-Automatically updated every 6 hours.
+Automatically updated every 8 hours.
 ##
 
 ##
