@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 18 Feb 2025 01:51:33 +0000
+# Last converted - Tue, 18 Feb 2025 08:31:37 +0000
 #
 
 0.0.0.0 signamentswithd.com
@@ -34730,6 +34730,9 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 log.onmas.kt.com
+0.0.0.0 logapi.kt.com
+0.0.0.0 clog.lghv.net
 0.0.0.0 matomo.mobilism.org
 0.0.0.0 66hao.cc
 0.0.0.0 event.playground.ru
@@ -43692,6 +43695,7 @@
 0.0.0.0 tracking.klt.nu
 0.0.0.0 tracking.kpwebben.se
 0.0.0.0 tracking.kristianstadsbladet.se
+0.0.0.0 tracking.livesport.expressen.se
 0.0.0.0 tracking.ljusdalsposten.se
 0.0.0.0 tracking.ljusnan.se
 0.0.0.0 tracking.ltz.se
@@ -49496,6 +49500,8 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 zavgrj.icu
 0.0.0.0 stogmos.com
+0.0.0.0 lclqbh.icu
+0.0.0.0 qnhi.cn
 0.0.0.0 aegzoils.com
 0.0.0.0 bxzlfr.icu
 0.0.0.0 shudi8.com

@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-18T01:51:38.405Z
+! Last modified: 2025-02-18T08:31:42.747Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 18 Feb 2025 01:51:33 +0000
+# Last converted - Tue, 18 Feb 2025 08:31:37 +0000
 #
 
 ||signamentswithd.com^
@@ -34697,6 +34697,9 @@
 ||wizaly.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
+||log.onmas.kt.com^
+||logapi.kt.com^
+||clog.lghv.net^
 ||matomo.mobilism.org^
 ||66hao.cc^
 ||event.playground.ru^
@@ -43633,6 +43636,7 @@
 ||tracking.klt.nu^
 ||tracking.kpwebben.se^
 ||tracking.kristianstadsbladet.se^
+||tracking.livesport.expressen.se^
 ||tracking.ljusdalsposten.se^
 ||tracking.ljusnan.se^
 ||tracking.ltz.se^
@@ -49437,6 +49441,8 @@
 ||cnzz.trafficmanager.net^
 ||zavgrj.icu^
 ||stogmos.com^
+||lclqbh.icu^
+||qnhi.cn^
 ||aegzoils.com^
 ||bxzlfr.icu^
 ||shudi8.com^
