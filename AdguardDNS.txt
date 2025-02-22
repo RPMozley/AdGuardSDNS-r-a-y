@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 22 Feb 2025 08:28:25 +0000
+# Last converted - Sat, 22 Feb 2025 16:29:22 +0000
 #
 
 0.0.0.0 adtarget.biz
@@ -49867,6 +49867,8 @@
 0.0.0.0 8y3j.cn
 0.0.0.0 wcinvde.top
 0.0.0.0 dbigboq.top
+0.0.0.0 heemphaers.com
+0.0.0.0 hlzncxmu.icu
 0.0.0.0 fttxhcua.icu
 0.0.0.0 crazodsxx.com
 0.0.0.0 kcinvdd.top
