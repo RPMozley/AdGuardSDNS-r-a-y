@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-22T16:29:28.008Z
+! Last modified: 2025-02-23T01:59:17.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 22 Feb 2025 16:29:22 +0000
+# Last converted - Sun, 23 Feb 2025 01:59:11 +0000
 #
 
 ||adtarget.biz^
@@ -49800,6 +49800,11 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||xplbxx.icu^
+||khoqetslh.com^
+||vdpwuxmo.icu^
+||jrblfv.icu^
+||xwma.cn^
 ||torkeauwu.com^
 ||zmpgln.icu^
 ||hebaidu.cc^
@@ -49810,6 +49815,8 @@
 ||dbigboq.top^
 ||heemphaers.com^
 ||hlzncxmu.icu^
+||qcinvdy.top^
+||s7vf.cn^
 ||fttxhcua.icu^
 ||crazodsxx.com^
 ||kcinvdd.top^
