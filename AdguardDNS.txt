@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 23 Feb 2025 01:59:11 +0000
+# Last converted - Sun, 23 Feb 2025 08:29:56 +0000
 #
 
 0.0.0.0 adtarget.biz
@@ -49864,6 +49864,8 @@
 0.0.0.0 vdpwuxmo.icu
 0.0.0.0 jrblfv.icu
 0.0.0.0 xwma.cn
+0.0.0.0 spoaven.top
+0.0.0.0 tcinvdi.top
 0.0.0.0 torkeauwu.com
 0.0.0.0 zmpgln.icu
 0.0.0.0 hebaidu.cc
