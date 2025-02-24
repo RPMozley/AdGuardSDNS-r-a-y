@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 24 Feb 2025 01:55:53 +0000
+# Last converted - Mon, 24 Feb 2025 08:33:24 +0000
 #
 
 0.0.0.0 adtarget.biz
@@ -15897,7 +15897,6 @@
 0.0.0.0 mnetads.com
 0.0.0.0 mnevjhg.com
 0.0.0.0 mng-ads.com
-0.0.0.0 mngusr.com
 0.0.0.0 mnhjk.com
 0.0.0.0 mnhjkl.com
 0.0.0.0 mntft.com
@@ -31627,6 +31626,7 @@
 0.0.0.0 danatrak.com
 0.0.0.0 optiyield.opti-digital.com
 0.0.0.0 twitter.sx
+0.0.0.0 view.mngusr.com
 0.0.0.0 cdn.q0losid.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 matomo.akbal.dev
@@ -49947,6 +49947,8 @@
 0.0.0.0 chuundads.com
 0.0.0.0 xvvfpsmp.icu
 0.0.0.0 phxdrf.icu
+0.0.0.0 qdqppsl.top
+0.0.0.0 qnki.cn
 0.0.0.0 xplbxx.icu
 0.0.0.0 khoqetslh.com
 0.0.0.0 vdpwuxmo.icu

@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-24T01:55:58.484Z
+! Last modified: 2025-02-24T08:33:30.259Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 24 Feb 2025 01:55:53 +0000
+# Last converted - Mon, 24 Feb 2025 08:33:24 +0000
 #
 
 ||adtarget.biz^
@@ -15873,7 +15873,6 @@
 ||mnetads.com^
 ||mnevjhg.com^
 ||mng-ads.com^
-||mngusr.com^
 ||mnhjk.com^
 ||mnhjkl.com^
 ||mntft.com^
@@ -31601,6 +31600,7 @@
 ||danatrak.com^
 ||optiyield.opti-digital.com^
 ||twitter.sx^
+||view.mngusr.com^
 ||cdn.q0losid.com^
 ||tags.fullcontact.com^
 ||matomo.akbal.dev^
@@ -49888,6 +49888,8 @@
 ||chuundads.com^
 ||xvvfpsmp.icu^
 ||phxdrf.icu^
+||qdqppsl.top^
+||qnki.cn^
 ||xplbxx.icu^
 ||khoqetslh.com^
 ||vdpwuxmo.icu^
