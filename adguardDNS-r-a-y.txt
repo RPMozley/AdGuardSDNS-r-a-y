@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-25T01:55:13.138Z
+! Last modified: 2025-02-25T08:32:42.768Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 25 Feb 2025 01:55:08 +0000
+# Last converted - Tue, 25 Feb 2025 08:32:37 +0000
 #
 
 ||adtarget.biz^
@@ -35265,6 +35265,7 @@
 ||wizaly.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
+||clientlogger.marketplace.aws.a2z.com^
 ||mercury.books.com.tw^
 ||ganon.yahoo.com^
 ||udc.yahoo.com^
@@ -43901,7 +43902,10 @@
 ||classic.avantlink.com^
 ||clientcdn.pushengage.com^
 ||cl-eu2.k5a.io^
+||cl-eu3.k5a.io^
 ||cl-eu4.k5a.io^
+||cl-eu5.k5a.io^
+||cl-eu6.k5a.io^
 ||cncpt.dk^
 ||cncptx.com^
 ||cncpt-central.com^
@@ -49970,6 +49974,10 @@
 ||bidotz.icu^
 ||nktydx.icu^
 ||scohmallt.com^
+||lvnr.cn^
+||znlvhnej.icu^
+||okwjmii.top^
+||onjncgq.top^
 ||dfhthh.icu^
 ||chuundads.com^
 ||xvvfpsmp.icu^
