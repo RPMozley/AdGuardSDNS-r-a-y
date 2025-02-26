@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-02-26T01:54:40.789Z
+! Last modified: 2025-02-26T08:33:04.605Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 26 Feb 2025 01:54:35 +0000
+# Last converted - Wed, 26 Feb 2025 08:32:55 +0000
 #
 
 ||demand.supply^
@@ -28782,6 +28782,7 @@
 ||nster.net^
 ||ntent.com^
 ||numbers.md^
+||o.socoms.net^
 ||oboxads.com^
 ||oceanwebcraft.com^
 ||ocelot.studio^
@@ -50037,6 +50038,7 @@
 ||zlzgfj.icu^
 ||lnptph.icu^
 ||pisb.cn^
+||dyyygyg.top^
 ||druqodrly.com^
 ||bidotz.icu^
 ||nktydx.icu^
@@ -50045,6 +50047,7 @@
 ||znlvhnej.icu^
 ||okwjmii.top^
 ||onjncgq.top^
+||o02260aokk.com^
 ||o02251aokk.com^
 ||pheidheat.com^
 ||thampheth.com^
