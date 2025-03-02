@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 02 Mar 2025 08:29:30 +0000
+# Last converted - Sun, 02 Mar 2025 16:30:27 +0000
 #
 
 0.0.0.0 pnwrs5xz.click
@@ -50419,6 +50419,7 @@
 0.0.0.0 rhzofr.icu
 0.0.0.0 wumd.cn
 0.0.0.0 gmwqpgq.top
+0.0.0.0 aillaeuyn.com
 0.0.0.0 eelkeageg.com
 0.0.0.0 kczq.cn
 0.0.0.0 zcnmjb.icu
@@ -55071,6 +55072,8 @@
 0.0.0.0 tradergpt.ai
 0.0.0.0 mat-pnu.ir
 0.0.0.0 androidupdate.download
+0.0.0.0 159.100.22.89
+0.0.0.0 ewpb.site
 0.0.0.0 planad.net
 0.0.0.0 aedi.ai
 0.0.0.0 mobon.net
