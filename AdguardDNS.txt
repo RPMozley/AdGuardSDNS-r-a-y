@@ -1,9 +1,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 05 Mar 2025 08:33:36 +0000
+# Last converted - Wed, 05 Mar 2025 16:40:16 +0000
 #
 
+0.0.0.0 banner-iframe.com
 0.0.0.0 pnwrs5xz.click
 0.0.0.0 demand.supply
 0.0.0.0 seeptoafuko.com
@@ -12589,6 +12590,7 @@
 0.0.0.0 hrenbjkdas.com
 0.0.0.0 hrfdulynyo.xyz
 0.0.0.0 hrihfiocc.com
+0.0.0.0 hrjbylofyso.com
 0.0.0.0 hrmdw8da.net
 0.0.0.0 hrogrpee.de
 0.0.0.0 hrtennaarn.com
@@ -13999,6 +14001,7 @@
 0.0.0.0 justrelevant.com
 0.0.0.0 justservingfiles.net
 0.0.0.0 jutyledu.pro
+0.0.0.0 juvjimicwbauuw.com
 0.0.0.0 juzaugleed.com
 0.0.0.0 juztjtsxbojdj.com
 0.0.0.0 jvcjnmd.com
@@ -18002,6 +18005,7 @@
 0.0.0.0 optyruntchan.com
 0.0.0.0 optzsrv.com
 0.0.0.0 opvanillishan.com
+0.0.0.0 opzvalfafh.com
 0.0.0.0 oqbaxgolrabl.com
 0.0.0.0 oqddkgixmqhovv.xyz
 0.0.0.0 oqejupqb.xyz
@@ -21422,6 +21426,7 @@
 0.0.0.0 rkdpzcdehop.fun
 0.0.0.0 rkgwzfwjgk.com
 0.0.0.0 rkhovdiminatedmo.org
+0.0.0.0 rkksbrkwdqbop.com
 0.0.0.0 rknwwtg.com
 0.0.0.0 rkomf.com
 0.0.0.0 rkoohcakrfu.com
@@ -22790,6 +22795,7 @@
 0.0.0.0 sketchyrecycleimpose.com
 0.0.0.0 sketfarinha.shop
 0.0.0.0 skewserer.com
+0.0.0.0 skgpzivadwdte.buzz
 0.0.0.0 skhmjezzj.com
 0.0.0.0 skibbybester.top
 0.0.0.0 skidgleambrand.com
@@ -24276,6 +24282,7 @@
 0.0.0.0 tediousgorgefirst.com
 0.0.0.0 tedtaxi.com
 0.0.0.0 tedtug.com
+0.0.0.0 teedastoowu.net
 0.0.0.0 teeglimu.com
 0.0.0.0 teemmachinerydiffer.com
 0.0.0.0 teemooge.net
@@ -26267,6 +26274,7 @@
 0.0.0.0 vigorouslymicrophone.com
 0.0.0.0 vigourmotorcyclepriority.com
 0.0.0.0 vigsole.com
+0.0.0.0 vihbuposxci.com
 0.0.0.0 vihub.ru
 0.0.0.0 viibest.com
 0.0.0.0 viibmmqc.com
@@ -32135,6 +32143,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 24support.cc
 0.0.0.0 a.hit360.tech
 0.0.0.0 analytics.ahrefs.com
 0.0.0.0 gcprivacy.com
@@ -40780,6 +40789,7 @@
 0.0.0.0 templates.buscape.com
 0.0.0.0 yestorrents.org
 0.0.0.0 oecistbenton.com
+0.0.0.0 nanthou.life
 0.0.0.0 video.agenteimmobiliare.info
 0.0.0.0 wrapper.bracdn.online
 0.0.0.0 bolayaros.com
@@ -50528,6 +50538,7 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 hbxmdf.icu
 0.0.0.0 ojmv.cn
+0.0.0.0 rvgtaai.top
 0.0.0.0 nhur.cn
 0.0.0.0 bybrrn.icu
 0.0.0.0 hmjmjz.icu

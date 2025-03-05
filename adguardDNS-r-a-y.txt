@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-05T08:33:57.626Z
+! Last modified: 2025-03-05T16:40:24.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.37
 !
@@ -12,8 +12,9 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 05 Mar 2025 08:33:36 +0000
+# Last converted - Wed, 05 Mar 2025 16:40:16 +0000
 #
+||banner-iframe.com^
 ||pnwrs5xz.click^
 ||demand.supply^
 ||seeptoafuko.com^
@@ -12564,6 +12565,7 @@
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
 ||hrihfiocc.com^
+||hrjbylofyso.com^
 ||hrmdw8da.net^
 ||hrogrpee.de^
 ||hrtennaarn.com^
@@ -13974,6 +13976,7 @@
 ||justrelevant.com^
 ||justservingfiles.net^
 ||jutyledu.pro^
+||juvjimicwbauuw.com^
 ||juzaugleed.com^
 ||juztjtsxbojdj.com^
 ||jvcjnmd.com^
@@ -17977,6 +17980,7 @@
 ||optyruntchan.com^
 ||optzsrv.com^
 ||opvanillishan.com^
+||opzvalfafh.com^
 ||oqbaxgolrabl.com^
 ||oqddkgixmqhovv.xyz^
 ||oqejupqb.xyz^
@@ -21397,6 +21401,7 @@
 ||rkdpzcdehop.fun^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
+||rkksbrkwdqbop.com^
 ||rknwwtg.com^
 ||rkomf.com^
 ||rkoohcakrfu.com^
@@ -22765,6 +22770,7 @@
 ||sketchyrecycleimpose.com^
 ||sketfarinha.shop^
 ||skewserer.com^
+||skgpzivadwdte.buzz^
 ||skhmjezzj.com^
 ||skibbybester.top^
 ||skidgleambrand.com^
@@ -24251,6 +24257,7 @@
 ||tediousgorgefirst.com^
 ||tedtaxi.com^
 ||tedtug.com^
+||teedastoowu.net^
 ||teeglimu.com^
 ||teemmachinerydiffer.com^
 ||teemooge.net^
@@ -26242,6 +26249,7 @@
 ||vigorouslymicrophone.com^
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
+||vihbuposxci.com^
 ||vihub.ru^
 ||viibest.com^
 ||viibmmqc.com^
@@ -32108,6 +32116,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||24support.cc^
 ||a.hit360.tech^
 ||analytics.ahrefs.com^
 ||gcprivacy.com^
@@ -40743,6 +40752,7 @@
 ||templates.buscape.com^
 ||yestorrents.org^
 ||oecistbenton.com^
+||nanthou.life^
 ||video.agenteimmobiliare.info^
 ||wrapper.bracdn.online^
 ||bolayaros.com^
@@ -50469,6 +50479,7 @@
 ||cnzz.trafficmanager.net^
 ||hbxmdf.icu^
 ||ojmv.cn^
+||rvgtaai.top^
 ||nhur.cn^
 ||bybrrn.icu^
 ||hmjmjz.icu^
