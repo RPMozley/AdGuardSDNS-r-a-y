@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-04T16:34:48.293Z
+! Last modified: 2025-03-05T01:57:13.876Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.37
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 04 Mar 2025 16:34:40 +0000
+# Last converted - Wed, 05 Mar 2025 01:57:06 +0000
 #
 ||pnwrs5xz.click^
 ||demand.supply^
@@ -5874,6 +5874,7 @@
 ||catwenbat.com^
 ||catwisekusan.com^
 ||catwrite.com^
+||caudatedaystar.top^
 ||caukoaph.net^
 ||cauldronrepellentcanvass.com^
 ||caulicuzooque.net^
@@ -11592,6 +11593,7 @@
 ||greepseedrobouk.net^
 ||greerogloo.net^
 ||greeter.me^
+||greeterstaniel.com^
 ||greetpanda.org^
 ||greewepi.net^
 ||greezoob.net^
@@ -11720,6 +11722,7 @@
 ||grurawho.com^
 ||grushoungy.com^
 ||grutauvoomtoard.net^
+||grutsokucaiftoa.com^
 ||gruwzapcst.com^
 ||grwp3.com^
 ||grygrothapi.pro^
@@ -19046,6 +19049,7 @@
 ||pitchedvalleyspageant.com^
 ||piteevoo.com^
 ||pitshopsat.com^
+||pittardhectare.com^
 ||pitycultural.com^
 ||pityneedsdads.com^
 ||pitysuffix.com^
@@ -19293,6 +19297,7 @@
 ||politesewer.com^
 ||politiciancuckoo.com^
 ||polityimpetussensible.com^
+||pollentdalaga.shop^
 ||pollpublicly.com^
 ||pollutiongram.com^
 ||polluxnetwork.com^
@@ -19982,6 +19987,7 @@
 ||ptongouh.net^
 ||ptoockex.xyz^
 ||ptookaih.net^
+||ptookirgoonsa.com^
 ||ptoorauptoud.net^
 ||ptootsailrou.net^
 ||ptootseegle.net^
@@ -21451,6 +21457,7 @@
 ||roboticourali.com^
 ||robotrenamed.com^
 ||robspabah.com^
+||rocheachaja.com^
 ||rochesterbreedpersuade.com^
 ||rochestertrend.com^
 ||rockersbaalize.com^
@@ -22517,6 +22524,7 @@
 ||sholraidsoalro.net^
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
+||shoofabhalu.com^
 ||shoojoudro.net^
 ||shoojouh.xyz^
 ||shooltuca.net^
@@ -23568,6 +23576,7 @@
 ||stoopsellers.com^
 ||stooreywauns.com^
 ||stoorgel.com^
+||stoorgouzoy.com^
 ||stootsou.net^
 ||stopaggregation.com^
 ||stopformal.com^
@@ -23694,6 +23703,7 @@
 ||stughoamoono.net^
 ||stugsoda.com^
 ||stukroapseds.net^
+||stulmunshent.com^
 ||stummedperca.top^
 ||stunliver.com^
 ||stunning-lift.com^
@@ -24582,6 +24592,7 @@
 ||thursejokers.top^
 ||thusenteringhypocrisy.com^
 ||thuthoock.net^
+||thyinegutnic.com^
 ||thymeycimnel.com^
 ||thymilogium.top^
 ||thyobscure.com^
@@ -24644,6 +24655,7 @@
 ||tinaheinheri.org^
 ||tinbuadserv.com^
 ||tingecauyuksehin.com^
+||tingesfosses.com^
 ||tingexcelelernodyden.info^
 ||tingisincused.com^
 ||tingswifing.click^
@@ -24666,6 +24678,7 @@
 ||tirecolloquialinterest.com^
 ||tireconfessed.com^
 ||tireconnateunion.com^
+||tiredpause.com^
 ||tirejav12.fun^
 ||tirepoliticsspeedometer.com^
 ||tiresomemarkstwelve.com^
@@ -27677,6 +27690,7 @@
 ||y1jxiqds7v.com^
 ||y1zoxngxp.com^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
+||yackedcuttage.com^
 ||yaervrqwtu.com^
 ||yahuu.org^
 ||yakvssigg.xyz^
@@ -35732,6 +35746,7 @@
 ||wizaly.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||tagman.britishairways.com^
+||logs.viewstats.com^
 ||mystats.flixfiend.top^
 ||utiq.pcgames.de^
 ||ca-log.cafe24data.com^
@@ -50451,6 +50466,7 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||hbxmdf.icu^
 ||nhur.cn^
 ||bybrrn.icu^
 ||hmjmjz.icu^
@@ -54900,7 +54916,6 @@
 ||ad.viewus.co.kr^
 ||z.o00.kr^
 ||ms.applvn.com^
-||external-ad.bunjang.co.kr^
 ||img.side.mythiell.com^
 ||static.tpmn.co.kr^
 ||js.newsmobile.co.kr^
