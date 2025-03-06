@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 06 Mar 2025 01:57:05 +0000
+# Last converted - Thu, 06 Mar 2025 08:32:49 +0000
 #
 
 0.0.0.0 avads.live
@@ -50565,6 +50565,9 @@
 0.0.0.0 rvgtaai.top
 0.0.0.0 vwvj.cn
 0.0.0.0 fpfhtr.icu
+0.0.0.0 frthpp.icu
+0.0.0.0 ixtu.cn
+0.0.0.0 gjinuqg.top
 0.0.0.0 nhur.cn
 0.0.0.0 bybrrn.icu
 0.0.0.0 hmjmjz.icu
