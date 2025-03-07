@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 07 Mar 2025 01:57:45 +0000
+# Last converted - Fri, 07 Mar 2025 08:32:43 +0000
 #
 
 0.0.0.0 btloader.com
@@ -86954,6 +86954,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 logs.nebulahoroscope.com
 0.0.0.0 braveglobal.tv
 0.0.0.0 insights.alibaba.com
 0.0.0.0 mssdk-boot.cpacutapi.com
@@ -99012,6 +99013,8 @@
 0.0.0.0 hbxmdf.icu
 0.0.0.0 dupzbh.icu
 0.0.0.0 jixurt.icu
+0.0.0.0 exocoed.top
+0.0.0.0 zjen.cn
 0.0.0.0 qogonsuqq.com
 0.0.0.0 ojmv.cn
 0.0.0.0 rvgtaai.top
