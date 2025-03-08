@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-07T16:33:10.505Z
+! Last modified: 2025-03-08T01:34:03.159Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 07 Mar 2025 16:33:03 +0000
+# Last converted - Sat, 08 Mar 2025 01:33:55 +0000
 #
 ||btloader.com^
 ||anewfeedliberty.com^
@@ -7070,6 +7070,7 @@
 ||abzaligtwd.com^
 ||acacdn.com^
 ||acaciagrownborrowing.com^
+||academic-level.pro^
 ||academyblocked.com^
 ||academyenrage.com^
 ||acalraiz.xyz^
@@ -7216,6 +7217,7 @@
 ||adasgmp.cc^
 ||adasgsts.cc^
 ||adb7rtb.com^
+||adbbihbmyki.com^
 ||adbison-redirect.com^
 ||adbit.co^
 ||adblck.com^
@@ -11255,6 +11257,7 @@
 ||cigaretteintervals.com^
 ||cigarettenotablymaker.com^
 ||cigfhaztaqu.com^
+||cigoadrouz.com^
 ||ciizxsdr.com^
 ||cijoorsairgusa.com^
 ||ciksolre.net^
@@ -13672,6 +13675,7 @@
 ||dwqjaehnk.com^
 ||dwvbfnqrbif.com^
 ||dwydqnclgflug.com^
+||dxfxprblebylv.com^
 ||dxmjyxksvc.com^
 ||dxouwbn7o.com^
 ||dxtv1.com^
@@ -16062,6 +16066,7 @@
 ||glaignatsensah.xyz^
 ||glaijauk.xyz^
 ||glaikrolsoa.com^
+||glaiksoachou.com^
 ||glairsbecchi.top^
 ||glaisseexoar.net^
 ||glaiwhee.net^
@@ -16412,6 +16417,7 @@
 ||grantedpigsunborn.com^
 ||granthspillet.top^
 ||grantinsanemerriment.com^
+||grapefruitstarchbeep.com^
 ||graphnitriot.com^
 ||grapseex.com^
 ||graptaupsi.net^
@@ -16906,6 +16912,7 @@
 ||haxbyq.com^
 ||haychalk.com^
 ||haymowsrakily.com^
+||haywirewooled.com^
 ||hazelhideous.com^
 ||hazelmarks.com^
 ||hazelocomotive.com^
@@ -17093,6 +17100,7 @@
 ||hfiwcuodr.com^
 ||hfkncj-qalcg.top^
 ||hfnnkvuig.com^
+||hfogzeaggalh.com^
 ||hfpmjbfhyau.com^
 ||hfpuhwqi.xyz^
 ||hg-bn.com^
@@ -17542,6 +17550,7 @@
 ||hutlockshelter.com^
 ||hutoumseet.com^
 ||huwuftie.com^
+||huxitsaise.net^
 ||huzzahscurl.top^
 ||huzzasbakula.shop^
 ||hvert.site^
@@ -18908,6 +18917,7 @@
 ||kanoodle.com^
 ||kantiwl.com^
 ||kaorpyqtjjld.com^
+||kapnqcbhdxjfokr.com^
 ||kaqppajmofte.com^
 ||karafutem.com^
 ||karaiterather.shop^
@@ -19404,6 +19414,7 @@
 ||languidintentgained.com^
 ||lanknewcomer.com^
 ||lanky-bar.com^
+||lankyteaching.com^
 ||lanopoon.net^
 ||lansaimplemuke.com^
 ||lantodomirus.com^
@@ -24768,6 +24779,7 @@
 ||ptexognouh.xyz^
 ||ptichoolsougn.net^
 ||ptidsezi.com^
+||ptifaustounsaz.com^
 ||ptipsixo.com^
 ||ptipsout.net^
 ||ptirgaux.com^
@@ -29681,6 +29693,7 @@
 ||tqaiowbyilodx.com^
 ||tqlkg.com^
 ||tqnupxrwvo.com^
+||tqrgivpfygemxft.com^
 ||tquvbfl.com^
 ||tr-boost.com^
 ||tr-bouncer.com^
@@ -30212,6 +30225,7 @@
 ||uepkcdjgp.com^
 ||uetplfqbet.com^
 ||ueykjfltxqsb.space^
+||ufachoustoh.net^
 ||ufaexpert.com^
 ||ufewhistug.net^
 ||ufiledsit.com^
@@ -36860,6 +36874,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||browsercfg-drcn.cloud.dbankcloud.cn^
 ||govisibl.io^
 ||tver-metrics.streaks.jp^
 ||24support.cc^
@@ -84341,6 +84356,7 @@
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
+||logs.getfiddler.com^
 ||dsbahmgppc0j4.cloudfront.net^
 ||logs.viewstats.com^
 ||mystats.flixfiend.top^
@@ -98961,6 +98977,10 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||thustilpn.com^
+||nrgv.cn^
+||hltpdd.icu^
+||bxlulr.icu^
+||stralotsb.com^
 ||hbxmdf.icu^
 ||dupzbh.icu^
 ||jixurt.icu^
