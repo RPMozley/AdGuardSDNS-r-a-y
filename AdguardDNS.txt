@@ -1,9 +1,12 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Mar 2025 08:34:09 +0000
+# Last converted - Wed, 12 Mar 2025 16:35:18 +0000
 #
 
+0.0.0.0 dullequivalent.com
+0.0.0.0 travelpayouts.com
+0.0.0.0 red-swimming.com
 0.0.0.0 tds.favbet.partners
 0.0.0.0 pbl3citto.com
 0.0.0.0 soonpubplatform.online
@@ -86726,6 +86729,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logs.nebulahoroscope.com
 0.0.0.0 braveglobal.tv
 0.0.0.0 insights.alibaba.com
@@ -91180,6 +91184,7 @@
 0.0.0.0 ads2native.com
 0.0.0.0 hdvmyo.com
 0.0.0.0 adsy.mail.bg
+0.0.0.0 dontmakethem.club
 0.0.0.0 subaxe.xyz
 0.0.0.0 dahmnrmhyhsjxx.com
 0.0.0.0 rogxwgqovb.com

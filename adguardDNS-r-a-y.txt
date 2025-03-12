@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-12T08:34:18.006Z
+! Last modified: 2025-03-12T16:35:25.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12,8 +12,11 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Mar 2025 08:34:09 +0000
+# Last converted - Wed, 12 Mar 2025 16:35:18 +0000
 #
+||dullequivalent.com^
+||travelpayouts.com^
+||red-swimming.com^
 ||tds.favbet.partners^
 ||pbl3citto.com^
 ||soonpubplatform.online^
@@ -86691,6 +86694,7 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||logservice.dbankcloud.cn^
 ||logs.nebulahoroscope.com^
 ||braveglobal.tv^
 ||insights.alibaba.com^
@@ -91126,6 +91130,7 @@
 ||ads2native.com^
 ||hdvmyo.com^
 ||adsy.mail.bg^
+||dontmakethem.club^
 ||subaxe.xyz^
 ||dahmnrmhyhsjxx.com^
 ||rogxwgqovb.com^
