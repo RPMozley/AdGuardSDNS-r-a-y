@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-12T01:57:05.368Z
+! Last modified: 2025-03-12T08:34:18.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Mar 2025 01:56:55 +0000
+# Last converted - Wed, 12 Mar 2025 08:34:09 +0000
 #
 ||tds.favbet.partners^
 ||pbl3citto.com^
@@ -84103,6 +84103,8 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||acweb.clog.jp^
+||ta.pinduoduo.com^
+||th.pinduoduo.com^
 ||gtr1.yes24.com^
 ||logs.getfiddler.com^
 ||dsbahmgppc0j4.cloudfront.net^
@@ -98729,6 +98731,9 @@
 ||ecatqefal.com^
 ||jjfufv.icu^
 ||scesqoikq.com^
+||oajv.cn^
+||cigoqcq.top^
+||sbqg7jylmzsym.top^
 ||dtjcvd.icu^
 ||vragridsn.com^
 ||tpkv.cn^

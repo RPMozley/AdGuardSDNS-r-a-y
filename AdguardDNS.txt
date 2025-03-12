@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 12 Mar 2025 01:56:55 +0000
+# Last converted - Wed, 12 Mar 2025 08:34:09 +0000
 #
 
 0.0.0.0 tds.favbet.partners
@@ -84137,6 +84137,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 acweb.clog.jp
+0.0.0.0 ta.pinduoduo.com
+0.0.0.0 th.pinduoduo.com
 0.0.0.0 gtr1.yes24.com
 0.0.0.0 logs.getfiddler.com
 0.0.0.0 dsbahmgppc0j4.cloudfront.net
@@ -98788,6 +98790,9 @@
 0.0.0.0 ecatqefal.com
 0.0.0.0 jjfufv.icu
 0.0.0.0 scesqoikq.com
+0.0.0.0 oajv.cn
+0.0.0.0 cigoqcq.top
+0.0.0.0 sbqg7jylmzsym.top
 0.0.0.0 dtjcvd.icu
 0.0.0.0 vragridsn.com
 0.0.0.0 tpkv.cn
