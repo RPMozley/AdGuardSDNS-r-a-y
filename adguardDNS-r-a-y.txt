@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-13T01:58:52.743Z
+! Last modified: 2025-03-13T08:34:05.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 13 Mar 2025 01:58:45 +0000
+# Last converted - Thu, 13 Mar 2025 08:33:56 +0000
 #
 ||organicowner.com^
 ||woeful-trash.pro^
@@ -86966,6 +86966,7 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||cnlogs.umengcloud.com^
 ||logservice.dbankcloud.cn^
 ||logs.nebulahoroscope.com^
 ||braveglobal.tv^
@@ -87474,6 +87475,8 @@
 ||patriot.cs.pp.cn^
 ||sdk-orion.appboy.com^
 ||io.narrative.io^
+||api.mixpanel.com^
+||decide.mixpanel.com^
 ||applog.uc.cn^
 ||dispatcher.upmc.uc.cn^
 ||gjapplog.uc.cn^
@@ -99007,6 +99010,8 @@
 ||straldrier.com^
 ||fajkhr.icu^
 ||hmbprf.icu^
+||qkax.cn^
+||apiiksn.top^
 ||hxnpxh.icu^
 ||ecatqefal.com^
 ||jjfufv.icu^

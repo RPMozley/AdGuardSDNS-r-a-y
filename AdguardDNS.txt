@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 13 Mar 2025 01:58:45 +0000
+# Last converted - Thu, 13 Mar 2025 08:33:56 +0000
 #
 
 0.0.0.0 organicowner.com
@@ -87001,6 +87001,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logs.nebulahoroscope.com
 0.0.0.0 braveglobal.tv
@@ -87509,6 +87510,8 @@
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 io.narrative.io
+0.0.0.0 api.mixpanel.com
+0.0.0.0 decide.mixpanel.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 gjapplog.uc.cn
@@ -99066,6 +99069,8 @@
 0.0.0.0 straldrier.com
 0.0.0.0 fajkhr.icu
 0.0.0.0 hmbprf.icu
+0.0.0.0 qkax.cn
+0.0.0.0 apiiksn.top
 0.0.0.0 hxnpxh.icu
 0.0.0.0 ecatqefal.com
 0.0.0.0 jjfufv.icu
