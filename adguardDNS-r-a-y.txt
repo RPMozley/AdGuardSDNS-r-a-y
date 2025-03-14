@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-14T01:57:06.387Z
+! Last modified: 2025-03-14T08:32:20.159Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 14 Mar 2025 01:56:57 +0000
+# Last converted - Fri, 14 Mar 2025 08:32:09 +0000
 #
 ||organicowner.com^
 ||woeful-trash.pro^
@@ -11073,6 +11073,7 @@
 ||clankexpelledidentification.com^
 ||claresovinae.com^
 ||clarifyeloquentblackness.com^
+||clarity.ms^
 ||claspdressmakerburka.com^
 ||claspeddeceiveposter.com^
 ||claspedtwelve.com^
@@ -18057,6 +18058,7 @@
 ||jaineshy.com^
 ||jaiphoaptom.net^
 ||jalapicundelve.top^
+||jaletcatena.com^
 ||jaletemetia.com^
 ||jalewaads.com^
 ||jambosmodesty.com^
@@ -36237,6 +36239,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||umeng.com^
 ||weborama-tech.ru^
 ||qualaroo.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
@@ -37210,7 +37213,6 @@
 ||channel-analysis-js.gmw.cn^
 ||kaiseki-website.com^
 ||site-kaiseki-tool.com^
-||clarity.ms^
 ||plugins.soclminer.com.br^
 ||adrizer.com^
 ||contentsfeed.com^
@@ -87015,6 +87017,9 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||nr.bidderstack.com^
+||stbid.ru^
+||stat.nsc-lab.io^
 ||cnlogs.umengcloud.com^
 ||logservice.dbankcloud.cn^
 ||logs.nebulahoroscope.com^
@@ -87081,7 +87086,6 @@
 ||tracking.ws.eurosport.com^
 ||analysis.polarisoffice.com^
 ||fraudmetrix.cn^
-||plbslog.umeng.com^
 ||analysys.cn^
 ||logs.supersonic.com^
 ||mssdk-va.byteoversea.com^
@@ -87325,14 +87329,12 @@
 ||psi.lbesecapi.com^
 ||report-ps.meettech.net^
 ||msg.umengcloud.com^
-||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||analytics.liveact-vault.com^
 ||analytics.300624.com^
 ||toblog.ctobsnssdk.com^
 ||tobapplog.ctobsnssdk.com^
 ||t.castle.io^
-||alogsus.umeng.com^
 ||log1.happymod.com^
 ||log.pvpgang.com^
 ||crs-event.line.me^
@@ -87395,8 +87397,6 @@
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||pingtas.qq.com^
-||alogus.umeng.com^
-||errlogos.umeng.com^
 ||tenant-content.apm.appfolio-analytics.com^
 ||log.avlyun.com^
 ||api-analytics.prod.birdapp.com^
@@ -87537,7 +87537,6 @@
 ||api.uca.cloud.unity3d.com^
 ||resolver.gslb.mi-idc.com^
 ||geoip.ifunny.co^
-||alogs.umeng.com^
 ||alogs.umengcloud.com^
 ||4seeresults.com^
 ||adash.m.taobao.com^
@@ -87545,7 +87544,6 @@
 ||adserver.snapads.com^
 ||adsunflower.com^
 ||advmob.cn^
-||alog.umeng.com^
 ||alog.umengcloud.com^
 ||amp-error-reporting.appspot.com^
 ||analytics.mobile.yandex.net^
@@ -87560,7 +87558,6 @@
 ||api.gimbal.com^
 ||appmetrica.yandex.net^
 ||appmetrica.yandex.com^
-||ar.umeng.com^
 ||beacon.carfax.com^
 ||beacon.shazam.com^
 ||beha.ksmobile.com^
@@ -87589,7 +87586,6 @@
 ||nativesdks.mparticle.com^
 ||nlog.droid4x.cn^
 ||nrc.tapas.net^
-||oc.umeng.com^
 ||pingma.qq.com^
 ||prugskh.com^
 ||prugskh.net^
@@ -94488,6 +94484,7 @@
 ||010172.com^
 ||08ro35delw.ru^
 ||0fb.co^
+||0fb.info^
 ||0fb.ltd^
 ||113-bca.online^
 ||11tiki.com^
@@ -95234,6 +95231,8 @@
 ||expressmoney.cc^
 ||facabook.id.vn^
 ||face-book.co^
+||faceb.me^
+||faceb.pro^
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
 ||facebook10002158.blogspot.com^
@@ -95269,6 +95268,7 @@
 ||fe-shop.cc^
 ||fe.lwcvn.com^
 ||feacbookk.com^
+||fecabooke.com^
 ||fecabookk.com^
 ||fefqkn.org^
 ||ff-garena-membership-2021.com^
@@ -96765,6 +96765,7 @@
 ||proapkcrack.com^
 ||procfullcracked.com^
 ||procrackfree.com^
+||profile-id.co^
 ||profileid.info^
 ||profileid.site^
 ||prolicensekeys.com^
@@ -97915,6 +97916,7 @@
 ||tinlequa365.com^
 ||tinlocvang123.com^
 ||tinnhanh24gio.com^
+||tinnong.info^
 ||tinnong.xyz^
 ||tinsukien2021vn.com^
 ||tinthuongtrian.com^
@@ -97926,6 +97928,7 @@
 ||tintrian2022.com^
 ||tintuc-24h.com^
 ||tintucnganhang.fun^
+||tintucnhanh.online^
 ||tinvay.vn^
 ||tinvietttt.com^
 ||titki55.cc^
@@ -98574,6 +98577,7 @@
 ||vinpearl1.vingroupsny.com^
 ||vip-dien-mayxanh.com^
 ||vip-dienmayxanh.com^
+||vip1-droppii.com^
 ||vip8591.net^
 ||vipcard-vib.com^
 ||vipgooshop.com^
@@ -98620,6 +98624,7 @@
 ||vn-eid.com^
 ||vn-email.shop^
 ||vn-express.net^
+||vn-exprress.site^
 ||vn-findmy.com^
 ||vn-hc.info^
 ||vn-i.cloud^
@@ -99060,6 +99065,8 @@
 ||xielloltv.com^
 ||lqfctb.icu^
 ||fpxhdx.icu^
+||xbfk.cn^
+||pdochgl.top^
 ||straldrier.com^
 ||fajkhr.icu^
 ||hmbprf.icu^

@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 14 Mar 2025 01:56:57 +0000
+# Last converted - Fri, 14 Mar 2025 08:32:09 +0000
 #
 
 0.0.0.0 organicowner.com
@@ -11098,6 +11098,7 @@
 0.0.0.0 clankexpelledidentification.com
 0.0.0.0 claresovinae.com
 0.0.0.0 clarifyeloquentblackness.com
+0.0.0.0 clarity.ms
 0.0.0.0 claspdressmakerburka.com
 0.0.0.0 claspeddeceiveposter.com
 0.0.0.0 claspedtwelve.com
@@ -18082,6 +18083,7 @@
 0.0.0.0 jaineshy.com
 0.0.0.0 jaiphoaptom.net
 0.0.0.0 jalapicundelve.top
+0.0.0.0 jaletcatena.com
 0.0.0.0 jaletemetia.com
 0.0.0.0 jalewaads.com
 0.0.0.0 jambosmodesty.com
@@ -36264,6 +36266,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 umeng.com
 0.0.0.0 weborama-tech.ru
 0.0.0.0 qualaroo.com
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
@@ -37237,7 +37240,6 @@
 0.0.0.0 channel-analysis-js.gmw.cn
 0.0.0.0 kaiseki-website.com
 0.0.0.0 site-kaiseki-tool.com
-0.0.0.0 clarity.ms
 0.0.0.0 plugins.soclminer.com.br
 0.0.0.0 adrizer.com
 0.0.0.0 contentsfeed.com
@@ -87050,6 +87052,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 nr.bidderstack.com
+0.0.0.0 stbid.ru
+0.0.0.0 stat.nsc-lab.io
 0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logs.nebulahoroscope.com
@@ -87116,7 +87121,6 @@
 0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 fraudmetrix.cn
-0.0.0.0 plbslog.umeng.com
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
 0.0.0.0 mssdk-va.byteoversea.com
@@ -87360,14 +87364,12 @@
 0.0.0.0 psi.lbesecapi.com
 0.0.0.0 report-ps.meettech.net
 0.0.0.0 msg.umengcloud.com
-0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 analytics.liveact-vault.com
 0.0.0.0 analytics.300624.com
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 t.castle.io
-0.0.0.0 alogsus.umeng.com
 0.0.0.0 log1.happymod.com
 0.0.0.0 log.pvpgang.com
 0.0.0.0 crs-event.line.me
@@ -87430,8 +87432,6 @@
 0.0.0.0 tracking-config-service.glority.com
 0.0.0.0 tracking-service.glority.com
 0.0.0.0 pingtas.qq.com
-0.0.0.0 alogus.umeng.com
-0.0.0.0 errlogos.umeng.com
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 api-analytics.prod.birdapp.com
@@ -87572,7 +87572,6 @@
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 geoip.ifunny.co
-0.0.0.0 alogs.umeng.com
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 4seeresults.com
 0.0.0.0 adash.m.taobao.com
@@ -87580,7 +87579,6 @@
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adsunflower.com
 0.0.0.0 advmob.cn
-0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 analytics.mobile.yandex.net
@@ -87595,7 +87593,6 @@
 0.0.0.0 api.gimbal.com
 0.0.0.0 appmetrica.yandex.net
 0.0.0.0 appmetrica.yandex.com
-0.0.0.0 ar.umeng.com
 0.0.0.0 beacon.carfax.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beha.ksmobile.com
@@ -87624,7 +87621,6 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nrc.tapas.net
-0.0.0.0 oc.umeng.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 prugskh.com
 0.0.0.0 prugskh.net
@@ -94547,6 +94543,7 @@
 0.0.0.0 010172.com
 0.0.0.0 08ro35delw.ru
 0.0.0.0 0fb.co
+0.0.0.0 0fb.info
 0.0.0.0 0fb.ltd
 0.0.0.0 113-bca.online
 0.0.0.0 11tiki.com
@@ -95293,6 +95290,8 @@
 0.0.0.0 expressmoney.cc
 0.0.0.0 facabook.id.vn
 0.0.0.0 face-book.co
+0.0.0.0 faceb.me
+0.0.0.0 faceb.pro
 0.0.0.0 faceb00k.com.vn
 0.0.0.0 facebook.c0m.ltd
 0.0.0.0 facebook10002158.blogspot.com
@@ -95328,6 +95327,7 @@
 0.0.0.0 fe-shop.cc
 0.0.0.0 fe.lwcvn.com
 0.0.0.0 feacbookk.com
+0.0.0.0 fecabooke.com
 0.0.0.0 fecabookk.com
 0.0.0.0 fefqkn.org
 0.0.0.0 ff-garena-membership-2021.com
@@ -96824,6 +96824,7 @@
 0.0.0.0 proapkcrack.com
 0.0.0.0 procfullcracked.com
 0.0.0.0 procrackfree.com
+0.0.0.0 profile-id.co
 0.0.0.0 profileid.info
 0.0.0.0 profileid.site
 0.0.0.0 prolicensekeys.com
@@ -97974,6 +97975,7 @@
 0.0.0.0 tinlequa365.com
 0.0.0.0 tinlocvang123.com
 0.0.0.0 tinnhanh24gio.com
+0.0.0.0 tinnong.info
 0.0.0.0 tinnong.xyz
 0.0.0.0 tinsukien2021vn.com
 0.0.0.0 tinthuongtrian.com
@@ -97985,6 +97987,7 @@
 0.0.0.0 tintrian2022.com
 0.0.0.0 tintuc-24h.com
 0.0.0.0 tintucnganhang.fun
+0.0.0.0 tintucnhanh.online
 0.0.0.0 tinvay.vn
 0.0.0.0 tinvietttt.com
 0.0.0.0 titki55.cc
@@ -98633,6 +98636,7 @@
 0.0.0.0 vinpearl1.vingroupsny.com
 0.0.0.0 vip-dien-mayxanh.com
 0.0.0.0 vip-dienmayxanh.com
+0.0.0.0 vip1-droppii.com
 0.0.0.0 vip8591.net
 0.0.0.0 vipcard-vib.com
 0.0.0.0 vipgooshop.com
@@ -98679,6 +98683,7 @@
 0.0.0.0 vn-eid.com
 0.0.0.0 vn-email.shop
 0.0.0.0 vn-express.net
+0.0.0.0 vn-exprress.site
 0.0.0.0 vn-findmy.com
 0.0.0.0 vn-hc.info
 0.0.0.0 vn-i.cloud
@@ -99119,6 +99124,8 @@
 0.0.0.0 xielloltv.com
 0.0.0.0 lqfctb.icu
 0.0.0.0 fpxhdx.icu
+0.0.0.0 xbfk.cn
+0.0.0.0 pdochgl.top
 0.0.0.0 straldrier.com
 0.0.0.0 fajkhr.icu
 0.0.0.0 hmbprf.icu
