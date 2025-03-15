@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-15T08:30:56.846Z
+! Last modified: 2025-03-15T16:30:22.848Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 15 Mar 2025 08:30:49 +0000
+# Last converted - Sat, 15 Mar 2025 16:30:13 +0000
 #
 ||organicowner.com^
 ||woeful-trash.pro^
@@ -33757,6 +33757,7 @@
 ||54199287.xyz^
 ||55766925.xyz^
 ||56514411.xyz^
+||57473094.xyz^
 ||59644010.xyz^
 ||59768910.xyz^
 ||5cc3ac02.xyz^
@@ -36274,6 +36275,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||metrics.nsureapi.com^
 ||umeng.com^
 ||weborama-tech.ru^
 ||qualaroo.com^
@@ -88076,7 +88078,6 @@
 ||metrics.doppiocdn.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
-||metrics.nsureapi.com^
 ||metrics.onshape.com^
 ||metrics.scribblelive.com^
 ||metrix.emagister.com^
@@ -96697,6 +96698,7 @@
 ||nykkky.com^
 ||nzu66938s.com^
 ||nzx65821s.com^
+||offb.info^
 ||offer.great1waytowsuccess.com^
 ||officials-kmspico.com^
 ||ofth546ebr.cfd^
@@ -99108,6 +99110,7 @@
 ||lftcph.icu^
 ||ak03150hou.com^
 ||guqransoq.com^
+||ghegaintp.com^
 ||lmeurbnjs.com^
 ||xielloltv.com^
 ||lqfctb.icu^
