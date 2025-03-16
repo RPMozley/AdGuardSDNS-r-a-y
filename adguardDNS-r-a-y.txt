@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-16T02:04:49.317Z
+! Last modified: 2025-03-16T08:30:17.912Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 16 Mar 2025 02:04:40 +0000
+# Last converted - Sun, 16 Mar 2025 08:30:10 +0000
 #
 ||organicowner.com^
 ||woeful-trash.pro^
@@ -99131,6 +99131,7 @@
 ||mstmsbz.com^
 ||hwxprd.icu^
 ||nrqrbwi.top^
+||cfwlvmg.top^
 ||mvxh.cn^
 ||lftcph.icu^
 ||ak03150hou.com^
