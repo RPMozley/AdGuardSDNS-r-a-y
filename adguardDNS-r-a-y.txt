@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-17T08:34:38.965Z
+! Last modified: 2025-03-17T16:35:30.210Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 17 Mar 2025 08:34:31 +0000
+# Last converted - Mon, 17 Mar 2025 16:35:11 +0000
 #
 ||organicowner.com^
 ||woeful-trash.pro^
@@ -18668,7 +18668,6 @@
 ||keypush.net^
 ||keyrolan.com^
 ||keyuyloap.com^
-||keyvdowallet.me^
 ||keywordblocks.com^
 ||keywordsconnect.com^
 ||kfeuewvbd.com^
@@ -99155,6 +99154,11 @@
 ||nmtkbv.icu^
 ||tmdqlk.top^
 ||bkox.cn^
+||amyapad.top^
+||political-effort.com^
+||tubingacater.com^
+||chorninsm.com^
+||phuustikd.com^
 ||uoqc.cn^
 ||xaiqrania.com^
 ||jipxzz.icu^

@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 17 Mar 2025 08:34:31 +0000
+# Last converted - Mon, 17 Mar 2025 16:35:11 +0000
 #
 
 0.0.0.0 organicowner.com
@@ -18693,7 +18693,6 @@
 0.0.0.0 keypush.net
 0.0.0.0 keyrolan.com
 0.0.0.0 keyuyloap.com
-0.0.0.0 keyvdowallet.me
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywordsconnect.com
 0.0.0.0 kfeuewvbd.com
@@ -99214,6 +99213,11 @@
 0.0.0.0 nmtkbv.icu
 0.0.0.0 tmdqlk.top
 0.0.0.0 bkox.cn
+0.0.0.0 amyapad.top
+0.0.0.0 political-effort.com
+0.0.0.0 tubingacater.com
+0.0.0.0 chorninsm.com
+0.0.0.0 phuustikd.com
 0.0.0.0 uoqc.cn
 0.0.0.0 xaiqrania.com
 0.0.0.0 jipxzz.icu
