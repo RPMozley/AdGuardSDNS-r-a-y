@@ -1,9 +1,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 19 Mar 2025 08:34:44 +0000
+# Last converted - Wed, 19 Mar 2025 16:35:05 +0000
 #
 
+0.0.0.0 nkdccsiwixvzj.world
 0.0.0.0 organicowner.com
 0.0.0.0 woeful-trash.pro
 0.0.0.0 dullequivalent.com
@@ -32755,6 +32756,7 @@
 0.0.0.0 adfinity.pro
 0.0.0.0 adfinix.com
 0.0.0.0 adforgames.com
+0.0.0.0 adforge.io
 0.0.0.0 adfrika.com
 0.0.0.0 adgage.es
 0.0.0.0 adgatemedia.com
@@ -36482,6 +36484,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 venatusmedia.com
 0.0.0.0 metrics.nsureapi.com
 0.0.0.0 umeng.com
 0.0.0.0 weborama-tech.ru
@@ -37524,7 +37527,6 @@
 0.0.0.0 durationmedia.net
 0.0.0.0 s.myangular.life
 0.0.0.0 pointmediatracker.com
-0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 sp.dpgmedia.net
 0.0.0.0 distillery.wistia.com
 0.0.0.0 pipedream.wistia.com
@@ -88776,7 +88778,6 @@
 0.0.0.0 track.untd.com
 0.0.0.0 track.uppromote.com
 0.0.0.0 track.us.org
-0.0.0.0 track.venatusmedia.com
 0.0.0.0 track.vscash.com
 0.0.0.0 track.yfret.com
 0.0.0.0 tracker.au.zitcha.app
@@ -99578,6 +99579,7 @@
 0.0.0.0 xrlzhk.top
 0.0.0.0 nogogey.top
 0.0.0.0 otfy.cn
+0.0.0.0 iyof.cn
 0.0.0.0 fbhkxt.icu
 0.0.0.0 lppfnf.icu
 0.0.0.0 shedranfd.com

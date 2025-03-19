@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-19T08:34:56.127Z
+! Last modified: 2025-03-19T16:35:13.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,9 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 19 Mar 2025 08:34:44 +0000
+# Last converted - Wed, 19 Mar 2025 16:35:05 +0000
 #
+||nkdccsiwixvzj.world^
 ||organicowner.com^
 ||woeful-trash.pro^
 ||dullequivalent.com^
@@ -32730,6 +32731,7 @@
 ||adfinity.pro^
 ||adfinix.com^
 ||adforgames.com^
+||adforge.io^
 ||adfrika.com^
 ||adgage.es^
 ||adgatemedia.com^
@@ -36455,6 +36457,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||venatusmedia.com^
 ||metrics.nsureapi.com^
 ||umeng.com^
 ||weborama-tech.ru^
@@ -37497,7 +37500,6 @@
 ||durationmedia.net^
 ||s.myangular.life^
 ||pointmediatracker.com^
-||c-api-bit.shopeemobile.com^
 ||sp.dpgmedia.net^
 ||distillery.wistia.com^
 ||pipedream.wistia.com^
@@ -88741,7 +88743,6 @@
 ||track.untd.com^
 ||track.uppromote.com^
 ||track.us.org^
-||track.venatusmedia.com^
 ||track.vscash.com^
 ||track.yfret.com^
 ||tracker.au.zitcha.app^
@@ -99519,6 +99520,7 @@
 ||xrlzhk.top^
 ||nogogey.top^
 ||otfy.cn^
+||iyof.cn^
 ||fbhkxt.icu^
 ||lppfnf.icu^
 ||shedranfd.com^
