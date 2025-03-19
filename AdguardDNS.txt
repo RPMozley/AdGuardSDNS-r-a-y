@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 19 Mar 2025 01:59:04 +0000
+# Last converted - Wed, 19 Mar 2025 08:34:44 +0000
 #
 
 0.0.0.0 organicowner.com
@@ -93542,6 +93542,7 @@
 0.0.0.0 feed.aservice.tools
 0.0.0.0 fila.com.se
 0.0.0.0 flag.lab.eu.amplitude.com
+0.0.0.0 fml-x.com
 0.0.0.0 footjoygolfskorrea.com.se
 0.0.0.0 fraagesport.com
 0.0.0.0 freegeoip.app
@@ -99574,6 +99575,9 @@
 0.0.0.0 jslxzx.icu
 0.0.0.0 xeccotftw.com
 0.0.0.0 ledfjl.icu
+0.0.0.0 xrlzhk.top
+0.0.0.0 nogogey.top
+0.0.0.0 otfy.cn
 0.0.0.0 fbhkxt.icu
 0.0.0.0 lppfnf.icu
 0.0.0.0 shedranfd.com

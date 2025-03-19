@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-19T01:59:12.779Z
+! Last modified: 2025-03-19T08:34:56.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 19 Mar 2025 01:59:04 +0000
+# Last converted - Wed, 19 Mar 2025 08:34:44 +0000
 #
 ||organicowner.com^
 ||woeful-trash.pro^
@@ -93484,6 +93484,7 @@
 ||feed.aservice.tools^
 ||fila.com.se^
 ||flag.lab.eu.amplitude.com^
+||fml-x.com^
 ||footjoygolfskorrea.com.se^
 ||fraagesport.com^
 ||freegeoip.app^
@@ -99515,6 +99516,9 @@
 ||jslxzx.icu^
 ||xeccotftw.com^
 ||ledfjl.icu^
+||xrlzhk.top^
+||nogogey.top^
+||otfy.cn^
 ||fbhkxt.icu^
 ||lppfnf.icu^
 ||shedranfd.com^
