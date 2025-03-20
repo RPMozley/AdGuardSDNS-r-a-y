@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-20T08:33:35.781Z
+! Last modified: 2025-03-20T16:35:17.466Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,9 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 20 Mar 2025 08:33:22 +0000
+# Last converted - Thu, 20 Mar 2025 16:35:10 +0000
 #
+||hakurei.cdnbo.org^
 ||nkdccsiwixvzj.world^
 ||organicowner.com^
 ||woeful-trash.pro^
@@ -92712,6 +92713,7 @@
 ||tools-affil2.com^
 ||tools.islive.nl^
 ||travelads.be^
+||trickyrock.com^
 ||vpscash.nl^
 ||xpartners.nl^
 ||adnx.de^
@@ -93397,7 +93399,6 @@
 ||autodeal.agilecrm.com^
 ||autoleasedi.bytelab.dk^
 ||ax.idg.se^
-||b1.trickyrock.com^
 ||backend.qimtek.se^
 ||banner.bet365partners.com^
 ||banners.instaforex.com^

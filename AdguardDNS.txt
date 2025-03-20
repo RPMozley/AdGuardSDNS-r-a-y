@@ -1,9 +1,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 20 Mar 2025 08:33:22 +0000
+# Last converted - Thu, 20 Mar 2025 16:35:10 +0000
 #
 
+0.0.0.0 hakurei.cdnbo.org
 0.0.0.0 nkdccsiwixvzj.world
 0.0.0.0 organicowner.com
 0.0.0.0 woeful-trash.pro
@@ -92770,6 +92771,7 @@
 0.0.0.0 tools-affil2.com
 0.0.0.0 tools.islive.nl
 0.0.0.0 travelads.be
+0.0.0.0 trickyrock.com
 0.0.0.0 vpscash.nl
 0.0.0.0 xpartners.nl
 0.0.0.0 adnx.de
@@ -93455,7 +93457,6 @@
 0.0.0.0 autodeal.agilecrm.com
 0.0.0.0 autoleasedi.bytelab.dk
 0.0.0.0 ax.idg.se
-0.0.0.0 b1.trickyrock.com
 0.0.0.0 backend.qimtek.se
 0.0.0.0 banner.bet365partners.com
 0.0.0.0 banners.instaforex.com
