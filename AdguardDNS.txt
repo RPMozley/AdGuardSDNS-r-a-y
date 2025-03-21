@@ -1,9 +1,11 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 21 Mar 2025 08:32:48 +0000
+# Last converted - Fri, 21 Mar 2025 16:34:16 +0000
 #
 
+0.0.0.0 ogaku.site
+0.0.0.0 waaz.wjebboljobvaj.top
 0.0.0.0 hakurei.cdnbo.org
 0.0.0.0 nkdccsiwixvzj.world
 0.0.0.0 organicowner.com
@@ -613,7 +615,6 @@
 0.0.0.0 yesadvertising.com
 0.0.0.0 zanox.com
 0.0.0.0 zeti.com
-0.0.0.0 embed.sendtonews.com
 0.0.0.0 o333o.com
 0.0.0.0 dianomi.com
 0.0.0.0 amazon-adsystem.com
@@ -34022,6 +34023,7 @@
 0.0.0.0 79893962.xyz
 0.0.0.0 7fc8.site
 0.0.0.0 80133082.xyz
+0.0.0.0 80582834.xyz
 0.0.0.0 83409127.xyz
 0.0.0.0 83761158.xyz
 0.0.0.0 83887336.xyz

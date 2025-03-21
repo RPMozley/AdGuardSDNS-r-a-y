@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-21T08:32:56.737Z
+! Last modified: 2025-03-21T16:34:23.969Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 21 Mar 2025 08:32:48 +0000
+# Last converted - Fri, 21 Mar 2025 16:34:16 +0000
 #
+||ogaku.site^
+||waaz.wjebboljobvaj.top^
 ||hakurei.cdnbo.org^
 ||nkdccsiwixvzj.world^
 ||organicowner.com^
@@ -618,7 +620,6 @@
 ||yesadvertising.com^
 ||zanox.com^
 ||zeti.com^
-||embed.sendtonews.com^
 ||o333o.com^
 ||dianomi.com^
 ||amazon-adsystem.com^
@@ -33997,6 +33998,7 @@
 ||79893962.xyz^
 ||7fc8.site^
 ||80133082.xyz^
+||80582834.xyz^
 ||83409127.xyz^
 ||83761158.xyz^
 ||83887336.xyz^
