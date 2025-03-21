@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 20 Mar 2025 16:35:10 +0000
+# Last converted - Fri, 21 Mar 2025 02:00:16 +0000
 #
 
 0.0.0.0 hakurei.cdnbo.org
@@ -34279,6 +34279,7 @@
 0.0.0.0 static.tradetracker.net
 0.0.0.0 supply.upjers.com
 0.0.0.0 syndicate.payloadz.com
+0.0.0.0 t.babelmedia.global
 0.0.0.0 tag.regieci.com
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tcadserver.rain-digital.ca
@@ -36505,6 +36506,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 tags.pw.adn.cloud
 0.0.0.0 api-notify.markarch.com
 0.0.0.0 venatusmedia.com
 0.0.0.0 metrics.nsureapi.com
@@ -37857,6 +37859,7 @@
 0.0.0.0 amc.yandex.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mc.yandex.com
+0.0.0.0 mc.yandex.md
 0.0.0.0 track.segmentstream.com
 0.0.0.0 vboro.de
 0.0.0.0 barddfvgkhctch11.ru
@@ -88909,6 +88912,7 @@
 0.0.0.0 x.weather.com
 0.0.0.0 xp2023-pix.s3.amazonaws.com
 0.0.0.0 yoast-schema-graph.com
+0.0.0.0 yotrack.cdn.ybn.io
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 extmaps-api.yandex.net
@@ -89723,7 +89727,6 @@
 0.0.0.0 xad.dnoticias.pt
 0.0.0.0 adclient-uol.lp.uol.com.br
 0.0.0.0 adv.r7.com
-0.0.0.0 t.babelmedia.global
 0.0.0.0 butlercdn.com
 0.0.0.0 assets.etus.digital
 0.0.0.0 lyappreciat.info
@@ -89828,6 +89831,7 @@
 0.0.0.0 templates.buscape.com
 0.0.0.0 yestorrents.org
 0.0.0.0 oecistbenton.com
+0.0.0.0 vvdrhe.win
 0.0.0.0 adwadvert.com.ua
 0.0.0.0 nanthou.life
 0.0.0.0 wrapper.bracdn.online
@@ -99595,10 +99599,13 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 feernhuhe.com
 0.0.0.0 spkh.cn
 0.0.0.0 sodenneyg.com
 0.0.0.0 zqntbc.top
 0.0.0.0 lcidauv.top
+0.0.0.0 bekd.cn
+0.0.0.0 uhityllhn.com
 0.0.0.0 xunqrutsl.com
 0.0.0.0 jslxzx.icu
 0.0.0.0 xeccotftw.com
