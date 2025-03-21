@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 21 Mar 2025 02:00:16 +0000
+# Last converted - Fri, 21 Mar 2025 08:32:48 +0000
 #
 
 0.0.0.0 hakurei.cdnbo.org
@@ -99600,6 +99600,9 @@
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 feernhuhe.com
+0.0.0.0 vhje.cn
+0.0.0.0 bptnzp.top
+0.0.0.0 ajoxxit.top
 0.0.0.0 spkh.cn
 0.0.0.0 sodenneyg.com
 0.0.0.0 zqntbc.top
