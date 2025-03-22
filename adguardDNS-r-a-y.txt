@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-22T08:30:40.997Z
+! Last modified: 2025-03-22T16:31:16.118Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 22 Mar 2025 08:30:33 +0000
+# Last converted - Sat, 22 Mar 2025 16:31:08 +0000
 #
 ||ogaku.site^
 ||waaz.wjebboljobvaj.top^
@@ -96189,6 +96189,7 @@
 ||icloud.support^
 ||icloudhelp.com^
 ||icloudvi.com^
+||icswdocmv.on-ke.tech^
 ||id-icloud.com^
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
 ||idapple.com^
@@ -99552,6 +99553,7 @@
 ||zeroshop.cc^
 ||zingmp3.pro^
 ||zingshop.net^
+||zkika.okyla.de^
 ||zla653.top^
 ||zla963.top^
 ||zloweb.me^
@@ -99568,6 +99570,9 @@
 ||cnzz.trafficmanager.net^
 ||stemedntm.com^
 ||r5twojylmzsym.top^
+||avkd.cn^
+||yxqmryq.top^
+||eldaridpr.com^
 ||feernhuhe.com^
 ||vhje.cn^
 ||bptnzp.top^
