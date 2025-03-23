@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 23 Mar 2025 02:05:45 +0000
+# Last converted - Sun, 23 Mar 2025 08:30:56 +0000
 #
 
 0.0.0.0 ogaku.site
@@ -99636,6 +99636,7 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 gerqragpl.com
 0.0.0.0 nghv.cn
+0.0.0.0 wlwgloo.top
 0.0.0.0 stemedntm.com
 0.0.0.0 r5twojylmzsym.top
 0.0.0.0 avkd.cn
