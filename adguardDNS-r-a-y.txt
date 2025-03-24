@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-24T08:35:15.661Z
+! Last modified: 2025-03-24T16:35:54.927Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 24 Mar 2025 08:35:07 +0000
+# Last converted - Mon, 24 Mar 2025 16:35:48 +0000
 #
+||glum-mortgage.com^
+||shocking-honey.com^
 ||ogaku.site^
 ||waaz.wjebboljobvaj.top^
 ||hakurei.cdnbo.org^
@@ -6405,6 +6407,7 @@
 ||4dex.io^
 ||4dsbanner.net^
 ||4dtrk.com^
+||4e0c0b1247.com^
 ||4ed5560812.com^
 ||4f2sm1y1ss.com^
 ||4f9566374d.com^
@@ -6528,6 +6531,7 @@
 ||70b7d98dec.com^
 ||721ffc3ec5.com^
 ||72hdgb5o.de^
+||73a435bfaf.com^
 ||73a70e581b.com^
 ||73be0a6d8a.com^
 ||73fa81c29d.com^
@@ -6590,6 +6594,7 @@
 ||88cb0eb486.com^
 ||88d7b6aa44fb8eb.com^
 ||88eq7spm.de^
+||8ab16250fe.com^
 ||8d96fe2f01.com^
 ||8db4fde90b.com^
 ||8de5d7e235.com^
@@ -34088,6 +34093,7 @@
 ||9354ee72.xyz^
 ||94444717.xyz^
 ||94597672.xyz^
+||94782806.xyz^
 ||95597529.xyz^
 ||97496b9d.xyz^
 ||98140548.xyz^
@@ -87560,6 +87566,8 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||asanalytics.booking.com^
+||counters.booking.com^
 ||nr.bidderstack.com^
 ||stbid.ru^
 ||stat.nsc-lab.io^
@@ -99622,6 +99630,8 @@
 ||ra10.xyz^
 ||dtdqpc.top^
 ||lsyaicl.icu^
+||xbqm.cn^
+||ghozokodq.com^
 ||gerqragpl.com^
 ||nghv.cn^
 ||wlwgloo.top^
