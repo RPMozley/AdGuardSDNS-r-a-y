@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-24T02:03:21.365Z
+! Last modified: 2025-03-24T08:35:15.661Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 24 Mar 2025 02:03:13 +0000
+# Last converted - Mon, 24 Mar 2025 08:35:07 +0000
 #
 ||ogaku.site^
 ||waaz.wjebboljobvaj.top^
@@ -93521,6 +93521,7 @@
 ||cdn.routy.app^
 ||cdn.shareaholic.net^
 ||cdn.sprida.se^
+||cdn.stroeerdigitalgroup.de^
 ||cdn.subscribers.com^
 ||cdn.userreport.com^
 ||cdn.webpushr.com^
@@ -93638,6 +93639,7 @@
 ||m1.analytics.sitevision-cloud.se^
 ||matomo.chsc.dk^
 ||matomo.goteborgco.se^
+||matomo.lantmannen.com^
 ||matomo.lulea.se^
 ||matomo.mindbite.cloud^
 ||matomo.studio.se^
@@ -99618,6 +99620,8 @@
 ||khegritww.com^
 ||knul.cn^
 ||ra10.xyz^
+||dtdqpc.top^
+||lsyaicl.icu^
 ||gerqragpl.com^
 ||nghv.cn^
 ||wlwgloo.top^
@@ -104128,6 +104132,7 @@
 ||tinancefa.org^
 ||chancx.io^
 ||falixa.com^
+||izonekala.com^
 ||laxsson.com^
 ||tradergpt.ai^
 ||mat-pnu.ir^

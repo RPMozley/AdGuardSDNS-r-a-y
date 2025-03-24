@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 24 Mar 2025 02:03:13 +0000
+# Last converted - Mon, 24 Mar 2025 08:35:07 +0000
 #
 
 0.0.0.0 ogaku.site
@@ -93579,6 +93579,7 @@
 0.0.0.0 cdn.routy.app
 0.0.0.0 cdn.shareaholic.net
 0.0.0.0 cdn.sprida.se
+0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 cdn.subscribers.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 cdn.webpushr.com
@@ -93696,6 +93697,7 @@
 0.0.0.0 m1.analytics.sitevision-cloud.se
 0.0.0.0 matomo.chsc.dk
 0.0.0.0 matomo.goteborgco.se
+0.0.0.0 matomo.lantmannen.com
 0.0.0.0 matomo.lulea.se
 0.0.0.0 matomo.mindbite.cloud
 0.0.0.0 matomo.studio.se
@@ -99677,6 +99679,8 @@
 0.0.0.0 khegritww.com
 0.0.0.0 knul.cn
 0.0.0.0 ra10.xyz
+0.0.0.0 dtdqpc.top
+0.0.0.0 lsyaicl.icu
 0.0.0.0 gerqragpl.com
 0.0.0.0 nghv.cn
 0.0.0.0 wlwgloo.top
@@ -104187,6 +104191,7 @@
 0.0.0.0 tinancefa.org
 0.0.0.0 chancx.io
 0.0.0.0 falixa.com
+0.0.0.0 izonekala.com
 0.0.0.0 laxsson.com
 0.0.0.0 tradergpt.ai
 0.0.0.0 mat-pnu.ir
