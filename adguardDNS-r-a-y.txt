@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-23T16:30:47.602Z
+! Last modified: 2025-03-24T02:03:21.365Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 23 Mar 2025 16:30:41 +0000
+# Last converted - Mon, 24 Mar 2025 02:03:13 +0000
 #
 ||ogaku.site^
 ||waaz.wjebboljobvaj.top^
@@ -84981,6 +84981,7 @@
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
+||tempo-client-metric-prod.s3.amazonaws.com^
 ||sapphire-api.target.com^
 ||pixel.thoughtmetric.io^
 ||c9nyrr.puurfiguur.nl^
@@ -99614,11 +99615,17 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||khegritww.com^
+||knul.cn^
+||ra10.xyz^
 ||gerqragpl.com^
 ||nghv.cn^
 ||wlwgloo.top^
 ||wlwgloo.icu^
 ||hchus5739dmew.top^
+||urkt.cn^
+||screiltol.com^
+||bnbwvp.top^
 ||stemedntm.com^
 ||r5twojylmzsym.top^
 ||avkd.cn^

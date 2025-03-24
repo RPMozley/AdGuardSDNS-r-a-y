@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 23 Mar 2025 16:30:41 +0000
+# Last converted - Mon, 24 Mar 2025 02:03:13 +0000
 #
 
 0.0.0.0 ogaku.site
@@ -85015,6 +85015,7 @@
 0.0.0.0 wiz.sncf-connect.com
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
+0.0.0.0 tempo-client-metric-prod.s3.amazonaws.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 pixel.thoughtmetric.io
 0.0.0.0 c9nyrr.puurfiguur.nl
@@ -99673,11 +99674,17 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 khegritww.com
+0.0.0.0 knul.cn
+0.0.0.0 ra10.xyz
 0.0.0.0 gerqragpl.com
 0.0.0.0 nghv.cn
 0.0.0.0 wlwgloo.top
 0.0.0.0 wlwgloo.icu
 0.0.0.0 hchus5739dmew.top
+0.0.0.0 urkt.cn
+0.0.0.0 screiltol.com
+0.0.0.0 bnbwvp.top
 0.0.0.0 stemedntm.com
 0.0.0.0 r5twojylmzsym.top
 0.0.0.0 avkd.cn
