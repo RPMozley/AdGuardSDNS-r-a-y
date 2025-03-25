@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-25T02:00:53.292Z
+! Last modified: 2025-03-25T08:33:57.439Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 25 Mar 2025 02:00:45 +0000
+# Last converted - Tue, 25 Mar 2025 08:33:49 +0000
 #
 ||glum-mortgage.com^
 ||shocking-honey.com^
@@ -94036,13 +94036,13 @@
 ||analytics.recept.se^
 ||analytics.residencemagazine.se^
 ||analytics.sjf.se^
-||analytics.smhi.se^
 ||analytics.svenskdam.se^
 ||analytics.svt.se^
 ||analytics.teknikveckan.se^
 ||analytics.undeco.se^
 ||analytics.vackertvader.se^
 ||analytics-smhise.smhi.se^
+||analytics-wpt.smhi.se^
 ||analytics.ci-360.se^
 ||angry-golick-2a96e5.netlify.app^
 ||annons.svenskjakt.se^
@@ -100207,6 +100207,9 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||phorralut.com^
+||pqav.cn^
+||fsjfnp.top^
+||jgapcsi.icu^
 ||khegritww.com^
 ||knul.cn^
 ||ra10.xyz^

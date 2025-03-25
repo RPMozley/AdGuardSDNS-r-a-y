@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 25 Mar 2025 02:00:45 +0000
+# Last converted - Tue, 25 Mar 2025 08:33:49 +0000
 #
 
 0.0.0.0 glum-mortgage.com
@@ -94094,13 +94094,13 @@
 0.0.0.0 analytics.recept.se
 0.0.0.0 analytics.residencemagazine.se
 0.0.0.0 analytics.sjf.se
-0.0.0.0 analytics.smhi.se
 0.0.0.0 analytics.svenskdam.se
 0.0.0.0 analytics.svt.se
 0.0.0.0 analytics.teknikveckan.se
 0.0.0.0 analytics.undeco.se
 0.0.0.0 analytics.vackertvader.se
 0.0.0.0 analytics-smhise.smhi.se
+0.0.0.0 analytics-wpt.smhi.se
 0.0.0.0 analytics.ci-360.se
 0.0.0.0 angry-golick-2a96e5.netlify.app
 0.0.0.0 annons.svenskjakt.se
@@ -100266,6 +100266,9 @@
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 phorralut.com
+0.0.0.0 pqav.cn
+0.0.0.0 fsjfnp.top
+0.0.0.0 jgapcsi.icu
 0.0.0.0 khegritww.com
 0.0.0.0 knul.cn
 0.0.0.0 ra10.xyz
