@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-26T08:35:07.485Z
+! Last modified: 2025-03-26T16:36:10.567Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,9 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 26 Mar 2025 08:35:01 +0000
+# Last converted - Wed, 26 Mar 2025 16:36:03 +0000
 #
+||bits.avcdn.net^
 ||player.gliacloud.com^
 ||newmedia.az^
 ||glum-mortgage.com^
@@ -8051,6 +8052,7 @@
 ||andtheircleanw.com^
 ||anentsyshrug.com^
 ||aneorwd.com^
+||anestriberi.com^
 ||aneuchoutfit.shop^
 ||anewgallondevious.com^
 ||anewrelivedivide.com^
@@ -10926,6 +10928,7 @@
 ||choobatchautoo.net^
 ||choocmailt.com^
 ||choodrawiwa.net^
+||chooftutchuw.net^
 ||choogeet.net^
 ||chooretsi.net^
 ||chooseimmersed.com^
@@ -14794,6 +14797,7 @@
 ||fireworksane.com^
 ||fireworksjowrote.com^
 ||firkedpace.life^
+||firmedderere.shop^
 ||firmhurrieddetrimental.com^
 ||firmlypokingtasting.com^
 ||firmmaintenance.com^
@@ -16208,6 +16212,7 @@
 ||greezoob.net^
 ||grefaunu.com^
 ||grefutiwhe.com^
+||gregneegnohoo.com^
 ||grehamsoah.xyz^
 ||greheelsy.net^
 ||grehtrsan.com^
@@ -21172,6 +21177,7 @@
 ||mymukindwould.com^
 ||mynutraresearch.com^
 ||myolnyr5bsk18.com^
+||myosoteruins.com^
 ||myperfect2give.com^
 ||mypopadpro.com^
 ||mypopads.com^
@@ -24639,6 +24645,7 @@
 ||pulverizefighting.com^
 ||pulvinioreodon.com^
 ||pumpbead.com^
+||pumplepore.com^
 ||punctual-window.com^
 ||punishgrantedvirus.com^
 ||punkhonouredrole.com^
@@ -27723,6 +27730,7 @@
 ||spikearsonembroider.com^
 ||spikethat.xyz^
 ||spilldemolitionarrangement.com^
+||spillshijra.top^
 ||spin83qr.com^
 ||spinbox.net^
 ||spindlyrebegin.top^
@@ -31487,6 +31495,7 @@
 ||wifegraduallyclank.com^
 ||wifescamara.click^
 ||wifeverticallywoodland.com^
+||wifiecesare.com^
 ||wigetmedia.com^
 ||wiggledeteriorate.com^
 ||wigneebaimtoa.com^
@@ -32315,6 +32324,7 @@
 ||yourwebbars.com^
 ||youservit.com^
 ||youtube.local^
+||yowdenfalcial.com^
 ||yoyadsdom.com^
 ||ypersonalrecome.com^
 ||ypgmjlcgrp.com^
@@ -33967,6 +33977,7 @@
 ||07421283.xyz^
 ||08f8f073.xyz^
 ||09745951.xyz^
+||0ul1wlo58s-vu69us-r1u.xyz^
 ||10288299.xyz^
 ||10523745.xyz^
 ||10614305.xyz^
@@ -34106,6 +34117,7 @@
 ||94597672.xyz^
 ||94782806.xyz^
 ||95597529.xyz^
+||96679950.xyz^
 ||97496b9d.xyz^
 ||98140548.xyz^
 ||98383163.xyz^
@@ -90477,6 +90489,7 @@
 ||templates.buscape.com^
 ||yestorrents.org^
 ||oecistbenton.com^
+||tp.media^
 ||thagrechulo.com^
 ||vvdrhe.win^
 ||adwadvert.com.ua^
@@ -92803,6 +92816,7 @@
 ||masdak.epsilonsoft.to^
 ||adserve.lasentinelle.mu^
 ||adserver.icimedias.ca^
+||adandhub.com^
 ||getallmedia.com^
 ||ssdsp.smt.docomo.ne.jp^
 ||araklet.mediagene.co.jp^
