@@ -1,9 +1,11 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 25 Mar 2025 16:33:46 +0000
+# Last converted - Wed, 26 Mar 2025 02:00:06 +0000
 #
 
+0.0.0.0 player.gliacloud.com
+0.0.0.0 newmedia.az
 0.0.0.0 glum-mortgage.com
 0.0.0.0 shocking-honey.com
 0.0.0.0 ogaku.site
@@ -2723,7 +2725,6 @@
 0.0.0.0 ab823c0616.3397afa9b2.com
 0.0.0.0 ab9a9bd665.ae83a82a8d.com
 0.0.0.0 acc6ef1b4a.39963f5717.com
-0.0.0.0 ae33d7ee85.029519cbdc.com
 0.0.0.0 afae561ed5.3165de3ff8.com
 0.0.0.0 ajs.bowintelligence.com
 0.0.0.0 ajs.laketrend.com
@@ -5924,6 +5925,7 @@
 0.0.0.0 01jud3v55z.com
 0.0.0.0 023e6510cc.com
 0.0.0.0 0265331.com
+0.0.0.0 029519cbdc.com
 0.0.0.0 0342b40dd6.com
 0.0.0.0 03505ed0f4.com
 0.0.0.0 03b5f525af.com
@@ -7747,6 +7749,7 @@
 0.0.0.0 akdbr.com
 0.0.0.0 akeedser.com
 0.0.0.0 akentaspectsof.com
+0.0.0.0 akfteothobqbk.space
 0.0.0.0 akijk.life
 0.0.0.0 akilifox.com
 0.0.0.0 akjorcnawqp.com
@@ -8770,6 +8773,7 @@
 0.0.0.0 avrqaijwdqk.xyz
 0.0.0.0 avrrhodabbk.com
 0.0.0.0 avsakrcapna.com
+0.0.0.0 avsojlonp.com
 0.0.0.0 avthelkp.net
 0.0.0.0 avvxcexk.com
 0.0.0.0 avvzamazdpa.com
@@ -9341,6 +9345,7 @@
 0.0.0.0 bergletiphis.shop
 0.0.0.0 berkshiretoday.xyz
 0.0.0.0 berlipurplin.com
+0.0.0.0 bermestricker.shop
 0.0.0.0 berriescourageous.com
 0.0.0.0 berryheight.com
 0.0.0.0 berryhillfarmgwent.com
@@ -13818,6 +13823,7 @@
 0.0.0.0 eluviabattler.com
 0.0.0.0 elyandbegantoti.com
 0.0.0.0 elytronkantele.shop
+0.0.0.0 elzcrexsh.com
 0.0.0.0 emailflyfunny.com
 0.0.0.0 emailon.top
 0.0.0.0 emancytal.com
@@ -16946,6 +16952,7 @@
 0.0.0.0 hintgroin.com
 0.0.0.0 hip-97166b.com
 0.0.0.0 hipals.com
+0.0.0.0 hipanditlastedallth.com
 0.0.0.0 hipersushiads.com
 0.0.0.0 hiphaltlauroyl.shop
 0.0.0.0 hipintimacy.com
@@ -21911,6 +21918,7 @@
 0.0.0.0 nurserysurvivortogether.com
 0.0.0.0 nuschias.top
 0.0.0.0 nuseek.com
+0.0.0.0 nuskt.directory
 0.0.0.0 nutantvirific.com
 0.0.0.0 nutchaungong.com
 0.0.0.0 nutiipwkk.com
@@ -27975,6 +27983,7 @@
 0.0.0.0 stealneitherfirearm.com
 0.0.0.0 stealthlockers.com
 0.0.0.0 steamjaws.com
+0.0.0.0 stedallthrought.com
 0.0.0.0 stedrits.xyz
 0.0.0.0 steeelm.xyz
 0.0.0.0 steefaulrouy.xyz
@@ -28290,6 +28299,7 @@
 0.0.0.0 suitedtack.com
 0.0.0.0 suiteighteen.com
 0.0.0.0 sukbeingajoytow.org
+0.0.0.0 sukspcwrnqpbs.life
 0.0.0.0 sukultingecauy.info
 0.0.0.0 sukultingecauyuk.org
 0.0.0.0 sulfinepaveed.com
@@ -32074,6 +32084,7 @@
 0.0.0.0 xszjh.tech
 0.0.0.0 xszpuvwr7.com
 0.0.0.0 xtalfuwcxh.com
+0.0.0.0 xtdztyiqyhmet.global
 0.0.0.0 xtrackme.com
 0.0.0.0 xtraserp.com
 0.0.0.0 xtremeserve.xyz
@@ -33260,7 +33271,6 @@
 0.0.0.0 capacitygrid.com
 0.0.0.0 caroda.io
 0.0.0.0 casino-zilla.com
-0.0.0.0 cazamba.com
 0.0.0.0 cb-content.com
 0.0.0.0 cdn.mcnn.pl
 0.0.0.0 cdnreference.com
@@ -38005,6 +38015,7 @@
 0.0.0.0 statsp.fpop.net
 0.0.0.0 conductrics.com
 0.0.0.0 zorosrv.com
+0.0.0.0 api.cazamba.com
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 1dmp.io
@@ -100276,6 +100287,7 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 dhaaralzz.com
 0.0.0.0 phorralut.com
 0.0.0.0 pqav.cn
 0.0.0.0 fsjfnp.top

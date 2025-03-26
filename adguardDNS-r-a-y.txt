@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-25T16:33:57.535Z
+! Last modified: 2025-03-26T02:00:14.343Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 25 Mar 2025 16:33:46 +0000
+# Last converted - Wed, 26 Mar 2025 02:00:06 +0000
 #
+||player.gliacloud.com^
+||newmedia.az^
 ||glum-mortgage.com^
 ||shocking-honey.com^
 ||ogaku.site^
@@ -2699,7 +2701,6 @@
 ||ab823c0616.3397afa9b2.com^
 ||ab9a9bd665.ae83a82a8d.com^
 ||acc6ef1b4a.39963f5717.com^
-||ae33d7ee85.029519cbdc.com^
 ||afae561ed5.3165de3ff8.com^
 ||ajs.bowintelligence.com^
 ||ajs.laketrend.com^
@@ -5899,6 +5900,7 @@
 ||01jud3v55z.com^
 ||023e6510cc.com^
 ||0265331.com^
+||029519cbdc.com^
 ||0342b40dd6.com^
 ||03505ed0f4.com^
 ||03b5f525af.com^
@@ -7722,6 +7724,7 @@
 ||akdbr.com^
 ||akeedser.com^
 ||akentaspectsof.com^
+||akfteothobqbk.space^
 ||akijk.life^
 ||akilifox.com^
 ||akjorcnawqp.com^
@@ -8745,6 +8748,7 @@
 ||avrqaijwdqk.xyz^
 ||avrrhodabbk.com^
 ||avsakrcapna.com^
+||avsojlonp.com^
 ||avthelkp.net^
 ||avvxcexk.com^
 ||avvzamazdpa.com^
@@ -9316,6 +9320,7 @@
 ||bergletiphis.shop^
 ||berkshiretoday.xyz^
 ||berlipurplin.com^
+||bermestricker.shop^
 ||berriescourageous.com^
 ||berryheight.com^
 ||berryhillfarmgwent.com^
@@ -13793,6 +13798,7 @@
 ||eluviabattler.com^
 ||elyandbegantoti.com^
 ||elytronkantele.shop^
+||elzcrexsh.com^
 ||emailflyfunny.com^
 ||emailon.top^
 ||emancytal.com^
@@ -16921,6 +16927,7 @@
 ||hintgroin.com^
 ||hip-97166b.com^
 ||hipals.com^
+||hipanditlastedallth.com^
 ||hipersushiads.com^
 ||hiphaltlauroyl.shop^
 ||hipintimacy.com^
@@ -21886,6 +21893,7 @@
 ||nurserysurvivortogether.com^
 ||nuschias.top^
 ||nuseek.com^
+||nuskt.directory^
 ||nutantvirific.com^
 ||nutchaungong.com^
 ||nutiipwkk.com^
@@ -27950,6 +27958,7 @@
 ||stealneitherfirearm.com^
 ||stealthlockers.com^
 ||steamjaws.com^
+||stedallthrought.com^
 ||stedrits.xyz^
 ||steeelm.xyz^
 ||steefaulrouy.xyz^
@@ -28265,6 +28274,7 @@
 ||suitedtack.com^
 ||suiteighteen.com^
 ||sukbeingajoytow.org^
+||sukspcwrnqpbs.life^
 ||sukultingecauy.info^
 ||sukultingecauyuk.org^
 ||sulfinepaveed.com^
@@ -32049,6 +32059,7 @@
 ||xszjh.tech^
 ||xszpuvwr7.com^
 ||xtalfuwcxh.com^
+||xtdztyiqyhmet.global^
 ||xtrackme.com^
 ||xtraserp.com^
 ||xtremeserve.xyz^
@@ -33235,7 +33246,6 @@
 ||capacitygrid.com^
 ||caroda.io^
 ||casino-zilla.com^
-||cazamba.com^
 ||cb-content.com^
 ||cdn.mcnn.pl^
 ||cdnreference.com^
@@ -37977,6 +37987,7 @@
 ||statsp.fpop.net^
 ||conductrics.com^
 ||zorosrv.com^
+||api.cazamba.com^
 ||maliva-mcs.byteoversea.com^
 ||sgali-mcs.byteoversea.com^
 ||1dmp.io^
@@ -100217,6 +100228,7 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||dhaaralzz.com^
 ||phorralut.com^
 ||pqav.cn^
 ||fsjfnp.top^
