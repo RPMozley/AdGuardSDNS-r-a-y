@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 26 Mar 2025 02:00:06 +0000
+# Last converted - Wed, 26 Mar 2025 08:35:01 +0000
 #
 
 0.0.0.0 player.gliacloud.com
@@ -100288,6 +100288,9 @@
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 dhaaralzz.com
+0.0.0.0 gqoi.cn
+0.0.0.0 drlzlc.top
+0.0.0.0 yugjwgg.icu
 0.0.0.0 phorralut.com
 0.0.0.0 pqav.cn
 0.0.0.0 fsjfnp.top
