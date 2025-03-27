@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-27T01:59:58.746Z
+! Last modified: 2025-03-27T08:34:05.955Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 27 Mar 2025 01:59:50 +0000
+# Last converted - Thu, 27 Mar 2025 08:33:57 +0000
 #
 ||splendlddate.com^
 ||my.pixgallery.xyz^
@@ -33592,7 +33592,6 @@
 ||marketleverage.com^
 ||marsads.com^
 ||mcontigo.com^
-||media.net^
 ||mediaad.org^
 ||mediacpm.pl^
 ||mediaffiliation.com^
@@ -34050,6 +34049,7 @@
 ||40451343.xyz^
 ||4126fe80.xyz^
 ||42869755.xyz^
+||4547u5qms0m2um3rrum2wuo.xyz^
 ||45496fee.xyz^
 ||45564736.xyz^
 ||4602306b.xyz^
@@ -94199,6 +94199,7 @@
 ||collect-metrics.aquro.com^
 ||connectio.s3.amazonaws.com^
 ||content.livesportmedia.eu^
+||contextual.media.net^
 ||core.centotag.io^
 ||core.manatee.io^
 ||creative.prf.hn^
@@ -100264,6 +100265,9 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||vraataidz.com^
+||fqnojp.top^
+||wnvu.cn^
+||wiiytwd.icu^
 ||dhaaralzz.com^
 ||gqoi.cn^
 ||drlzlc.top^

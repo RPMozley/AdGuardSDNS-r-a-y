@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 27 Mar 2025 01:59:50 +0000
+# Last converted - Thu, 27 Mar 2025 08:33:57 +0000
 #
 
 0.0.0.0 splendlddate.com
@@ -33617,7 +33617,6 @@
 0.0.0.0 marketleverage.com
 0.0.0.0 marsads.com
 0.0.0.0 mcontigo.com
-0.0.0.0 media.net
 0.0.0.0 mediaad.org
 0.0.0.0 mediacpm.pl
 0.0.0.0 mediaffiliation.com
@@ -34075,6 +34074,7 @@
 0.0.0.0 40451343.xyz
 0.0.0.0 4126fe80.xyz
 0.0.0.0 42869755.xyz
+0.0.0.0 4547u5qms0m2um3rrum2wuo.xyz
 0.0.0.0 45496fee.xyz
 0.0.0.0 45564736.xyz
 0.0.0.0 4602306b.xyz
@@ -94257,6 +94257,7 @@
 0.0.0.0 collect-metrics.aquro.com
 0.0.0.0 connectio.s3.amazonaws.com
 0.0.0.0 content.livesportmedia.eu
+0.0.0.0 contextual.media.net
 0.0.0.0 core.centotag.io
 0.0.0.0 core.manatee.io
 0.0.0.0 creative.prf.hn
@@ -100323,6 +100324,9 @@
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 vraataidz.com
+0.0.0.0 fqnojp.top
+0.0.0.0 wnvu.cn
+0.0.0.0 wiiytwd.icu
 0.0.0.0 dhaaralzz.com
 0.0.0.0 gqoi.cn
 0.0.0.0 drlzlc.top
