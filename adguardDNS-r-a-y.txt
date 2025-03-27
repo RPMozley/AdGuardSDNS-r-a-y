@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-03-27T08:34:05.955Z
+! Last modified: 2025-03-27T16:35:48.984Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 27 Mar 2025 08:33:57 +0000
+# Last converted - Thu, 27 Mar 2025 16:35:40 +0000
 #
 ||splendlddate.com^
 ||my.pixgallery.xyz^
@@ -6444,6 +6444,7 @@
 ||6570131a3f.com^
 ||65wenv5f.xyz^
 ||6657e4f5c2.com^
+||666777888abc.com^
 ||66a3413a7e.com^
 ||66a5e92d66.com^
 ||66f5dd9691.com^
@@ -16983,6 +16984,7 @@
 ||hkaphqknkao.com^
 ||hkilops.com^
 ||hksnu.com^
+||hkzhongzhuangzhan.cc^
 ||hlmiq.com^
 ||hlserve.com^
 ||hlyrecomemum.info^
@@ -20830,6 +20832,7 @@
 ||modulecooper.com^
 ||moduledescendantlos.com^
 ||modulepush.com^
+||moenyandluckybymyside.com^
 ||moera.xyz^
 ||mofeegavub.net^
 ||mogointeractive.com^
@@ -29679,6 +29682,7 @@
 ||trustedpeach.com^
 ||trustedzone.info^
 ||trustflayer1.online^
+||trustgrape.com^
 ||trusting-offer.com^
 ||trusting-produce.com^
 ||trusting-secret.pro^
@@ -31302,6 +31306,7 @@
 ||wehaveinourd.com^
 ||weighssloughs.shop^
 ||weightfeathersoffhand.com^
+||weike88.com^
 ||weinas.co.in^
 ||weird-speed.pro^
 ||weirddistribution.pro^
@@ -32665,6 +32670,7 @@
 ||zuhempih.com^
 ||zuisinchills.shop^
 ||zuisinservo.top^
+||zuizhongyj.com^
 ||zujibumlgc.com^
 ||zukore.com^
 ||zukxd6fkxqn.com^
@@ -37095,7 +37101,6 @@
 ||ztrck.me^
 ||offer-go.com^
 ||d2ezz24t9nm0vu.cloudfront.net^
-||sdk-v2.conscent.in^
 ||sdk.conscent.in^
 ||tpstelemetry.tencent.com^
 ||app.posthog.com^
@@ -94422,6 +94427,7 @@
 ||t.fml.rip^
 ||t.gatorleads.co.uk^
 ||tag.heylink.com^
+||tagging.hemnet.se^
 ||tagging-service.fotbollskanalen.se^
 ||tagging-service.tv4play.se^
 ||tagging-service.tv4.se^
@@ -100268,6 +100274,8 @@
 ||fqnojp.top^
 ||wnvu.cn^
 ||wiiytwd.icu^
+||yuqnyudug.com^
+||spoh.cn^
 ||dhaaralzz.com^
 ||gqoi.cn^
 ||drlzlc.top^

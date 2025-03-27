@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 27 Mar 2025 08:33:57 +0000
+# Last converted - Thu, 27 Mar 2025 16:35:40 +0000
 #
 
 0.0.0.0 splendlddate.com
@@ -6469,6 +6469,7 @@
 0.0.0.0 6570131a3f.com
 0.0.0.0 65wenv5f.xyz
 0.0.0.0 6657e4f5c2.com
+0.0.0.0 666777888abc.com
 0.0.0.0 66a3413a7e.com
 0.0.0.0 66a5e92d66.com
 0.0.0.0 66f5dd9691.com
@@ -17008,6 +17009,7 @@
 0.0.0.0 hkaphqknkao.com
 0.0.0.0 hkilops.com
 0.0.0.0 hksnu.com
+0.0.0.0 hkzhongzhuangzhan.cc
 0.0.0.0 hlmiq.com
 0.0.0.0 hlserve.com
 0.0.0.0 hlyrecomemum.info
@@ -20855,6 +20857,7 @@
 0.0.0.0 modulecooper.com
 0.0.0.0 moduledescendantlos.com
 0.0.0.0 modulepush.com
+0.0.0.0 moenyandluckybymyside.com
 0.0.0.0 moera.xyz
 0.0.0.0 mofeegavub.net
 0.0.0.0 mogointeractive.com
@@ -29704,6 +29707,7 @@
 0.0.0.0 trustedpeach.com
 0.0.0.0 trustedzone.info
 0.0.0.0 trustflayer1.online
+0.0.0.0 trustgrape.com
 0.0.0.0 trusting-offer.com
 0.0.0.0 trusting-produce.com
 0.0.0.0 trusting-secret.pro
@@ -31327,6 +31331,7 @@
 0.0.0.0 wehaveinourd.com
 0.0.0.0 weighssloughs.shop
 0.0.0.0 weightfeathersoffhand.com
+0.0.0.0 weike88.com
 0.0.0.0 weinas.co.in
 0.0.0.0 weird-speed.pro
 0.0.0.0 weirddistribution.pro
@@ -32690,6 +32695,7 @@
 0.0.0.0 zuhempih.com
 0.0.0.0 zuisinchills.shop
 0.0.0.0 zuisinservo.top
+0.0.0.0 zuizhongyj.com
 0.0.0.0 zujibumlgc.com
 0.0.0.0 zukore.com
 0.0.0.0 zukxd6fkxqn.com
@@ -37122,7 +37128,6 @@
 0.0.0.0 ztrck.me
 0.0.0.0 offer-go.com
 0.0.0.0 d2ezz24t9nm0vu.cloudfront.net
-0.0.0.0 sdk-v2.conscent.in
 0.0.0.0 sdk.conscent.in
 0.0.0.0 tpstelemetry.tencent.com
 0.0.0.0 app.posthog.com
@@ -94481,6 +94486,7 @@
 0.0.0.0 t.fml.rip
 0.0.0.0 t.gatorleads.co.uk
 0.0.0.0 tag.heylink.com
+0.0.0.0 tagging.hemnet.se
 0.0.0.0 tagging-service.fotbollskanalen.se
 0.0.0.0 tagging-service.tv4play.se
 0.0.0.0 tagging-service.tv4.se
@@ -100327,6 +100333,8 @@
 0.0.0.0 fqnojp.top
 0.0.0.0 wnvu.cn
 0.0.0.0 wiiytwd.icu
+0.0.0.0 yuqnyudug.com
+0.0.0.0 spoh.cn
 0.0.0.0 dhaaralzz.com
 0.0.0.0 gqoi.cn
 0.0.0.0 drlzlc.top
