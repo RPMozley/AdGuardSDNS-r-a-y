@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 29 Mar 2025 16:33:09 +0000
+# Last converted - Sun, 30 Mar 2025 02:08:35 +0000
 #
 
 0.0.0.0 iawbcdohtprwaxg.com
@@ -35021,6 +35021,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 sayac.net.tr
 0.0.0.0 cnstrc.com
 0.0.0.0 zineone.com
 0.0.0.0 data.emb-api.com
@@ -98739,6 +98740,8 @@
 0.0.0.0 uivc.cn
 0.0.0.0 jovcbp.top
 0.0.0.0 beqnnobwt.com
+0.0.0.0 ksro.cn
+0.0.0.0 drohlaneh.com
 0.0.0.0 eildralfl.com
 0.0.0.0 liqw.cn
 0.0.0.0 hptidc.top
