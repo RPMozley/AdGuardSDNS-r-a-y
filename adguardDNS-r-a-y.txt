@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-02T08:35:56.480Z
+! Last modified: 2025-04-02T16:36:50.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 02 Apr 2025 08:35:45 +0000
+# Last converted - Wed, 02 Apr 2025 16:36:43 +0000
 #
 ||booksylatron.com^
 ||jouchithep.net^
@@ -2663,7 +2663,6 @@
 ||d55875dd70.03db0d5d14.com^
 ||d6b1635a92.829c4efedc.com^
 ||df48924623.4e16b2e294.com^
-||dff4adcb3a.65a16dd098.com^
 ||e2154c9ee1.87eb0a33a9.com^
 ||e8a209dc96.ab0a4bc0ae.com^
 ||ecd2f27cc8.d0056a5b0b.com^
@@ -5845,6 +5844,7 @@
 ||029519cbdc.com^
 ||0342b40dd6.com^
 ||03505ed0f4.com^
+||039858f297.com^
 ||03b5f525af.com^
 ||04-f-bmf.com^
 ||044da016b3.com^
@@ -6373,6 +6373,7 @@
 ||63voy9ciyi14.com^
 ||64580df84b.com^
 ||6570131a3f.com^
+||65a16dd098.com^
 ||65wenv5f.xyz^
 ||6657e4f5c2.com^
 ||666777888abc.com^
@@ -7622,6 +7623,7 @@
 ||ajestigie.com^
 ||ajillionmax.com^
 ||ajjawcxpao.com^
+||ajjcpertu.com^
 ||ajjkmozrljer.top^
 ||ajkzd9h.com^
 ||ajoosheg.com^
@@ -20629,6 +20631,7 @@
 ||neigh11.xyz^
 ||neighrewarn.click^
 ||neitherpennylack.com^
+||neladyhe.com^
 ||nelhon.com^
 ||nellads.com^
 ||nellmeeten.com^
@@ -21313,6 +21316,7 @@
 ||odpgponumrw.com^
 ||odqciqdazjuk.com^
 ||odvrjedubvedqs.com^
+||oebxwlmq.com^
 ||oedipalchuppah.shop^
 ||oehgk.com^
 ||oelwojattkd.xyz^
@@ -23323,6 +23327,7 @@
 ||privilegest.com^
 ||prizefrenzy.top^
 ||prizegrantedrevision.com^
+||prizeking.pro^
 ||prizel.com^
 ||prksism.com^
 ||prmtracking3.com^
@@ -23571,6 +23576,7 @@
 ||psubaghardo.net^
 ||psuftoum.com^
 ||psumainy.xyz^
+||psumpupsauket.com^
 ||psunseewhu.com^
 ||psuphuns.net^
 ||psurdoak.com^
@@ -23961,6 +23967,7 @@
 ||qibqiwczoojw.com^
 ||qidmhohammat.com^
 ||qidnujocmf.com^
+||qijpoaplprskvo.com^
 ||qimnubohcapb.com^
 ||qingolor.com^
 ||qinvaris.com^
@@ -28829,6 +28836,7 @@
 ||umwoibvsbnhrh.xyz^
 ||unacceptableperfection.com^
 ||unaces.com^
+||unactkiosk.com^
 ||unamplespalax.com^
 ||unanimousbrashtrauma.com^
 ||unarbokor.com^
@@ -29291,6 +29299,7 @@
 ||vatcertaininject.com^
 ||vaticmons.digital^
 ||vaufekonaub.net^
+||vauglistesou.net^
 ||vaugroar.com^
 ||vaukoloon.net^
 ||vauloops.net^
@@ -29385,6 +29394,7 @@
 ||venulaeriggite.com^
 ||venusfritter.com^
 ||verbdruggedcommiserate.com^
+||verbsponsor.com^
 ||verbwarilyclotted.com^
 ||verchokberain.top^
 ||verda-mun.com^
@@ -29587,6 +29597,7 @@
 ||viurl.fun^
 ||vivaxhouvari.shop^
 ||viwjsp.info^
+||vizierspavan.com^
 ||vizoalygrenn.com^
 ||vizoredcheerly.com^
 ||vjdciu.com^
@@ -31360,6 +31371,7 @@
 ||zyblzreyykzme.top^
 ||zybrdr.com^
 ||zyf03k.xyz^
+||zygoticroud.shop^
 ||zyiis.net^
 ||zykkjyaokkjlo.top^
 ||zylytavo.com^
@@ -34656,6 +34668,7 @@
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||lgvlbd.icu^
 ||crossadsapi.ecomobileapp.com^
 ||service-ad-image-ga.prd.pluto.tv^
 ||pavoshare.com^
@@ -35316,6 +35329,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||pixel.wetracked.io^
 ||api-pixels.easyadsapp.com^
 ||sayac.net.tr^
 ||zineone.com^
@@ -98982,6 +98996,8 @@
 ||dhorzivnn.com^
 ||nrlupu.top^
 ||biabfqq.icu^
+||chitshuqh.com^
+||oieo.cn^
 ||caxhuuzto.com^
 ||so04010koaq.com^
 ||lsjarh.top^
