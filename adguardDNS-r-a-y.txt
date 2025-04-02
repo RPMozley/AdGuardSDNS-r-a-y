@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-02T02:02:18.955Z
+! Last modified: 2025-04-02T08:35:56.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 02 Apr 2025 02:02:11 +0000
+# Last converted - Wed, 02 Apr 2025 08:35:45 +0000
 #
 ||booksylatron.com^
 ||jouchithep.net^
@@ -94828,6 +94828,7 @@
 ||clubleadershipsolutions.com^
 ||clzl.pro^
 ||cmvietcombank.com^
+||cn.hothue.top^
 ||cnaptheaz.com^
 ||cnvietcombank.com^
 ||codb2b.shop^
@@ -98594,6 +98595,7 @@
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
+||vn.hothue.top^
 ||vn.vnhao123.xyz^
 ||vn11268shp.com^
 ||vn11568p.com^
@@ -98978,6 +98980,8 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||dhorzivnn.com^
+||nrlupu.top^
+||biabfqq.icu^
 ||caxhuuzto.com^
 ||so04010koaq.com^
 ||lsjarh.top^
