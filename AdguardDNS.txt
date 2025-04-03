@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 03 Apr 2025 02:00:57 +0000
+# Last converted - Thu, 03 Apr 2025 08:34:54 +0000
 #
 
 0.0.0.0 booksylatron.com
@@ -99125,6 +99125,9 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 dreiquksz.com
 0.0.0.0 so04030koaq.com
+0.0.0.0 pqnonh.top
+0.0.0.0 zwgqzgo.icu
+0.0.0.0 rinl.cn
 0.0.0.0 dhorzivnn.com
 0.0.0.0 nrlupu.top
 0.0.0.0 biabfqq.icu
