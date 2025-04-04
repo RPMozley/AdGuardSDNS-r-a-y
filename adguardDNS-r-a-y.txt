@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-04T08:34:21.203Z
+! Last modified: 2025-04-04T16:34:02.107Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,9 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 04 Apr 2025 08:34:14 +0000
+# Last converted - Fri, 04 Apr 2025 16:33:54 +0000
 #
+||srvtensz.com^
 ||exo1.georealcdn.com^
 ||booksylatron.com^
 ||jouchithep.net^
@@ -30406,6 +30407,7 @@
 ||windingnegotiation.com^
 ||windingsynonym.com^
 ||windlebrogues.com^
+||windowsdnsservicereload.icu^
 ||windowsuseful.com^
 ||windrightyshade.com^
 ||windsplay.com^
@@ -36384,6 +36386,7 @@
 ||counter.kikibobo.top^
 ||c1.politexpert.ru^
 ||cdn.logrocket.com^
+||lrkt-in.com^
 ||ipmeta.io^
 ||analytics.daasrv.net^
 ||analytics.fatmedia.io^
@@ -87178,6 +87181,7 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||pangolin-sdk-toutiao-b.com^
 ||ulog-sdk.gifshow.com^
 ||logapi-and.zhipin.com^
 ||hilton.data.adobedc.net^
@@ -99135,6 +99139,7 @@
 ||pmnyzf.icu^
 ||hh04040aoik.com^
 ||hh04041aoik.com^
+||vruzexzl.com^
 ||dreiquksz.com^
 ||so04030koaq.com^
 ||pqnonh.top^

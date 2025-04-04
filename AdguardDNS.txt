@@ -1,9 +1,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 04 Apr 2025 08:34:14 +0000
+# Last converted - Fri, 04 Apr 2025 16:33:54 +0000
 #
 
+0.0.0.0 srvtensz.com
 0.0.0.0 exo1.georealcdn.com
 0.0.0.0 booksylatron.com
 0.0.0.0 jouchithep.net
@@ -30432,6 +30433,7 @@
 0.0.0.0 windingnegotiation.com
 0.0.0.0 windingsynonym.com
 0.0.0.0 windlebrogues.com
+0.0.0.0 windowsdnsservicereload.icu
 0.0.0.0 windowsuseful.com
 0.0.0.0 windrightyshade.com
 0.0.0.0 windsplay.com
@@ -36412,6 +36414,7 @@
 0.0.0.0 counter.kikibobo.top
 0.0.0.0 c1.politexpert.ru
 0.0.0.0 cdn.logrocket.com
+0.0.0.0 lrkt-in.com
 0.0.0.0 ipmeta.io
 0.0.0.0 analytics.daasrv.net
 0.0.0.0 analytics.fatmedia.io
@@ -87214,6 +87217,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 pangolin-sdk-toutiao-b.com
 0.0.0.0 ulog-sdk.gifshow.com
 0.0.0.0 logapi-and.zhipin.com
 0.0.0.0 hilton.data.adobedc.net
@@ -99195,6 +99199,7 @@
 0.0.0.0 pmnyzf.icu
 0.0.0.0 hh04040aoik.com
 0.0.0.0 hh04041aoik.com
+0.0.0.0 vruzexzl.com
 0.0.0.0 dreiquksz.com
 0.0.0.0 so04030koaq.com
 0.0.0.0 pqnonh.top
