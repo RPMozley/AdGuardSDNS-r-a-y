@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 07 Apr 2025 02:04:19 +0000
+# Last converted - Mon, 07 Apr 2025 08:35:45 +0000
 #
 
 0.0.0.0 onkhwanhuo.com
@@ -99468,6 +99468,7 @@
 0.0.0.0 vhid.cn
 0.0.0.0 mevedyru.com
 0.0.0.0 ifej.cn
+0.0.0.0 ttdgbh.top
 0.0.0.0 stigzeal.com
 0.0.0.0 lfflvh.icu
 0.0.0.0 rubmdu.top
