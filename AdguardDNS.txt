@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 08 Apr 2025 08:35:35 +0000
+# Last converted - Tue, 08 Apr 2025 16:35:59 +0000
 #
 
 0.0.0.0 8ecc2aee4f.com
@@ -85837,6 +85837,7 @@
 0.0.0.0 wiz.sncf-connect.com
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
+0.0.0.0 metrics.motoblouz.com
 0.0.0.0 fxgate.baidu.com
 0.0.0.0 p.controld.com
 0.0.0.0 collector.bsg.brave.com
@@ -100441,6 +100442,9 @@
 0.0.0.0 pyxytj.icu
 0.0.0.0 liog.cn
 0.0.0.0 vsjavu.top
+0.0.0.0 vahmimb.com
+0.0.0.0 figvatqrwd.com
+0.0.0.0 emsq.cn
 0.0.0.0 ribghr.icu
 0.0.0.0 vhid.cn
 0.0.0.0 mevedyru.com
