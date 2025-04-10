@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 10 Apr 2025 02:01:49 +0000
+# Last converted - Thu, 10 Apr 2025 08:35:12 +0000
 #
 
 0.0.0.0 doppiocdn.com
@@ -20139,6 +20139,7 @@
 0.0.0.0 moviesflix4k.info
 0.0.0.0 moviesflix4k.xyz
 0.0.0.0 moviesprofit.com
+0.0.0.0 movturs.click
 0.0.0.0 mowcawdetour.com
 0.0.0.0 mowhamsterradiator.com
 0.0.0.0 mozgvya.com
@@ -32457,6 +32458,7 @@
 0.0.0.0 ns2l8nn10rns-6rlr38mp.xyz
 0.0.0.0 o-3vq0t1kqukk9pns.xyz
 0.0.0.0 omomku7r4n3vo55rp5k.xyz
+0.0.0.0 r033o0p37qr4v914m06om.xyz
 0.0.0.0 ts28ll0tk23t2n9pl0n327.xyz
 0.0.0.0 wqq881m8uwq1k5m-4p7lv7.xyz
 0.0.0.0 img-load.com
@@ -93467,6 +93469,7 @@
 0.0.0.0 bilpolicydi.bytelab.dk
 0.0.0.0 biowebb-data.s3.amazonaws.com
 0.0.0.0 bitstarz.com
+0.0.0.0 booli-logger.prod.booli.se
 0.0.0.0 boost-cdn.manatee.dk
 0.0.0.0 borsvarlden-banners.azurewebsites.net
 0.0.0.0 brandy.bonniernewslifestyle.se
@@ -99472,6 +99475,8 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 tezlpl.icu
 0.0.0.0 duuddots.com
+0.0.0.0 mjik.cn
+0.0.0.0 vqnjrz.top
 0.0.0.0 nbdtdt.icu
 0.0.0.0 uucatiqnd.com
 0.0.0.0 ixoe.cn
