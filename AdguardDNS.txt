@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 11 Apr 2025 02:02:27 +0000
+# Last converted - Fri, 11 Apr 2025 08:34:55 +0000
 #
 
 0.0.0.0 measlepotomac.shop
@@ -85068,6 +85068,10 @@
 0.0.0.0 wiz.sncf-connect.com
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
+0.0.0.0 dns-clientinfo.vtg.paramount.tech
+0.0.0.0 monitor.r53.cbsivideo.com
+0.0.0.0 monitor.ns1-s.rspcdn.net
+0.0.0.0 monitor.ns1-d.viacomtech.net
 0.0.0.0 views.hulu.com
 0.0.0.0 pixel.vreview.tv
 0.0.0.0 d3aicbrzoy14kh.cloudfront.net
@@ -99684,6 +99688,8 @@
 0.0.0.0 chugveasoy.com
 0.0.0.0 sfile.top
 0.0.0.0 zqifmyt.icu
+0.0.0.0 xwtylm.top
+0.0.0.0 jmif.cn
 0.0.0.0 tezlpl.icu
 0.0.0.0 duuddots.com
 0.0.0.0 mjik.cn

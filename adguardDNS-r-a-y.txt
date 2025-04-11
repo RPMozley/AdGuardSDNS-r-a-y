@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-11T02:02:34.313Z
+! Last modified: 2025-04-11T08:35:01.874Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 11 Apr 2025 02:02:27 +0000
+# Last converted - Fri, 11 Apr 2025 08:34:55 +0000
 #
 ||measlepotomac.shop^
 ||doppiocdn.com^
@@ -85033,6 +85033,10 @@
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
+||dns-clientinfo.vtg.paramount.tech^
+||monitor.r53.cbsivideo.com^
+||monitor.ns1-s.rspcdn.net^
+||monitor.ns1-d.viacomtech.net^
 ||views.hulu.com^
 ||pixel.vreview.tv^
 ||d3aicbrzoy14kh.cloudfront.net^
@@ -99623,6 +99627,8 @@
 ||chugveasoy.com^
 ||sfile.top^
 ||zqifmyt.icu^
+||xwtylm.top^
+||jmif.cn^
 ||tezlpl.icu^
 ||duuddots.com^
 ||mjik.cn^
