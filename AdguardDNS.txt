@@ -1,11 +1,11 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 11 Apr 2025 08:34:55 +0000
+# Last converted - Fri, 11 Apr 2025 16:35:08 +0000
 #
 
+0.0.0.0 xdrlthfhikvgm.club
 0.0.0.0 measlepotomac.shop
-0.0.0.0 doppiocdn.com
 0.0.0.0 parteinroll.xyz
 0.0.0.0 8ecc2aee4f.com
 0.0.0.0 floors.dev
@@ -88688,6 +88688,7 @@
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 metrics.ctvdigital.net
+0.0.0.0 metrics.doppiocdn.com
 0.0.0.0 metrics.futureplc.engineering
 0.0.0.0 metrics.gs-chat.com
 0.0.0.0 metrics.onshape.com
@@ -99690,6 +99691,8 @@
 0.0.0.0 zqifmyt.icu
 0.0.0.0 xwtylm.top
 0.0.0.0 jmif.cn
+0.0.0.0 rvxo.cn
+0.0.0.0 idhaiafq.com
 0.0.0.0 tezlpl.icu
 0.0.0.0 duuddots.com
 0.0.0.0 mjik.cn

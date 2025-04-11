@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-11T08:35:01.874Z
+! Last modified: 2025-04-11T16:35:15.682Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,10 +12,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 11 Apr 2025 08:34:55 +0000
+# Last converted - Fri, 11 Apr 2025 16:35:08 +0000
 #
+||xdrlthfhikvgm.club^
 ||measlepotomac.shop^
-||doppiocdn.com^
 ||parteinroll.xyz^
 ||8ecc2aee4f.com^
 ||floors.dev^
@@ -88652,6 +88652,7 @@
 ||mediametrics.mpsa.com^
 ||metering.pagesuite.com^
 ||metrics.ctvdigital.net^
+||metrics.doppiocdn.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
 ||metrics.onshape.com^
@@ -99629,6 +99630,8 @@
 ||zqifmyt.icu^
 ||xwtylm.top^
 ||jmif.cn^
+||rvxo.cn^
+||idhaiafq.com^
 ||tezlpl.icu^
 ||duuddots.com^
 ||mjik.cn^
