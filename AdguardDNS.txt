@@ -1,9 +1,11 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 14 Apr 2025 02:06:34 +0000
+# Last converted - Mon, 14 Apr 2025 08:36:23 +0000
 #
 
+0.0.0.0 htagpa.tech
+0.0.0.0 call.thebutterfly.eu
 0.0.0.0 xdrlthfhikvgm.club
 0.0.0.0 measlepotomac.shop
 0.0.0.0 parteinroll.xyz
@@ -99904,6 +99906,9 @@
 0.0.0.0 ergiekszra.com
 0.0.0.0 txvq.cn
 0.0.0.0 tqjojh.icu
+0.0.0.0 ztdbfz.top
+0.0.0.0 ovcnmtk.top
+0.0.0.0 qvcnmty.top
 0.0.0.0 wvcnmte.top
 0.0.0.0 tvcnmti.top
 0.0.0.0 uvcnmtt.top
