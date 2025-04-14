@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 13 Apr 2025 16:33:54 +0000
+# Last converted - Mon, 14 Apr 2025 02:06:34 +0000
 #
 
 0.0.0.0 xdrlthfhikvgm.club
@@ -88763,6 +88763,7 @@
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dotaudiences.com
 0.0.0.0 dynamic.ziftsolutions.com
+0.0.0.0 e045f561.b-cdn.net
 0.0.0.0 ea.youmaker.com
 0.0.0.0 ec.walkme.com
 0.0.0.0 ecommstats.s3.amazonaws.com
@@ -89240,6 +89241,7 @@
 0.0.0.0 trx-cdn.zip.co
 0.0.0.0 trx.zip.co
 0.0.0.0 uilogging.tcdevops.com
+0.0.0.0 umami.heroku.uk
 0.0.0.0 us-central1-markuphero.cloudfunctions.net
 0.0.0.0 usaoptimizedby.increasingly.co
 0.0.0.0 user.userguiding.com
@@ -89469,6 +89471,7 @@
 0.0.0.0 semiocast.com
 0.0.0.0 sk1n.fr
 0.0.0.0 sk8t.fr
+0.0.0.0 sparteo.com
 0.0.0.0 stats.fr
 0.0.0.0 sync.tv
 0.0.0.0 tget.me
@@ -89905,6 +89908,7 @@
 0.0.0.0 tr.mediafin.be
 0.0.0.0 trjs2.mediafin.be
 0.0.0.0 trkr.shoppingminds.net
+0.0.0.0 ubt-sgp.travix.com
 0.0.0.0 dnt-userreport.com
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 analytics.palitra.ge
@@ -90076,6 +90080,7 @@
 0.0.0.0 pixel.smartmedia.tj
 0.0.0.0 sal.isanook.com
 0.0.0.0 stat.matichon.co.th
+0.0.0.0 webpushstat.api.engagelab.cc
 0.0.0.0 0.myikas.com
 0.0.0.0 analitik.bik.gov.tr
 0.0.0.0 analytics.faprika.net
@@ -99896,8 +99901,13 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 ergiekszra.com
+0.0.0.0 txvq.cn
+0.0.0.0 tqjojh.icu
 0.0.0.0 wvcnmte.top
 0.0.0.0 tvcnmti.top
+0.0.0.0 uvcnmtt.top
+0.0.0.0 thriseds.com
 0.0.0.0 showkkkp.top
 0.0.0.0 pxrbnf.icu
 0.0.0.0 irkp.cn

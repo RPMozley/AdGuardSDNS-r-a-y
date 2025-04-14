@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-13T16:34:03.913Z
+! Last modified: 2025-04-14T02:06:42.706Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 13 Apr 2025 16:33:54 +0000
+# Last converted - Mon, 14 Apr 2025 02:06:34 +0000
 #
 ||xdrlthfhikvgm.club^
 ||measlepotomac.shop^
@@ -88727,6 +88727,7 @@
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^
 ||dynamic.ziftsolutions.com^
+||e045f561.b-cdn.net^
 ||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecommstats.s3.amazonaws.com^
@@ -89204,6 +89205,7 @@
 ||trx-cdn.zip.co^
 ||trx.zip.co^
 ||uilogging.tcdevops.com^
+||umami.heroku.uk^
 ||us-central1-markuphero.cloudfunctions.net^
 ||usaoptimizedby.increasingly.co^
 ||user.userguiding.com^
@@ -89433,6 +89435,7 @@
 ||semiocast.com^
 ||sk1n.fr^
 ||sk8t.fr^
+||sparteo.com^
 ||stats.fr^
 ||sync.tv^
 ||tget.me^
@@ -89869,6 +89872,7 @@
 ||tr.mediafin.be^
 ||trjs2.mediafin.be^
 ||trkr.shoppingminds.net^
+||ubt-sgp.travix.com^
 ||dnt-userreport.com^
 ||tags.op-palvelut.fi^
 ||analytics.palitra.ge^
@@ -90040,6 +90044,7 @@
 ||pixel.smartmedia.tj^
 ||sal.isanook.com^
 ||stat.matichon.co.th^
+||webpushstat.api.engagelab.cc^
 ||0.myikas.com^
 ||analitik.bik.gov.tr^
 ||analytics.faprika.net^
@@ -99835,8 +99840,13 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||ergiekszra.com^
+||txvq.cn^
+||tqjojh.icu^
 ||wvcnmte.top^
 ||tvcnmti.top^
+||uvcnmtt.top^
+||thriseds.com^
 ||showkkkp.top^
 ||pxrbnf.icu^
 ||irkp.cn^
