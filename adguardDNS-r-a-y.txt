@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-15T02:05:19.667Z
+! Last modified: 2025-04-15T08:36:20.154Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 15 Apr 2025 02:05:12 +0000
+# Last converted - Tue, 15 Apr 2025 08:36:12 +0000
 #
 ||craniolgozzan.com^
 ||enigmamedicine.com^
@@ -85335,6 +85335,8 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
+||backend-pixel.zotek.io^
+||rudr-events.joybird.com^
 ||dns-clientinfo.vtg.paramount.tech^
 ||monitor.r53.cbsivideo.com^
 ||monitor.ns1-s.rspcdn.net^
@@ -99930,6 +99932,8 @@
 ||thricrulnf.com^
 ||rtfgvz.icu^
 ||pekr.cn^
+||bhdnti.top^
+||bvcnmtv.top^
 ||ergiekszra.com^
 ||txvq.cn^
 ||tqjojh.icu^

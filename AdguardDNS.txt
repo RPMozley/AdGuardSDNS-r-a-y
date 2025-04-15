@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 15 Apr 2025 02:05:12 +0000
+# Last converted - Tue, 15 Apr 2025 08:36:12 +0000
 #
 
 0.0.0.0 craniolgozzan.com
@@ -85370,6 +85370,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 backend-pixel.zotek.io
+0.0.0.0 rudr-events.joybird.com
 0.0.0.0 dns-clientinfo.vtg.paramount.tech
 0.0.0.0 monitor.r53.cbsivideo.com
 0.0.0.0 monitor.ns1-s.rspcdn.net
@@ -99991,6 +99993,8 @@
 0.0.0.0 thricrulnf.com
 0.0.0.0 rtfgvz.icu
 0.0.0.0 pekr.cn
+0.0.0.0 bhdnti.top
+0.0.0.0 bvcnmtv.top
 0.0.0.0 ergiekszra.com
 0.0.0.0 txvq.cn
 0.0.0.0 tqjojh.icu
