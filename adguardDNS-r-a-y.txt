@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-15T16:34:59.249Z
+! Last modified: 2025-04-16T02:04:47.412Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 15 Apr 2025 16:34:41 +0000
+# Last converted - Wed, 16 Apr 2025 02:04:40 +0000
 #
 ||few-politics.com^
 ||dreary-hunt.com^
@@ -5811,6 +5811,7 @@
 ||3myad.com^
 ||cdn.234doo.com^
 ||a.b.napiszar.com^
+||ad.citynews.it^
 ||planner.tiscali.it^
 ||reklammen.spellchecker.lu^
 ||bn.gogo.mn^
@@ -8507,6 +8508,7 @@
 ||ast2ya4ee8wtnax.com^
 ||astarboka.com^
 ||astato.online^
+||asteandstilll.org^
 ||astehaub.net^
 ||astemolgachan.com^
 ||asterbiscusys.com^
@@ -8627,6 +8629,7 @@
 ||attributedrelease.com^
 ||attritioncombustible.com^
 ||atttkaapqvh.com^
+||attuneuvito.com^
 ||atwola.com^
 ||atzekromchan.com^
 ||au2m8.com^
@@ -12022,6 +12025,7 @@
 ||cyvjmnu.com^
 ||czaraptitude.com^
 ||czh5aa.xyz^
+||czuawlppipi.com^
 ||czuvzixm.com^
 ||czwxrnv.com^
 ||d-agency.net^
@@ -14255,6 +14259,7 @@
 ||fandmo.com^
 ||fantasiazoon.com^
 ||fantasticgap.pro^
+||fanxmfllqbyoy.top^
 ||fanza.cc^
 ||faoll.space^
 ||fapmeth.com^
@@ -15941,6 +15946,7 @@
 ||grimytax.pro^
 ||grinbettyreserve.com^
 ||grincircus.com^
+||grinneddairt.shop^
 ||gripehealth.com^
 ||gripping-bread.com^
 ||gripspigyard.com^
@@ -18005,6 +18011,7 @@
 ||joozoowoak.net^
 ||jopbvpsglwfm.com^
 ||joqowqyaarewj.top^
+||joqowqymkrowl.top^
 ||jorbfstarn.com^
 ||jorttiuyng.com^
 ||josephtotters.top^
@@ -18216,6 +18223,7 @@
 ||kangaroohiccups.com^
 ||kanoodle.com^
 ||kantiwl.com^
+||kaolinoleous.com^
 ||kaorpyqtjjld.com^
 ||kaphsfruiter.top^
 ||kapnqcbhdxjfokr.com^
@@ -19795,6 +19803,7 @@
 ||maticalmasterouh.info^
 ||matildawu.online^
 ||matiro.com^
+||matterforiwa.org^
 ||matterpalekept.com^
 ||mattockpackall.com^
 ||mattressashamed.com^
@@ -20471,7 +20480,6 @@
 ||moviesflix4k.info^
 ||moviesflix4k.xyz^
 ||moviesprofit.com^
-||movturs.click^
 ||mowcawdetour.com^
 ||mowhamsterradiator.com^
 ||mozgvya.com^
@@ -22490,6 +22498,7 @@
 ||paranoiaantiquarianstraightened.com^
 ||paranoiaourselves.com^
 ||paraodriki.com^
+||paraos.my^
 ||parasitevolatile.com^
 ||parasolsever.com^
 ||paravaprese.com^
@@ -24163,6 +24172,7 @@
 ||qavhivvcex.com^
 ||qawzwkvqayrlr.top^
 ||qax1a3si.uno^
+||qazjpdzhatxaw.vip^
 ||qazrvobkmqvmr.top^
 ||qbkraweaoewrv.top^
 ||qblllqzqezmvb.top^
@@ -26663,6 +26673,7 @@
 ||soapsudkerfed.com^
 ||soathouchoa.xyz^
 ||soawousa.xyz^
+||soawunoovaiwhog.net^
 ||soazookiminoo.net^
 ||sobakenchmaphk.com^
 ||sobesed.com^
@@ -30163,6 +30174,7 @@
 ||wdnkjctmnhqui.com^
 ||wdohhlagnjzi.com^
 ||wdoyouknowsai.org^
+||wdpaqlodreen.com^
 ||wdt9iaspfv3o.com^
 ||wdtyl.xyz^
 ||wduqxbvhpwd.xyz^
@@ -31018,6 +31030,7 @@
 ||yaervrqwtu.com^
 ||yahuu.org^
 ||yakmakhond.top^
+||yaksgwrkhufex.com^
 ||yallarec.com^
 ||yamanaisleepry.com^
 ||yamshikbrucia.top^
@@ -32960,6 +32973,7 @@
 ||rl1u0wknm1onstp8395too.xyz^
 ||sn2rrlv57qpss5w-qk8llu.xyz^
 ||ts28ll0tk23t2n9pl0n327.xyz^
+||w9l4tr4013tn5mo27t0w.xyz^
 ||wqq881m8uwq1k5m-4p7lv7.xyz^
 ||img-load.com^
 ||ad.lgappstv.com^
@@ -34758,6 +34772,8 @@
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||apishow.babybus.com^
+||apppromoteapi.babybus.com^
 ||tiktokpangle.us^
 ||lf-static.tiktokpangle-cdn-us.com^
 ||v8b9c0x1z2.sai7348.xyz^
@@ -87965,6 +87981,9 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||apishowstats.babybus.com^
+||tjinit-event.babybus.com^
+||tjinit-global-register.babybus.com^
 ||metrics-us.cometchat.io^
 ||clog.weverse.io^
 ||collection.weverse.io^
@@ -92430,6 +92449,7 @@
 ||ads2native.com^
 ||hdvmyo.com^
 ||adsy.mail.bg^
+||movturs.click^
 ||dontmakethem.club^
 ||subaxe.xyz^
 ||dahmnrmhyhsjxx.com^
@@ -99959,12 +99979,16 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||vunqrotm.com^
+||ghrs.cn^
+||pjbbhj.icu^
 ||thricrulnf.com^
 ||rtfgvz.icu^
 ||pekr.cn^
 ||bhdnti.top^
 ||bvcnmtv.top^
 ||iiyurraeoh.com^
+||mnrz.cn^
 ||ergiekszra.com^
 ||txvq.cn^
 ||tqjojh.icu^
