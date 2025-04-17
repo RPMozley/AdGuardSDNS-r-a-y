@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-17T08:35:24.804Z
+! Last modified: 2025-04-17T16:35:06.892Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 17 Apr 2025 08:35:14 +0000
+# Last converted - Thu, 17 Apr 2025 16:34:59 +0000
 #
 ||orquidea.ai^
 ||few-politics.com^
@@ -6951,6 +6951,7 @@
 ||ad.linksynergy.com^
 ||ad.mox.tv^
 ||ad.tradertimerz.media^
+||ad2f8c6f8e.com^
 ||ad2the.net^
 ||ad4.com.cn^
 ||ad4905c1db.com^
@@ -8283,6 +8284,7 @@
 ||aqjbfed.com^
 ||aqkkoalfpz.com^
 ||aqncinxrexa.com^
+||aqndcybah.com^
 ||aqnnysd.com^
 ||aqptziligoqn.com^
 ||aqpwckoqbjikrg.xyz^
@@ -11639,6 +11641,7 @@
 ||copieraback.com^
 ||copiousgoutswimwear.com^
 ||coppercranberrylamp.com^
+||copycatsoirees.top^
 ||copyrightmonastery.com^
 ||cor8ni3shwerex.com^
 ||cordclck.cc^
@@ -13565,6 +13568,7 @@
 ||egykofo.com^
 ||eh0ag0-rtbix.top^
 ||ehgavvcqj.xyz^
+||ehkualecb.com^
 ||ehlrxixabvzbo.tech^
 ||ehokeeshex.com^
 ||ehrydnmdoe.com^
@@ -19578,6 +19582,7 @@
 ||lwonclbench.com^
 ||lwoqroszooq.com^
 ||lwrnikzjpp.com^
+||lwxegrybymzah.love^
 ||lwxuo.com^
 ||lx2rv.com^
 ||lxiapwwqfcbms.tech^
@@ -20018,6 +20023,7 @@
 ||mediumdisarmament.com^
 ||mediumtunapatter.com^
 ||medleyads.com^
+||medlikeamate.org^
 ||medoofty.com^
 ||medriz.xyz^
 ||medusasglance.com^
@@ -22458,6 +22464,7 @@
 ||ozectynptd.com^
 ||ozkpkocib.com^
 ||ozlenbl.com^
+||ozmbzowg.com^
 ||ozmspawupo.com^
 ||ozobsaib.com^
 ||ozonemedia.com^
@@ -27555,6 +27562,7 @@
 ||sunflowercoastlineprobe.com^
 ||sunflowerinformed.com^
 ||sunglassesexpensive.com^
+||sungtoaz.club^
 ||sunkwarriors.com^
 ||sunmediaads.com^
 ||sunnshele.com^
@@ -29672,6 +29680,7 @@
 ||vazypteke.pro^
 ||vbhuivr.com^
 ||vbmjlevwwvyzj.top^
+||vbptgoyketwhv.global^
 ||vbrusdiifpfd.com^
 ||vbtrax.com^
 ||vcdc.com^
@@ -30004,6 +30013,7 @@
 ||voicepainlessdonut.com^
 ||voicepeaches.com^
 ||voicepythons.shop^
+||voidthemhen.org^
 ||vokaunget.xyz^
 ||volatintptr.com^
 ||volcaedecants.shop^
@@ -30942,6 +30952,7 @@
 ||wysasys.com^
 ||wyvlljvbbjvvm.top^
 ||wyvlllooalobz.top^
+||wywkwqzkavlvw.top^
 ||wzcuinglezyz.one^
 ||wzijtuxzut.com^
 ||wzk5ndpc3x05.com^
@@ -85538,6 +85549,10 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
+||sspnm.emol.com^
+||ssp.emol.com^
+||stats.emol.com^
+||rvv.emol.com^
 ||rma.homedepot.com^
 ||db7q4jg5rkhk8.cloudfront.net^
 ||backend-pixel.zotek.io^
@@ -90363,6 +90378,7 @@
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 ||za.zalo.me^
+||ads-redis.ecn.cl^
 ||publi.elliberal.com.ar^
 ||xad.dnoticias.pt^
 ||adclient-uol.lp.uol.com.br^
@@ -100145,7 +100161,11 @@
 ||hbeafcac.top^
 ||stildreans.com^
 ||uucnmtt.top^
+||iwcnmto.top^
+||dighavrap.com^
+||chienzul.com^
 ||vunqrotm.com^
+||lkmgjfkhfh.top^
 ||ghrs.cn^
 ||pjbbhj.icu^
 ||wucnmte.top^
