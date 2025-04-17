@@ -1,9 +1,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 17 Apr 2025 02:03:12 +0000
+# Last converted - Thu, 17 Apr 2025 08:35:14 +0000
 #
 
+0.0.0.0 orquidea.ai
 0.0.0.0 few-politics.com
 0.0.0.0 dreary-hunt.com
 0.0.0.0 craniolgozzan.com
@@ -32340,7 +32341,6 @@
 0.0.0.0 domainadvertising.com
 0.0.0.0 dotomi.com
 0.0.0.0 doubleclick.com
-0.0.0.0 doubleclick.net
 0.0.0.0 doubleverify.com
 0.0.0.0 dreamaquarium.com
 0.0.0.0 dropkickmedia.com
@@ -100201,6 +100201,11 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 ewdk.cn
+0.0.0.0 fflbpi.top
+0.0.0.0 hbeafcac.top
+0.0.0.0 stildreans.com
+0.0.0.0 uucnmtt.top
 0.0.0.0 vunqrotm.com
 0.0.0.0 ghrs.cn
 0.0.0.0 pjbbhj.icu
@@ -105055,6 +105060,7 @@
 0.0.0.0 tracking.ustream.tv
 0.0.0.0 trackpm.shop2market.com
 0.0.0.0 adocean.cz
+0.0.0.0 doubleclick.net
 0.0.0.0 vahufapave.com
 0.0.0.0 cewegncr.com
 0.0.0.0 dwabissw.com

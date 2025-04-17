@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-17T02:03:20.416Z
+! Last modified: 2025-04-17T08:35:24.804Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,9 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 17 Apr 2025 02:03:12 +0000
+# Last converted - Thu, 17 Apr 2025 08:35:14 +0000
 #
+||orquidea.ai^
 ||few-politics.com^
 ||dreary-hunt.com^
 ||craniolgozzan.com^
@@ -32314,7 +32315,6 @@
 ||domainadvertising.com^
 ||dotomi.com^
 ||doubleclick.com^
-||doubleclick.net^
 ||doubleverify.com^
 ||dreamaquarium.com^
 ||dropkickmedia.com^
@@ -100140,6 +100140,11 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||ewdk.cn^
+||fflbpi.top^
+||hbeafcac.top^
+||stildreans.com^
+||uucnmtt.top^
 ||vunqrotm.com^
 ||ghrs.cn^
 ||pjbbhj.icu^
@@ -104993,6 +104998,7 @@
 ||tracking.ustream.tv^
 ||trackpm.shop2market.com^
 ||adocean.cz^
+||doubleclick.net^
 ||vahufapave.com^
 ||cewegncr.com^
 ||dwabissw.com^
