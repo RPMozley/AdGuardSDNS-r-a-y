@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-19T01:58:18.627Z
+! Last modified: 2025-04-19T08:31:17.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 19 Apr 2025 01:58:12 +0000
+# Last converted - Sat, 19 Apr 2025 08:31:08 +0000
 #
 ||4bind2.cfd^
 ||orquidea.ai^
@@ -100095,6 +100095,10 @@
 ||cnzz.trafficmanager.net^
 ||mghezaxh.com^
 ||hhppzkhurf.com^
+||jktkhn.top^
+||tuyv.cn^
+||mucnmtx.top^
+||kwcnmtd.top^
 ||afvrolvial.com^
 ||jcfbgdbd.top^
 ||wigk.cn^

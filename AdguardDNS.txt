@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 19 Apr 2025 01:58:12 +0000
+# Last converted - Sat, 19 Apr 2025 08:31:08 +0000
 #
 
 0.0.0.0 4bind2.cfd
@@ -100156,6 +100156,10 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 mghezaxh.com
 0.0.0.0 hhppzkhurf.com
+0.0.0.0 jktkhn.top
+0.0.0.0 tuyv.cn
+0.0.0.0 mucnmtx.top
+0.0.0.0 kwcnmtd.top
 0.0.0.0 afvrolvial.com
 0.0.0.0 jcfbgdbd.top
 0.0.0.0 wigk.cn
