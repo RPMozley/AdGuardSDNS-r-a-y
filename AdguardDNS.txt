@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 18 Apr 2025 16:33:46 +0000
+# Last converted - Sat, 19 Apr 2025 01:58:12 +0000
 #
 
 0.0.0.0 4bind2.cfd
@@ -35559,6 +35559,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 webpageviews.click
 0.0.0.0 trafficsyncpro.com
 0.0.0.0 oply.hearstapps.com
 0.0.0.0 mobuppsweb.online
@@ -85511,6 +85512,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 kloggyr-service.kyruus.com
 0.0.0.0 geo.justwatch.com
 0.0.0.0 sspnm.emol.com
 0.0.0.0 ssp.emol.com
@@ -100152,6 +100154,8 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 mghezaxh.com
+0.0.0.0 hhppzkhurf.com
 0.0.0.0 afvrolvial.com
 0.0.0.0 jcfbgdbd.top
 0.0.0.0 wigk.cn
