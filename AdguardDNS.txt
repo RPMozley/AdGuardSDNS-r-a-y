@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 20 Apr 2025 08:30:57 +0000
+# Last converted - Sun, 20 Apr 2025 16:32:39 +0000
 #
 
 0.0.0.0 4bind2.cfd
@@ -5943,8 +5943,6 @@
 0.0.0.0 08082c0ad5.com
 0.0.0.0 0926a687679d337e9d.com
 0.0.0.0 095f2fc218.com
-0.0.0.0 0a0d-d3l1vr.b-cdn.net
-0.0.0.0 0a58b45e.b-cdn.net
 0.0.0.0 0af2a962b0102942d9a7df351b20be55.com
 0.0.0.0 0b63fb1aad.com
 0.0.0.0 0b6e17a630.com
@@ -6035,7 +6033,6 @@
 0.0.0.0 1empiredirect.com
 0.0.0.0 1ep.co
 0.0.0.0 1ep2l1253.de
-0.0.0.0 1f506eaf.b-cdn.net
 0.0.0.0 1f63b94163.com
 0.0.0.0 1f6bf6f5a3.com
 0.0.0.0 1f84e33459.com
@@ -6137,6 +6134,7 @@
 0.0.0.0 25073bb296.com
 0.0.0.0 250f0ma86.de
 0.0.0.0 2514june2024.com
+0.0.0.0 2516june2024.com
 0.0.0.0 2520june2024.com
 0.0.0.0 2522june2024.com
 0.0.0.0 254a.com
@@ -6147,7 +6145,6 @@
 0.0.0.0 26e8841da4.com
 0.0.0.0 26ea4af114.com
 0.0.0.0 26q4nn691.de
-0.0.0.0 27051a00.b-cdn.net
 0.0.0.0 27igqr8b.de
 0.0.0.0 291hkcido.de
 0.0.0.0 29a7397be5.com
@@ -6235,7 +6232,6 @@
 0.0.0.0 2ucz3ymr1.com
 0.0.0.0 2x2mfeed.com
 0.0.0.0 2xs4eumlc.com
-0.0.0.0 30032c91.b-cdn.net
 0.0.0.0 300daytravel.com
 0.0.0.0 301redirect.site
 0.0.0.0 302kslgdl.de
@@ -6271,7 +6267,6 @@
 0.0.0.0 31d6gphkr.de
 0.0.0.0 31daa5lnq.de
 0.0.0.0 31def61c3.de
-0.0.0.0 31def833.b-cdn.net
 0.0.0.0 31o0jl63.de
 0.0.0.0 31v1scl527hm.shop
 0.0.0.0 321naturelikefurfuroid.com
@@ -6279,7 +6274,6 @@
 0.0.0.0 32596c0d85.com
 0.0.0.0 32ae2295ab.com
 0.0.0.0 331f7bf198.com
-0.0.0.0 3426e3de.b-cdn.net
 0.0.0.0 34d5566a50.com
 0.0.0.0 350c2478fb.com
 0.0.0.0 3575e2d4e6.com
@@ -6405,7 +6399,6 @@
 0.0.0.0 548f23e472.com
 0.0.0.0 551ba6c442.com
 0.0.0.0 558ao12sqrok.top
-0.0.0.0 55bcf1aa.b-cdn.net
 0.0.0.0 55f4605f6d.com
 0.0.0.0 562i7aqkxu.com
 0.0.0.0 56bfc388bf12.com
@@ -6413,7 +6406,6 @@
 0.0.0.0 56rt2692.de
 0.0.0.0 5707f9766c.com
 0.0.0.0 574ae48fe5.com
-0.0.0.0 578297a5.b-cdn.net
 0.0.0.0 578d72001a.com
 0.0.0.0 579eede9ca.com
 0.0.0.0 582155316e.com
@@ -6562,9 +6554,7 @@
 0.0.0.0 85a90880b9.com
 0.0.0.0 85fef60641.com
 0.0.0.0 864feb57ruary.com
-0.0.0.0 87104801.b-cdn.net
 0.0.0.0 877f80dfaa.com
-0.0.0.0 87fa4b7e.b-cdn.net
 0.0.0.0 884de19f2b.com
 0.0.0.0 888promos.com
 0.0.0.0 88cb0eb486.com
@@ -6593,13 +6583,11 @@
 0.0.0.0 908df012d9bb72e6d26b41054588d758.com
 0.0.0.0 90b8ae1064.com
 0.0.0.0 910de7044f.com
-0.0.0.0 91116e9f.b-cdn.net
 0.0.0.0 9119fa4031.com
 0.0.0.0 9130ec9212.com
 0.0.0.0 915c63962f.com
 0.0.0.0 916cad6201.com
 0.0.0.0 91cd3khn.de
-0.0.0.0 91fbab6d.b-cdn.net
 0.0.0.0 921b6384ac.com
 0.0.0.0 92888e5ff3.com
 0.0.0.0 92d31be64a.com
@@ -6629,7 +6617,6 @@
 0.0.0.0 9adbbad978.com
 0.0.0.0 9ads.mobi
 0.0.0.0 9analytics.live
-0.0.0.0 9b583af3.b-cdn.net
 0.0.0.0 9bbbabcb26.com
 0.0.0.0 9c867e2056.com
 0.0.0.0 9cbj41a5.de
@@ -6749,7 +6736,6 @@
 0.0.0.0 abedwest.com
 0.0.0.0 abelestheca.com
 0.0.0.0 abethow.com
-0.0.0.0 abf53a6f.b-cdn.net
 0.0.0.0 abfpismxdajpnc.com
 0.0.0.0 abgeobalancer.com
 0.0.0.0 abgligarchan.com
@@ -7004,7 +6990,6 @@
 0.0.0.0 adblock-zen.com
 0.0.0.0 adblockanalytics.com
 0.0.0.0 adblocker-instant.xyz
-0.0.0.0 adblockers.b-cdn.net
 0.0.0.0 adbmi.com
 0.0.0.0 adbooth.com
 0.0.0.0 adbooth.net
@@ -7232,7 +7217,6 @@
 0.0.0.0 adrokt.com
 0.0.0.0 adrta.com
 0.0.0.0 adrunnr.com
-0.0.0.0 ads-delivery.b-cdn.net
 0.0.0.0 ads-static.conde.digital
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.lemmatechnologies.com
@@ -7998,6 +7982,7 @@
 0.0.0.0 amazon-cornerstone.com
 0.0.0.0 ambaab.com
 0.0.0.0 ambeapres.shop
+0.0.0.0 ambie.site
 0.0.0.0 ambientplatform.vn
 0.0.0.0 ambiguouscovertrustless.com
 0.0.0.0 ambiguousexposeoccupancy.com
@@ -9004,11 +8989,8 @@
 0.0.0.0 b3z29k1uxb.com
 0.0.0.0 b41732fb1b.com
 0.0.0.0 b42rracj.com
-0.0.0.0 b442172e.b-cdn.net
 0.0.0.0 b57dqedu4.com
 0.0.0.0 b58ncoa1c07f.com
-0.0.0.0 b5a2e40a.b-cdn.net
-0.0.0.0 b5f000a8.b-cdn.net
 0.0.0.0 b6b2d31f7e.com
 0.0.0.0 b6f16b3cd2.com
 0.0.0.0 b73uszzq3g9h.com
@@ -9225,7 +9207,6 @@
 0.0.0.0 bazamodov.ru
 0.0.0.0 bb2r.com
 0.0.0.0 bbad91e014.com
-0.0.0.0 bbangads.b-cdn.net
 0.0.0.0 bbcrgate.com
 0.0.0.0 bbd834il.de
 0.0.0.0 bbgtranst.com
@@ -10443,6 +10424,7 @@
 0.0.0.0 caltertangintin.com
 0.0.0.0 calvali.com
 0.0.0.0 camads.net
+0.0.0.0 cambaddies.com
 0.0.0.0 camberchimp.com
 0.0.0.0 cambridgeinadmissibleapathetic.com
 0.0.0.0 cameesse.net
@@ -10573,7 +10555,6 @@
 0.0.0.0 castingmannergrim.com
 0.0.0.0 castleconscienceenquired.com
 0.0.0.0 casumoaffiliates.com
-0.0.0.0 catandmousegame.b-cdn.net
 0.0.0.0 catastropheillusive.com
 0.0.0.0 catchymorselguffaw.com
 0.0.0.0 cateringblizzardburn.com
@@ -12086,6 +12067,7 @@
 0.0.0.0 cylnkee.com
 0.0.0.0 cyneburg-yam.com
 0.0.0.0 cynem.xyz
+0.0.0.0 cynipidskurry.top
 0.0.0.0 cypfdxbynb.com
 0.0.0.0 cypresslocum.com
 0.0.0.0 cyrociest.shop
@@ -12446,7 +12428,6 @@
 0.0.0.0 delicateomissionarched.com
 0.0.0.0 delicious-slip.pro
 0.0.0.0 deliciousdaredowen.com
-0.0.0.0 delicioustaco.b-cdn.net
 0.0.0.0 delightacheless.com
 0.0.0.0 delightedheavy.com
 0.0.0.0 delightedplash.com
@@ -12600,7 +12581,6 @@
 0.0.0.0 deymalaise.com
 0.0.0.0 deypersonalreco.com
 0.0.0.0 dezna.online
-0.0.0.0 df3a81b4.b-cdn.net
 0.0.0.0 dfaobxanhdfa.com
 0.0.0.0 dfd55780d6.com
 0.0.0.0 dfdgfruitie.xyz
@@ -12927,6 +12907,7 @@
 0.0.0.0 dntigerly.top
 0.0.0.0 dnvgecz.com
 0.0.0.0 do7go.com
+0.0.0.0 doabbrews.shop
 0.0.0.0 doadacefaipti.net
 0.0.0.0 doaipomer.com
 0.0.0.0 doajauhopi.xyz
@@ -13415,7 +13396,6 @@
 0.0.0.0 eatasesetitoefany.com
 0.0.0.0 eaterdrewduchess.com
 0.0.0.0 eatmenttogeth.com
-0.0.0.0 eatthiskok.b-cdn.net
 0.0.0.0 eautifulasaweathercoc.org
 0.0.0.0 eavefrom.net
 0.0.0.0 eavesdroplimetree.com
@@ -14218,7 +14198,6 @@
 0.0.0.0 f224b87a57.com
 0.0.0.0 f2svgmvts.com
 0.0.0.0 f3010e5e7a.com
-0.0.0.0 f3eb2b32.b-cdn.net
 0.0.0.0 f43f5a2390.com
 0.0.0.0 f53d954cc5.com
 0.0.0.0 f58x48lpn.com
@@ -14433,7 +14412,6 @@
 0.0.0.0 feevoawaish.net
 0.0.0.0 feevolaphie.net
 0.0.0.0 feewostoo.com
-0.0.0.0 fef258ef.b-cdn.net
 0.0.0.0 fef86b659b.com
 0.0.0.0 fefinegoldforeyes.com
 0.0.0.0 feghijupvucw.com
@@ -14876,6 +14854,7 @@
 0.0.0.0 forooqso.tv
 0.0.0.0 forprimeapeon.com
 0.0.0.0 forsawka.com
+0.0.0.0 forscprts.com
 0.0.0.0 forseisemelo.top
 0.0.0.0 forsphealan.com
 0.0.0.0 fortaillowon.com
@@ -16159,6 +16138,7 @@
 0.0.0.0 guypane.com
 0.0.0.0 guzdhs26.xyz
 0.0.0.0 gvt2.com
+0.0.0.0 gvyptfvufegymdd.com
 0.0.0.0 gwallet.com
 0.0.0.0 gwalpecawo.com
 0.0.0.0 gwamirfz.com
@@ -16623,6 +16603,7 @@
 0.0.0.0 higrigake.com
 0.0.0.0 hiidevelelastic.com
 0.0.0.0 hiiona.com
+0.0.0.0 hijaipootuk.net
 0.0.0.0 hikbzyfwomky.com
 0.0.0.0 hikestale.com
 0.0.0.0 hikinghourcataract.com
@@ -16829,7 +16810,6 @@
 0.0.0.0 hormosdebris.com
 0.0.0.0 hornsobserveinquiries.com
 0.0.0.0 horny.su
-0.0.0.0 hornylitics.b-cdn.net
 0.0.0.0 horrible-career.pro
 0.0.0.0 horriblysparkling.com
 0.0.0.0 horrifiedloudly.com
@@ -16987,6 +16967,7 @@
 0.0.0.0 hunterlead.com
 0.0.0.0 huntersaturateunbeaten.com
 0.0.0.0 huntershoemaker.com
+0.0.0.0 hunyakkelder.top
 0.0.0.0 hupot.site
 0.0.0.0 huqbeiy.com
 0.0.0.0 hurdlesomehowpause.com
@@ -18354,7 +18335,6 @@
 0.0.0.0 keegoagrauptach.net
 0.0.0.0 keen-slip.com
 0.0.0.0 keenmagwife.live
-0.0.0.0 keepblockingthislol.b-cdn.net
 0.0.0.0 keepinfit.net
 0.0.0.0 keepsosto.com
 0.0.0.0 keeraiwhum.com
@@ -22945,7 +22925,6 @@
 0.0.0.0 perfectionministerfeasible.com
 0.0.0.0 perfectmarket.com
 0.0.0.0 perfectplanned.com
-0.0.0.0 performance-check.b-cdn.net
 0.0.0.0 performanceadexchange.com
 0.0.0.0 performanceonclick.com
 0.0.0.0 performancetrustednetwork.com
@@ -25388,6 +25367,7 @@
 0.0.0.0 rjw4obbw.com
 0.0.0.0 rjwwqkrmyvlqy.top
 0.0.0.0 rjxphruqiu.com
+0.0.0.0 rjzbvmbybvabv.top
 0.0.0.0 rjzbvmbybvrjy.top
 0.0.0.0 rkapghq.com
 0.0.0.0 rkatamonju.info
@@ -26197,6 +26177,7 @@
 0.0.0.0 sensationtwigpresumptuous.com
 0.0.0.0 senscirrascul.co.in
 0.0.0.0 sensifyfugged.com
+0.0.0.0 sensitiveclick.com
 0.0.0.0 sensitivenessvalleyparasol.com
 0.0.0.0 sensorpluck.com
 0.0.0.0 sensualsheilas.com
@@ -26643,6 +26624,7 @@
 0.0.0.0 sjetnf-oizyo.buzz
 0.0.0.0 sjgtsqnmrqswz.space
 0.0.0.0 sjilyhwpu.xyz
+0.0.0.0 sjonkhydb.com
 0.0.0.0 sjqgmtyxlrjlc.top
 0.0.0.0 sjsabb.com
 0.0.0.0 sjtactic.com
@@ -27196,7 +27178,6 @@
 0.0.0.0 srvupads.com
 0.0.0.0 srxy.xyz
 0.0.0.0 srysvqjjcjwjc.xyz
-0.0.0.0 ss-mndsrv.b-cdn.net
 0.0.0.0 ss0uu1lpirig.com
 0.0.0.0 ssedonthep.info
 0.0.0.0 ssenciokvgk.com
@@ -28287,6 +28268,7 @@
 0.0.0.0 thoorteeboo.xyz
 0.0.0.0 thoosatheedo.net
 0.0.0.0 thootsoumsoa.com
+0.0.0.0 thooxoograiran.com
 0.0.0.0 thordoodovoo.net
 0.0.0.0 thoroughlyhoraceclip.com
 0.0.0.0 thoroughlypantry.com
@@ -29810,7 +29792,6 @@
 0.0.0.0 vereforhedidn.org
 0.0.0.0 vereforhedidno.info
 0.0.0.0 verifiablevolume.com
-0.0.0.0 verify-human.b-cdn.net
 0.0.0.0 veristouh.net
 0.0.0.0 veritrol.com
 0.0.0.0 vernongermanessence.com
@@ -30616,6 +30597,7 @@
 0.0.0.0 whugesto.net
 0.0.0.0 whulrima.xyz
 0.0.0.0 whulsaux.com
+0.0.0.0 whustoargaukro.net
 0.0.0.0 whutchey.com
 0.0.0.0 whuzucot.net
 0.0.0.0 whvxstats.com
@@ -30928,6 +30910,7 @@
 0.0.0.0 wsatylyuqqtyhxv.com
 0.0.0.0 wsentativesathya.org
 0.0.0.0 wsjlbbqemr23.com
+0.0.0.0 wsmntbroul.com
 0.0.0.0 wspfskknmnzvq.rocks
 0.0.0.0 wspsbhvnjk.com
 0.0.0.0 wstep4.biz
@@ -31002,6 +30985,7 @@
 0.0.0.0 wyrockraptest.shop
 0.0.0.0 wysasys.com
 0.0.0.0 wyvlljvbbjvvm.top
+0.0.0.0 wyvlllooalkbv.top
 0.0.0.0 wyvlllooalobz.top
 0.0.0.0 wywkwqzkavlvw.top
 0.0.0.0 wzcuinglezyz.one
@@ -31645,6 +31629,7 @@
 0.0.0.0 zoozishooh.com
 0.0.0.0 zorango.com
 0.0.0.0 zordaustewhoh.com
+0.0.0.0 zorduwaidroom.net
 0.0.0.0 zougreek.com
 0.0.0.0 zouloafi.net
 0.0.0.0 zounokawewoaru.com
@@ -100255,6 +100240,7 @@
 0.0.0.0 hjvzfa.top
 0.0.0.0 swcnmtb.top
 0.0.0.0 iucnwto.top
+0.0.0.0 ltmarilsf.com
 0.0.0.0 mghezaxh.com
 0.0.0.0 hhppzkhurf.com
 0.0.0.0 jktkhn.top

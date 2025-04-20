@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-20T08:31:04.149Z
+! Last modified: 2025-04-20T16:32:47.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 20 Apr 2025 08:30:57 +0000
+# Last converted - Sun, 20 Apr 2025 16:32:39 +0000
 #
 ||4bind2.cfd^
 ||orquidea.ai^
@@ -5917,8 +5917,6 @@
 ||08082c0ad5.com^
 ||0926a687679d337e9d.com^
 ||095f2fc218.com^
-||0a0d-d3l1vr.b-cdn.net^
-||0a58b45e.b-cdn.net^
 ||0af2a962b0102942d9a7df351b20be55.com^
 ||0b63fb1aad.com^
 ||0b6e17a630.com^
@@ -6009,7 +6007,6 @@
 ||1empiredirect.com^
 ||1ep.co^
 ||1ep2l1253.de^
-||1f506eaf.b-cdn.net^
 ||1f63b94163.com^
 ||1f6bf6f5a3.com^
 ||1f84e33459.com^
@@ -6111,6 +6108,7 @@
 ||25073bb296.com^
 ||250f0ma86.de^
 ||2514june2024.com^
+||2516june2024.com^
 ||2520june2024.com^
 ||2522june2024.com^
 ||254a.com^
@@ -6121,7 +6119,6 @@
 ||26e8841da4.com^
 ||26ea4af114.com^
 ||26q4nn691.de^
-||27051a00.b-cdn.net^
 ||27igqr8b.de^
 ||291hkcido.de^
 ||29a7397be5.com^
@@ -6209,7 +6206,6 @@
 ||2ucz3ymr1.com^
 ||2x2mfeed.com^
 ||2xs4eumlc.com^
-||30032c91.b-cdn.net^
 ||300daytravel.com^
 ||301redirect.site^
 ||302kslgdl.de^
@@ -6245,7 +6241,6 @@
 ||31d6gphkr.de^
 ||31daa5lnq.de^
 ||31def61c3.de^
-||31def833.b-cdn.net^
 ||31o0jl63.de^
 ||31v1scl527hm.shop^
 ||321naturelikefurfuroid.com^
@@ -6253,7 +6248,6 @@
 ||32596c0d85.com^
 ||32ae2295ab.com^
 ||331f7bf198.com^
-||3426e3de.b-cdn.net^
 ||34d5566a50.com^
 ||350c2478fb.com^
 ||3575e2d4e6.com^
@@ -6379,7 +6373,6 @@
 ||548f23e472.com^
 ||551ba6c442.com^
 ||558ao12sqrok.top^
-||55bcf1aa.b-cdn.net^
 ||55f4605f6d.com^
 ||562i7aqkxu.com^
 ||56bfc388bf12.com^
@@ -6387,7 +6380,6 @@
 ||56rt2692.de^
 ||5707f9766c.com^
 ||574ae48fe5.com^
-||578297a5.b-cdn.net^
 ||578d72001a.com^
 ||579eede9ca.com^
 ||582155316e.com^
@@ -6536,9 +6528,7 @@
 ||85a90880b9.com^
 ||85fef60641.com^
 ||864feb57ruary.com^
-||87104801.b-cdn.net^
 ||877f80dfaa.com^
-||87fa4b7e.b-cdn.net^
 ||884de19f2b.com^
 ||888promos.com^
 ||88cb0eb486.com^
@@ -6567,13 +6557,11 @@
 ||908df012d9bb72e6d26b41054588d758.com^
 ||90b8ae1064.com^
 ||910de7044f.com^
-||91116e9f.b-cdn.net^
 ||9119fa4031.com^
 ||9130ec9212.com^
 ||915c63962f.com^
 ||916cad6201.com^
 ||91cd3khn.de^
-||91fbab6d.b-cdn.net^
 ||921b6384ac.com^
 ||92888e5ff3.com^
 ||92d31be64a.com^
@@ -6603,7 +6591,6 @@
 ||9adbbad978.com^
 ||9ads.mobi^
 ||9analytics.live^
-||9b583af3.b-cdn.net^
 ||9bbbabcb26.com^
 ||9c867e2056.com^
 ||9cbj41a5.de^
@@ -6723,7 +6710,6 @@
 ||abedwest.com^
 ||abelestheca.com^
 ||abethow.com^
-||abf53a6f.b-cdn.net^
 ||abfpismxdajpnc.com^
 ||abgeobalancer.com^
 ||abgligarchan.com^
@@ -6978,7 +6964,6 @@
 ||adblock-zen.com^
 ||adblockanalytics.com^
 ||adblocker-instant.xyz^
-||adblockers.b-cdn.net^
 ||adbmi.com^
 ||adbooth.com^
 ||adbooth.net^
@@ -7206,7 +7191,6 @@
 ||adrokt.com^
 ||adrta.com^
 ||adrunnr.com^
-||ads-delivery.b-cdn.net^
 ||ads-static.conde.digital^
 ||ads-twitter.com^
 ||ads.lemmatechnologies.com^
@@ -7972,6 +7956,7 @@
 ||amazon-cornerstone.com^
 ||ambaab.com^
 ||ambeapres.shop^
+||ambie.site^
 ||ambientplatform.vn^
 ||ambiguouscovertrustless.com^
 ||ambiguousexposeoccupancy.com^
@@ -8978,11 +8963,8 @@
 ||b3z29k1uxb.com^
 ||b41732fb1b.com^
 ||b42rracj.com^
-||b442172e.b-cdn.net^
 ||b57dqedu4.com^
 ||b58ncoa1c07f.com^
-||b5a2e40a.b-cdn.net^
-||b5f000a8.b-cdn.net^
 ||b6b2d31f7e.com^
 ||b6f16b3cd2.com^
 ||b73uszzq3g9h.com^
@@ -9199,7 +9181,6 @@
 ||bazamodov.ru^
 ||bb2r.com^
 ||bbad91e014.com^
-||bbangads.b-cdn.net^
 ||bbcrgate.com^
 ||bbd834il.de^
 ||bbgtranst.com^
@@ -10417,6 +10398,7 @@
 ||caltertangintin.com^
 ||calvali.com^
 ||camads.net^
+||cambaddies.com^
 ||camberchimp.com^
 ||cambridgeinadmissibleapathetic.com^
 ||cameesse.net^
@@ -10547,7 +10529,6 @@
 ||castingmannergrim.com^
 ||castleconscienceenquired.com^
 ||casumoaffiliates.com^
-||catandmousegame.b-cdn.net^
 ||catastropheillusive.com^
 ||catchymorselguffaw.com^
 ||cateringblizzardburn.com^
@@ -12060,6 +12041,7 @@
 ||cylnkee.com^
 ||cyneburg-yam.com^
 ||cynem.xyz^
+||cynipidskurry.top^
 ||cypfdxbynb.com^
 ||cypresslocum.com^
 ||cyrociest.shop^
@@ -12420,7 +12402,6 @@
 ||delicateomissionarched.com^
 ||delicious-slip.pro^
 ||deliciousdaredowen.com^
-||delicioustaco.b-cdn.net^
 ||delightacheless.com^
 ||delightedheavy.com^
 ||delightedplash.com^
@@ -12574,7 +12555,6 @@
 ||deymalaise.com^
 ||deypersonalreco.com^
 ||dezna.online^
-||df3a81b4.b-cdn.net^
 ||dfaobxanhdfa.com^
 ||dfd55780d6.com^
 ||dfdgfruitie.xyz^
@@ -12901,6 +12881,7 @@
 ||dntigerly.top^
 ||dnvgecz.com^
 ||do7go.com^
+||doabbrews.shop^
 ||doadacefaipti.net^
 ||doaipomer.com^
 ||doajauhopi.xyz^
@@ -13389,7 +13370,6 @@
 ||eatasesetitoefany.com^
 ||eaterdrewduchess.com^
 ||eatmenttogeth.com^
-||eatthiskok.b-cdn.net^
 ||eautifulasaweathercoc.org^
 ||eavefrom.net^
 ||eavesdroplimetree.com^
@@ -14192,7 +14172,6 @@
 ||f224b87a57.com^
 ||f2svgmvts.com^
 ||f3010e5e7a.com^
-||f3eb2b32.b-cdn.net^
 ||f43f5a2390.com^
 ||f53d954cc5.com^
 ||f58x48lpn.com^
@@ -14407,7 +14386,6 @@
 ||feevoawaish.net^
 ||feevolaphie.net^
 ||feewostoo.com^
-||fef258ef.b-cdn.net^
 ||fef86b659b.com^
 ||fefinegoldforeyes.com^
 ||feghijupvucw.com^
@@ -14850,6 +14828,7 @@
 ||forooqso.tv^
 ||forprimeapeon.com^
 ||forsawka.com^
+||forscprts.com^
 ||forseisemelo.top^
 ||forsphealan.com^
 ||fortaillowon.com^
@@ -16133,6 +16112,7 @@
 ||guypane.com^
 ||guzdhs26.xyz^
 ||gvt2.com^
+||gvyptfvufegymdd.com^
 ||gwallet.com^
 ||gwalpecawo.com^
 ||gwamirfz.com^
@@ -16597,6 +16577,7 @@
 ||higrigake.com^
 ||hiidevelelastic.com^
 ||hiiona.com^
+||hijaipootuk.net^
 ||hikbzyfwomky.com^
 ||hikestale.com^
 ||hikinghourcataract.com^
@@ -16803,7 +16784,6 @@
 ||hormosdebris.com^
 ||hornsobserveinquiries.com^
 ||horny.su^
-||hornylitics.b-cdn.net^
 ||horrible-career.pro^
 ||horriblysparkling.com^
 ||horrifiedloudly.com^
@@ -16961,6 +16941,7 @@
 ||hunterlead.com^
 ||huntersaturateunbeaten.com^
 ||huntershoemaker.com^
+||hunyakkelder.top^
 ||hupot.site^
 ||huqbeiy.com^
 ||hurdlesomehowpause.com^
@@ -18328,7 +18309,6 @@
 ||keegoagrauptach.net^
 ||keen-slip.com^
 ||keenmagwife.live^
-||keepblockingthislol.b-cdn.net^
 ||keepinfit.net^
 ||keepsosto.com^
 ||keeraiwhum.com^
@@ -22919,7 +22899,6 @@
 ||perfectionministerfeasible.com^
 ||perfectmarket.com^
 ||perfectplanned.com^
-||performance-check.b-cdn.net^
 ||performanceadexchange.com^
 ||performanceonclick.com^
 ||performancetrustednetwork.com^
@@ -25362,6 +25341,7 @@
 ||rjw4obbw.com^
 ||rjwwqkrmyvlqy.top^
 ||rjxphruqiu.com^
+||rjzbvmbybvabv.top^
 ||rjzbvmbybvrjy.top^
 ||rkapghq.com^
 ||rkatamonju.info^
@@ -26171,6 +26151,7 @@
 ||sensationtwigpresumptuous.com^
 ||senscirrascul.co.in^
 ||sensifyfugged.com^
+||sensitiveclick.com^
 ||sensitivenessvalleyparasol.com^
 ||sensorpluck.com^
 ||sensualsheilas.com^
@@ -26617,6 +26598,7 @@
 ||sjetnf-oizyo.buzz^
 ||sjgtsqnmrqswz.space^
 ||sjilyhwpu.xyz^
+||sjonkhydb.com^
 ||sjqgmtyxlrjlc.top^
 ||sjsabb.com^
 ||sjtactic.com^
@@ -27170,7 +27152,6 @@
 ||srvupads.com^
 ||srxy.xyz^
 ||srysvqjjcjwjc.xyz^
-||ss-mndsrv.b-cdn.net^
 ||ss0uu1lpirig.com^
 ||ssedonthep.info^
 ||ssenciokvgk.com^
@@ -28261,6 +28242,7 @@
 ||thoorteeboo.xyz^
 ||thoosatheedo.net^
 ||thootsoumsoa.com^
+||thooxoograiran.com^
 ||thordoodovoo.net^
 ||thoroughlyhoraceclip.com^
 ||thoroughlypantry.com^
@@ -29784,7 +29766,6 @@
 ||vereforhedidn.org^
 ||vereforhedidno.info^
 ||verifiablevolume.com^
-||verify-human.b-cdn.net^
 ||veristouh.net^
 ||veritrol.com^
 ||vernongermanessence.com^
@@ -30590,6 +30571,7 @@
 ||whugesto.net^
 ||whulrima.xyz^
 ||whulsaux.com^
+||whustoargaukro.net^
 ||whutchey.com^
 ||whuzucot.net^
 ||whvxstats.com^
@@ -30902,6 +30884,7 @@
 ||wsatylyuqqtyhxv.com^
 ||wsentativesathya.org^
 ||wsjlbbqemr23.com^
+||wsmntbroul.com^
 ||wspfskknmnzvq.rocks^
 ||wspsbhvnjk.com^
 ||wstep4.biz^
@@ -30976,6 +30959,7 @@
 ||wyrockraptest.shop^
 ||wysasys.com^
 ||wyvlljvbbjvvm.top^
+||wyvlllooalkbv.top^
 ||wyvlllooalobz.top^
 ||wywkwqzkavlvw.top^
 ||wzcuinglezyz.one^
@@ -31619,6 +31603,7 @@
 ||zoozishooh.com^
 ||zorango.com^
 ||zordaustewhoh.com^
+||zorduwaidroom.net^
 ||zougreek.com^
 ||zouloafi.net^
 ||zounokawewoaru.com^
@@ -100194,6 +100179,7 @@
 ||hjvzfa.top^
 ||swcnmtb.top^
 ||iucnwto.top^
+||ltmarilsf.com^
 ||mghezaxh.com^
 ||hhppzkhurf.com^
 ||jktkhn.top^
