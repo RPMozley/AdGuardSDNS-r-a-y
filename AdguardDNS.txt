@@ -1,9 +1,11 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 22 Apr 2025 02:04:04 +0000
+# Last converted - Tue, 22 Apr 2025 08:35:43 +0000
 #
 
+0.0.0.0 keethoostoaps.net
+0.0.0.0 rneniibeiijmxeb.com
 0.0.0.0 s2.static.cfgr3.com
 0.0.0.0 4bind2.cfd
 0.0.0.0 orquidea.ai
@@ -94857,6 +94859,7 @@
 0.0.0.0 tourn.co
 0.0.0.0 tourn.se
 0.0.0.0 tr.apsisforms.com
+0.0.0.0 track.yetric.net
 0.0.0.0 tracker.zummycloud.com
 0.0.0.0 tracker.kollega.open-analytics.se
 0.0.0.0 tracker.kulturradet.open-analytics.se
@@ -100565,6 +100568,9 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 grimoiksep.com
 0.0.0.0 iutq.cn
+0.0.0.0 lhdnba.top
+0.0.0.0 eucnwtw.top
+0.0.0.0 wwcnmte.top
 0.0.0.0 hgreils.com
 0.0.0.0 lvqo.cn
 0.0.0.0 jibtdn.top
