@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 22 Apr 2025 16:35:40 +0000
+# Last converted - Wed, 23 Apr 2025 02:04:38 +0000
 #
 
 0.0.0.0 semygruja.com
@@ -2602,7 +2602,6 @@
 0.0.0.0 f4180a6e8c.ed908e7884.com
 0.0.0.0 f44e776d83.c9e362ce20.com
 0.0.0.0 f4611b5cd8.9900149f2a.com
-0.0.0.0 f6c8374b9b.4c81b78eca.com
 0.0.0.0 f860ddd061.6bc1f4d014.com
 0.0.0.0 f97c68bed0.0a10a1bb7b.com
 0.0.0.0 fa3b0cdce1.37e1087e51.com
@@ -2635,7 +2634,6 @@
 0.0.0.0 4ad8ea329d.f168b7fa34.com
 0.0.0.0 4ef69e5814.c7b419036b.com
 0.0.0.0 4fc2d0c0e2.abb030d6a7.com
-0.0.0.0 503f39274f.cc33b86bbf.com
 0.0.0.0 5364d8c646.aa92754c5e.com
 0.0.0.0 54d6a7edfb.218cc08472.com
 0.0.0.0 58c19941c7.78af853196.com
@@ -6351,6 +6349,7 @@
 0.0.0.0 4armn.com
 0.0.0.0 4b6994dfa47cee4.com
 0.0.0.0 4bad5cdf48.com
+0.0.0.0 4c81b78eca.com
 0.0.0.0 4c935d6a244f.com
 0.0.0.0 4co7mbsb.de
 0.0.0.0 4d33a4adbc.com
@@ -6485,6 +6484,7 @@
 0.0.0.0 6zy9yqe1ew.com
 0.0.0.0 7-7-7-partner.com
 0.0.0.0 70b7d98dec.com
+0.0.0.0 71df446534.com
 0.0.0.0 721ffc3ec5.com
 0.0.0.0 72hdgb5o.de
 0.0.0.0 730fcb332f.com
@@ -10617,6 +10617,7 @@
 0.0.0.0 cbro.win
 0.0.0.0 cbyqzt.xy
 0.0.0.0 cc-dt.com
+0.0.0.0 cc33b86bbf.com
 0.0.0.0 ccaa0e51d8.com
 0.0.0.0 ccc9c93083.com
 0.0.0.0 cchdbond.com
@@ -12914,6 +12915,7 @@
 0.0.0.0 dmavtliwh.global
 0.0.0.0 dmetherearlyinhes.info
 0.0.0.0 dmeukeuktyoue.info
+0.0.0.0 dmgsymwgj.com
 0.0.0.0 dmhbbivu.top
 0.0.0.0 dmhclkohnrpvg.com
 0.0.0.0 dmiredindeed.com
@@ -14111,6 +14113,7 @@
 0.0.0.0 excessiveunwind.com
 0.0.0.0 excessstumbledvisited.com
 0.0.0.0 exchange-traffic.com
+0.0.0.0 excitablepass.com
 0.0.0.0 excitead.com
 0.0.0.0 excitementcolossalrelax.com
 0.0.0.0 excitementoppressive.com
@@ -18172,6 +18175,7 @@
 0.0.0.0 jqueryoi.com
 0.0.0.0 jqueryserve.org
 0.0.0.0 jqueryserver.com
+0.0.0.0 jrbbavbvqmbzl.top
 0.0.0.0 jrfngdrodrdop.icu
 0.0.0.0 jriortnf.com
 0.0.0.0 jrolyrlabybmz.top
@@ -18556,6 +18560,7 @@
 0.0.0.0 kkeugrilxgql.com
 0.0.0.0 kkieeoxcjpqah.vip
 0.0.0.0 kkmacsqsbf.info
+0.0.0.0 kknkcyrkvoqsqa.com
 0.0.0.0 kkoacpohjomc.com
 0.0.0.0 kkqcnrk.com
 0.0.0.0 kkvesjzn.com
@@ -20961,6 +20966,7 @@
 0.0.0.0 naukegainok.net
 0.0.0.0 naulageaortas.com
 0.0.0.0 naulme.info
+0.0.0.0 naunoniwaimoo.net
 0.0.0.0 naupsakiwhy.com
 0.0.0.0 naupseko.com
 0.0.0.0 naupsithizeekee.com
@@ -21445,6 +21451,7 @@
 0.0.0.0 nqowmugodougu.com
 0.0.0.0 nqrkzcd7ixwr.com
 0.0.0.0 nqslmtuswqdz.com
+0.0.0.0 nqucjilr.com
 0.0.0.0 nqvi-lnlu.icu
 0.0.0.0 nrcykmnukb.com
 0.0.0.0 nrdpfnpqunyle.rocks
@@ -23156,6 +23163,7 @@
 0.0.0.0 phautchiwaiw.net
 0.0.0.0 phburwtzjusbh.site
 0.0.0.0 pheasantarmpitswallow.com
+0.0.0.0 phechiptupti.pro
 0.0.0.0 phecoungaudsi.net
 0.0.0.0 phee1oci.com
 0.0.0.0 pheedsoan.com
@@ -26148,6 +26156,7 @@
 0.0.0.0 scriptcdn.net
 0.0.0.0 scriptvealpatronage.com
 0.0.0.0 scritchmaranta.shop
+0.0.0.0 scriveaerocar.top
 0.0.0.0 scrollye.com
 0.0.0.0 scruboutdoorsoffensive.com
 0.0.0.0 scruftsurface.top
@@ -27643,6 +27652,7 @@
 0.0.0.0 stupid-luck.com
 0.0.0.0 stupidityscream.com
 0.0.0.0 stupidspaceshipfestivity.com
+0.0.0.0 stupsouchig.com
 0.0.0.0 sturtsbabassu.shop
 0.0.0.0 stutchoorgeltu.net
 0.0.0.0 stuwhost.net
@@ -29643,6 +29653,7 @@
 0.0.0.0 urbanjazzsecretion.com
 0.0.0.0 urechar.com
 0.0.0.0 urgentlyfeerobots.com
+0.0.0.0 urgentlyrightypast.com
 0.0.0.0 urgentprotections.com
 0.0.0.0 urimnugocfr.com
 0.0.0.0 urinebladdernovember.com
@@ -29871,6 +29882,7 @@
 0.0.0.0 vbhuivr.com
 0.0.0.0 vbmjlevwwvyzj.top
 0.0.0.0 vbptgoyketwhv.global
+0.0.0.0 vbqrzzrzazaew.top
 0.0.0.0 vbrusdiifpfd.com
 0.0.0.0 vbtrax.com
 0.0.0.0 vcdc.com
@@ -30734,6 +30746,7 @@
 0.0.0.0 whoisezh.com
 0.0.0.0 whoksoadousto.net
 0.0.0.0 wholituaten.com
+0.0.0.0 whollyindependentlylooking.com
 0.0.0.0 whollyneedy.com
 0.0.0.0 whomcomposescientific.com
 0.0.0.0 whomsudsikaxu.com
@@ -100575,6 +100588,8 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 leirerspfz.com
+0.0.0.0 ifje.cn
 0.0.0.0 grimoiksep.com
 0.0.0.0 iutq.cn
 0.0.0.0 lhdnba.top
