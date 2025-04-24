@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-23T16:36:58.541Z
+! Last modified: 2025-04-24T02:05:12.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,11 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 23 Apr 2025 16:36:51 +0000
+# Last converted - Thu, 24 Apr 2025 02:05:05 +0000
 #
+||yougetwhatyoupayfor.net^
+||sahqtibw.com^
+||fluxtech.ai^
 ||semygruja.com^
 ||performoo.com^
 ||keethoostoaps.net^
@@ -7494,6 +7497,7 @@
 ||affluentarmyequator.com^
 ||affluentretinueelegance.com^
 ||affluentshinymulticultural.com^
+||affluxtrowie.com^
 ||affmoneyy.com^
 ||affnamzwon.com^
 ||affordedseasick.com^
@@ -11210,6 +11214,7 @@
 ||cleanatrocious.com^
 ||cleanbrowser.network^
 ||cleaneratwrinkle.com^
+||cleanerbest.online^
 ||cleanerultra.club^
 ||cleanflawlessredir.com^
 ||cleaningmaturegallop.com^
@@ -14321,6 +14326,7 @@
 ||exoads.click^
 ||exobafrgdf.com^
 ||exoclick.com^
+||exodermrecepts.top^
 ||exodusjailhousetarantula.com^
 ||exofrwe.com^
 ||exomonyf.com^
@@ -16560,6 +16566,7 @@
 ||handboyfriendomnipotent.com^
 ||handcoves.org^
 ||handcuffglare.com^
+||handgripknuckle.com^
 ||handshakesexyconquer.com^
 ||handsomebend.pro^
 ||handtub.com^
@@ -16918,6 +16925,7 @@
 ||hijackscovido.top^
 ||hijaipootuk.net^
 ||hikbzyfwomky.com^
+||hikedwarfgipsy.com^
 ||hikestale.com^
 ||hikinghourcataract.com^
 ||hikrfneh.xyz^
@@ -17881,6 +17889,7 @@
 ||interfacemotleyharden.com^
 ||intergient.com^
 ||interiorchalk.com^
+||interlik.co.in^
 ||intermediatebelownomad.com^
 ||internewsweb.com^
 ||internodeid.com^
@@ -18461,6 +18470,7 @@
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
+||jravekvyeyybj.top^
 ||jrbbavbvqmbzl.top^
 ||jrfngdrodrdop.icu^
 ||jriortnf.com^
@@ -26364,6 +26374,7 @@
 ||saltsleaseholder.com^
 ||saltsupbrining.com^
 ||salutationpersecutewindows.com^
+||saluteenfold.com^
 ||salutetutortwiddling.com^
 ||salvagefloat.com^
 ||samage-bility.icu^
@@ -29646,6 +29657,7 @@
 ||twevpgjeai.com^
 ||twewmykfe.com^
 ||twi-hjritecl.world^
+||twiddlepyrenes.com^
 ||twigwisp.com^
 ||twilightsuburbmill.com^
 ||twinadsrv.com^
@@ -32115,6 +32127,7 @@
 ||yuruknalyticafr.com^
 ||yusiswensaidoh.info^
 ||yvdxhbuupndqo.love^
+||yvkdkwnoyafrs.com^
 ||yvmads.com^
 ||yvnjriyaqnt.com^
 ||yvoria.com^
@@ -33929,6 +33942,7 @@
 ||c.j8jp.com^
 ||c.kkraw.com^
 ||c2shb.pubgw.yahoo.com^
+||cache.myth.dev^
 ||campaigns.williamhill.com^
 ||cdn.ad.page^
 ||cdn.b2.ai^
@@ -33989,6 +34003,7 @@
 ||mktg.evvnt.com^
 ||mmwebhandler.888.com^
 ||monetize-static.viralize.tv^
+||mythdev.b-cdn.net^
 ||neural.myth.dev^
 ||newtabextension.com^
 ||ogads-pa.googleapis.com^
@@ -34178,6 +34193,7 @@
 ||d1crt12zco2cvf.cloudfront.net^
 ||d1csp7vj6qqoa6.cloudfront.net^
 ||d1d7hwtv2l91pm.cloudfront.net^
+||d1dcnte8mfzkpv.cloudfront.net^
 ||d1dh1gvx7p0imm.cloudfront.net^
 ||d1diqetif5itzx.cloudfront.net^
 ||d1djrodi2reo2w.cloudfront.net^
@@ -36324,6 +36340,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||unalytics.top^
 ||aisiteanalytics.com^
 ||cdnlogs.org^
 ||pushd.netky.tech^
@@ -86432,6 +86449,7 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
+||web-sdk-cdn.singular.net^
 ||tracking.ringieraxelspringer.tech^
 ||aidsvc.netflix.com^
 ||sensor.grubhub.com^
@@ -89676,6 +89694,7 @@
 ||1558334541.rsc.cdn77.org^
 ||3j0pw4ed7uac-a.akamaihd.net^
 ||51network.com^
+||682a5845.b-cdn.net^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||a.emea01.idio.episerver.net^
 ||a.getflowbox.com^
@@ -90085,6 +90104,7 @@
 ||mon.domdog.io^
 ||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
+||monitor.fraudblocker.com^
 ||monitoring.iraiser.eu^
 ||ms-trackingapi.phenompeople.com^
 ||msadsscale.azureedge.net^
@@ -90164,6 +90184,7 @@
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
 ||rampjs-cdn.system1.com^
+||raven.adeptmind.ai^
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||recs-api.conde.digital^
@@ -90255,6 +90276,7 @@
 ||stats.uscreen.io^
 ||stats.varrando.com^
 ||stats.viddler.com^
+||stats.vodlix.com^
 ||stats.webs.com^
 ||stats.webstarts.com^
 ||stats.zotabox.com^
@@ -93715,6 +93737,8 @@
 ||masdak.epsilonsoft.to^
 ||adserve.lasentinelle.mu^
 ||adserver.icimedias.ca^
+||mid-round.com^
+||ploud-crew.net^
 ||adandhub.com^
 ||getallmedia.com^
 ||ssdsp.smt.docomo.ne.jp^
@@ -94044,6 +94068,7 @@
 ||azol.de^
 ||twiago.com^
 ||bauernative.com^
+||xn860wu.vlxue.cn^
 ||mernrza.com^
 ||xjwhtz10.com^
 ||xjwhtz2.com^
@@ -101051,6 +101076,9 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||thaincoth.com^
+||etbh.cn^
+||pflwta.top^
 ||leirerspfz.com^
 ||ifje.cn^
 ||ngjcvn.top^
@@ -101059,6 +101087,9 @@
 ||po18ad.com^
 ||qdasflqe.top^
 ||vrinqaell.com^
+||ewvz.cn^
+||xsrezl.icu^
+||tucnwti.top^
 ||grimoiksep.com^
 ||iutq.cn^
 ||lhdnba.top^
