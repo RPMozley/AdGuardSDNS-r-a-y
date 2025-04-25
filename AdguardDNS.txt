@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 25 Apr 2025 02:05:23 +0000
+# Last converted - Fri, 25 Apr 2025 08:35:27 +0000
 #
 
 0.0.0.0 yougetwhatyoupayfor.net
@@ -90948,6 +90948,7 @@
 0.0.0.0 sambaads.com
 0.0.0.0 shoptarget.com.br
 0.0.0.0 solucx.com.br
+0.0.0.0 taghike.com
 0.0.0.0 trugaze.io
 0.0.0.0 voxus.com.br
 0.0.0.0 widgets.solutions
@@ -101212,6 +101213,12 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 hvrunsqqy.com
+0.0.0.0 nlnlrn.top
+0.0.0.0 ohqp.cn
+0.0.0.0 lucnwtl.top
+0.0.0.0 uwcnmtt.top
+0.0.0.0 tljrvn.icu
 0.0.0.0 thaincoth.com
 0.0.0.0 etbh.cn
 0.0.0.0 pflwta.top
@@ -105855,6 +105862,7 @@
 0.0.0.0 xn--s-4z5e652a53k.com
 0.0.0.0 categorysort.com
 0.0.0.0 adcastmarket.com
+0.0.0.0 ssl-daumcdn-dvmq7lf5.kgslb.com
 0.0.0.0 adgirl.yes24.com
 0.0.0.0 ad.api.adwiser.kr
 0.0.0.0 recoshopping.naver.com

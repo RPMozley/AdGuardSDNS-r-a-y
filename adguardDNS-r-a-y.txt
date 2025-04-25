@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-25T02:05:30.216Z
+! Last modified: 2025-04-25T08:35:34.683Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 25 Apr 2025 02:05:23 +0000
+# Last converted - Fri, 25 Apr 2025 08:35:27 +0000
 #
 ||yougetwhatyoupayfor.net^
 ||sahqtibw.com^
@@ -90912,6 +90912,7 @@
 ||sambaads.com^
 ||shoptarget.com.br^
 ||solucx.com.br^
+||taghike.com^
 ||trugaze.io^
 ||voxus.com.br^
 ||widgets.solutions^
@@ -101151,6 +101152,12 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||hvrunsqqy.com^
+||nlnlrn.top^
+||ohqp.cn^
+||lucnwtl.top^
+||uwcnmtt.top^
+||tljrvn.icu^
 ||thaincoth.com^
 ||etbh.cn^
 ||pflwta.top^
@@ -105793,6 +105800,7 @@
 ||xn--s-4z5e652a53k.com^
 ||categorysort.com^
 ||adcastmarket.com^
+||ssl-daumcdn-dvmq7lf5.kgslb.com^
 ||adgirl.yes24.com^
 ||ad.api.adwiser.kr^
 ||recoshopping.naver.com^
