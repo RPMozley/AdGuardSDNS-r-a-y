@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-26T08:31:58.737Z
+! Last modified: 2025-04-26T16:32:16.874Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 26 Apr 2025 08:31:53 +0000
+# Last converted - Sat, 26 Apr 2025 16:32:09 +0000
 #
 ||nvpartnerspromo.com^
 ||yougetwhatyoupayfor.net^
@@ -10750,7 +10750,6 @@
 ||cdnapi.net^
 ||cdnativ.com^
 ||cdnativepush.com^
-||cdnaz.win^
 ||cdnbit.com^
 ||cdnfimgs.com^
 ||cdnflex.me^
@@ -101256,6 +101255,8 @@
 ||pktfla.top^
 ||mucnwtx.top^
 ||owcnmtk.top^
+||cnwuamf.top^
+||dheilgorsy.com^
 ||hvrunsqqy.com^
 ||nlnlrn.top^
 ||ohqp.cn^
@@ -105906,7 +105907,6 @@
 ||xn--s-4z5e652a53k.com^
 ||categorysort.com^
 ||adcastmarket.com^
-||ssl-daumcdn-dvmq7lf5.kgslb.com^
 ||adgirl.yes24.com^
 ||ad.api.adwiser.kr^
 ||recoshopping.naver.com^

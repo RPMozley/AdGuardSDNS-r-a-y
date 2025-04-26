@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 26 Apr 2025 08:31:53 +0000
+# Last converted - Sat, 26 Apr 2025 16:32:09 +0000
 #
 
 0.0.0.0 nvpartnerspromo.com
@@ -10776,7 +10776,6 @@
 0.0.0.0 cdnapi.net
 0.0.0.0 cdnativ.com
 0.0.0.0 cdnativepush.com
-0.0.0.0 cdnaz.win
 0.0.0.0 cdnbit.com
 0.0.0.0 cdnfimgs.com
 0.0.0.0 cdnflex.me
@@ -101317,6 +101316,8 @@
 0.0.0.0 pktfla.top
 0.0.0.0 mucnwtx.top
 0.0.0.0 owcnmtk.top
+0.0.0.0 cnwuamf.top
+0.0.0.0 dheilgorsy.com
 0.0.0.0 hvrunsqqy.com
 0.0.0.0 nlnlrn.top
 0.0.0.0 ohqp.cn
@@ -105968,7 +105969,6 @@
 0.0.0.0 xn--s-4z5e652a53k.com
 0.0.0.0 categorysort.com
 0.0.0.0 adcastmarket.com
-0.0.0.0 ssl-daumcdn-dvmq7lf5.kgslb.com
 0.0.0.0 adgirl.yes24.com
 0.0.0.0 ad.api.adwiser.kr
 0.0.0.0 recoshopping.naver.com
