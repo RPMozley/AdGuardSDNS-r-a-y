@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 27 Apr 2025 02:15:39 +0000
+# Last converted - Sun, 27 Apr 2025 08:31:20 +0000
 #
 
 0.0.0.0 nvpartnerspromo.com
@@ -101358,7 +101358,11 @@
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 zbislaernv.com
 0.0.0.0 xebetp.icu
+0.0.0.0 inwuamo.top
+0.0.0.0 mecv.cn
+0.0.0.0 lwcnmtl.top
 0.0.0.0 jia6983.xyz
+0.0.0.0 rjvzjn.top
 0.0.0.0 vrosqutsgh.com
 0.0.0.0 rgme.cn
 0.0.0.0 zofmhx.icu
