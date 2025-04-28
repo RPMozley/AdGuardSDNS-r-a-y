@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-28T02:13:09.121Z
+! Last modified: 2025-04-28T10:06:10.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 28 Apr 2025 02:13:01 +0000
+# Last converted - Mon, 28 Apr 2025 10:06:02 +0000
 #
 ||nvpartnerspromo.com^
 ||yougetwhatyoupayfor.net^
@@ -33310,6 +33310,7 @@
 ||firstimpression.io^
 ||fisari.com^
 ||fixionmedia.com^
+||flaviar.com^
 ||flower-ads.com^
 ||flx2.pnl.agency^
 ||flyersquare.com^
@@ -101314,6 +101315,10 @@
 ||oldh.cn^
 ||vcaqexl.com^
 ||hua4207.xyz^
+||vhxzfz.icu^
+||tiboha.top^
+||knwuamd.top^
+||bwcnmtv.top^
 ||zbislaernv.com^
 ||xebetp.icu^
 ||inwuamo.top^
@@ -105660,7 +105665,6 @@
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
-||muer.cdn-baidu.fs-sywh.com^
 ||22588888.com^
 ||2481e.com^
 ||693836.com^

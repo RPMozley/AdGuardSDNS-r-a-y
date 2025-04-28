@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 28 Apr 2025 02:13:01 +0000
+# Last converted - Mon, 28 Apr 2025 10:06:02 +0000
 #
 
 0.0.0.0 nvpartnerspromo.com
@@ -33336,6 +33336,7 @@
 0.0.0.0 firstimpression.io
 0.0.0.0 fisari.com
 0.0.0.0 fixionmedia.com
+0.0.0.0 flaviar.com
 0.0.0.0 flower-ads.com
 0.0.0.0 flx2.pnl.agency
 0.0.0.0 flyersquare.com
@@ -101375,6 +101376,10 @@
 0.0.0.0 oldh.cn
 0.0.0.0 vcaqexl.com
 0.0.0.0 hua4207.xyz
+0.0.0.0 vhxzfz.icu
+0.0.0.0 tiboha.top
+0.0.0.0 knwuamd.top
+0.0.0.0 bwcnmtv.top
 0.0.0.0 zbislaernv.com
 0.0.0.0 xebetp.icu
 0.0.0.0 inwuamo.top
@@ -105721,7 +105726,6 @@
 0.0.0.0 jun01.oss-cn-beijing.aliyuncs.com
 0.0.0.0 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0 wzjs1.oss-accelerate.aliyuncs.com
-0.0.0.0 muer.cdn-baidu.fs-sywh.com
 0.0.0.0 22588888.com
 0.0.0.0 2481e.com
 0.0.0.0 693836.com
