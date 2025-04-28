@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-28T10:06:10.149Z
+! Last modified: 2025-04-28T16:34:43.104Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 28 Apr 2025 10:06:02 +0000
+# Last converted - Mon, 28 Apr 2025 16:34:35 +0000
 #
 ||nvpartnerspromo.com^
 ||yougetwhatyoupayfor.net^
@@ -89296,7 +89296,6 @@
 ||logservice.dbankcloud.cn^
 ||logs.nebulahoroscope.com^
 ||braveglobal.tv^
-||insights.alibaba.com^
 ||mssdk-boot.cpacutapi.com^
 ||collect.ureca-lab.com^
 ||api.abcsinsights.com^
@@ -91632,6 +91631,7 @@
 ||templates.buscape.com^
 ||yestorrents.org^
 ||oecistbenton.com^
+||w.rulive.ru^
 ||vvdrhe.win^
 ||adwadvert.com.ua^
 ||nanthou.life^
@@ -101319,6 +101319,9 @@
 ||tiboha.top^
 ||knwuamd.top^
 ||bwcnmtv.top^
+||wwok04281kl.com^
+||qwti.cn^
+||gekhasaks.com^
 ||zbislaernv.com^
 ||xebetp.icu^
 ||inwuamo.top^
