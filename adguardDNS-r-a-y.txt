@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-04-29T08:37:19.773Z
+! Last modified: 2025-04-29T16:35:41.286Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 29 Apr 2025 08:37:12 +0000
+# Last converted - Tue, 29 Apr 2025 16:35:34 +0000
 #
 ||nvpartnerspromo.com^
 ||yougetwhatyoupayfor.net^
@@ -36102,6 +36102,7 @@
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||maticooads.com^
 ||apishow.babybus.com^
 ||apppromoteapi.babybus.com^
 ||tiktokpangle.us^
@@ -87162,6 +87163,8 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
+||ashiato.travel.rakuten.co.jp^
+||event.notifier.rakuten.co.jp^
 ||log.tosspayments.com^
 ||event.tosspayments.com^
 ||pipeline.rd.nl^
@@ -89778,6 +89781,7 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||log-sdk.ksapisrv.com^
 ||ulogjs.ksapisrv.com^
 ||adashx4id.ut.taobao.com^
 ||analytics.us.tiktok.com^
@@ -101830,6 +101834,8 @@
 ||rhdifs.top^
 ||enwuamw.top^
 ||mwcnmtx.top^
+||wwok04291kl.com^
+||fvitteilse.com^
 ||oldh.cn^
 ||vcaqexl.com^
 ||hua4207.xyz^
@@ -106188,6 +106194,7 @@
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||mihoutao1868.github.io^
 ||22588888.com^
 ||2481e.com^
 ||693836.com^

@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 29 Apr 2025 08:37:12 +0000
+# Last converted - Tue, 29 Apr 2025 16:35:34 +0000
 #
 
 0.0.0.0 nvpartnerspromo.com
@@ -36129,6 +36129,7 @@
 0.0.0.0 deapi.sooplive.co.kr
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 maticooads.com
 0.0.0.0 apishow.babybus.com
 0.0.0.0 apppromoteapi.babybus.com
 0.0.0.0 tiktokpangle.us
@@ -87197,6 +87198,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ashiato.travel.rakuten.co.jp
+0.0.0.0 event.notifier.rakuten.co.jp
 0.0.0.0 log.tosspayments.com
 0.0.0.0 event.tosspayments.com
 0.0.0.0 pipeline.rd.nl
@@ -89814,6 +89817,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 ulogjs.ksapisrv.com
 0.0.0.0 adashx4id.ut.taobao.com
 0.0.0.0 analytics.us.tiktok.com
@@ -101891,6 +101895,8 @@
 0.0.0.0 rhdifs.top
 0.0.0.0 enwuamw.top
 0.0.0.0 mwcnmtx.top
+0.0.0.0 wwok04291kl.com
+0.0.0.0 fvitteilse.com
 0.0.0.0 oldh.cn
 0.0.0.0 vcaqexl.com
 0.0.0.0 hua4207.xyz
@@ -106249,6 +106255,7 @@
 0.0.0.0 jun01.oss-cn-beijing.aliyuncs.com
 0.0.0.0 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0 wzjs1.oss-accelerate.aliyuncs.com
+0.0.0.0 mihoutao1868.github.io
 0.0.0.0 22588888.com
 0.0.0.0 2481e.com
 0.0.0.0 693836.com
