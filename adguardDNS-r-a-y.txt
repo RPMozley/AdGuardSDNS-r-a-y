@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-01T02:20:40.638Z
+! Last modified: 2025-05-01T08:35:03.321Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 01 May 2025 02:20:32 +0000
+# Last converted - Thu, 01 May 2025 08:34:53 +0000
 #
 ||perky-method.com^
 ||nvpartnerspromo.com^
@@ -95802,7 +95802,6 @@
 ||adhost.se^
 ||adonstudio.com^
 ||ads.aland.com^
-||ads.annonsbladet.com^
 ||ads.bethard.com^
 ||ads.compro.se^
 ||ads.docunordic.net^
@@ -101915,6 +101914,10 @@
 ||rgtghulduk.com^
 ||uaqe.cn^
 ||okpl05010ai.com^
+||vmlrxs.top^
+||unwuamt.top^
+||qqosk05010llo.com^
+||qqosk05011llo.com^
 ||qsoc.cn^
 ||wwok04300kl.com^
 ||oia04300klq.com^

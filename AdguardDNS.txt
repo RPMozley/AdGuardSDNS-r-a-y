@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 01 May 2025 02:20:32 +0000
+# Last converted - Thu, 01 May 2025 08:34:53 +0000
 #
 
 0.0.0.0 perky-method.com
@@ -95862,7 +95862,6 @@
 0.0.0.0 adhost.se
 0.0.0.0 adonstudio.com
 0.0.0.0 ads.aland.com
-0.0.0.0 ads.annonsbladet.com
 0.0.0.0 ads.bethard.com
 0.0.0.0 ads.compro.se
 0.0.0.0 ads.docunordic.net
@@ -101976,6 +101975,10 @@
 0.0.0.0 rgtghulduk.com
 0.0.0.0 uaqe.cn
 0.0.0.0 okpl05010ai.com
+0.0.0.0 vmlrxs.top
+0.0.0.0 unwuamt.top
+0.0.0.0 qqosk05010llo.com
+0.0.0.0 qqosk05011llo.com
 0.0.0.0 qsoc.cn
 0.0.0.0 wwok04300kl.com
 0.0.0.0 oia04300klq.com
