@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-03T08:32:30.367Z
+! Last modified: 2025-05-03T16:33:15.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 03 May 2025 08:32:22 +0000
+# Last converted - Sat, 03 May 2025 16:33:08 +0000
 #
 ||bevfpfekwskzg.world^
 ||ebvvvnjesjgx.com^
@@ -91913,6 +91913,7 @@
 ||botdetector.ru^
 ||bumlam.com^
 ||checkru.net^
+||click.ru^
 ||cpaevent.ru^
 ||cszz.ru^
 ||detmir-stats.ru^
@@ -102148,6 +102149,7 @@
 ||zywjpypco.7hujk.de^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||ebroktean.com^
 ||okpl05030ai.com^
 ||vtqhelleano.com^
 ||qqosk05030llo.com^
