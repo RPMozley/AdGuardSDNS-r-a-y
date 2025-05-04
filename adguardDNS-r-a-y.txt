@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-04T08:32:27.016Z
+! Last modified: 2025-05-04T16:32:58.843Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 04 May 2025 08:32:19 +0000
+# Last converted - Sun, 04 May 2025 16:32:51 +0000
 #
 ||bevfpfekwskzg.world^
 ||ebvvvnjesjgx.com^
@@ -9930,6 +9930,7 @@
 ||bmcdn5.com^
 ||bmcdn6.com^
 ||bmjidc.xyz^
+||bmjntbkihrtj.com^
 ||bmkz57b79pxk.com^
 ||bmucuzdho.com^
 ||bmudhianrfat.com^
@@ -10555,6 +10556,7 @@
 ||c1595223cf.com^
 ||c26817682b.com^
 ||c26b742fa3.com^
+||c285e18a9b.com^
 ||c2dbb597b0.com^
 ||c3759f7e8a.com^
 ||c3ee303367.com^
@@ -11037,6 +11039,7 @@
 ||chargeplatform.com^
 ||chargerepellentsuede.com^
 ||chargingconnote.com^
+||charityflopchristening.com^
 ||charitylingoreformer.com^
 ||charitypaste.com^
 ||charkhamezuza.shop^
@@ -13998,6 +14001,7 @@
 ||efficientorbit.co^
 ||eflewroundand.com^
 ||efrnedmiralpenb.info^
+||efullofeedshen.com^
 ||egalitysarking.com^
 ||egazedatthe.xyz^
 ||egeemsob.com^
@@ -14333,6 +14337,7 @@
 ||erepsinslavian.shop^
 ||eresultedinncre.info^
 ||ereyoumate.org^
+||erfoslajxhoc.com^
 ||ergadx.com^
 ||ergjohl.com^
 ||ergonomicparadeupstroke.com^
@@ -14497,6 +14502,7 @@
 ||ewhareey.com^
 ||ewingruddish.shop^
 ||ewituhinlargeconsu.com^
+||ewltkoajehyzr.click^
 ||ewnkfnsajr.com^
 ||ewouldlookina.org^
 ||ewouwamsubsouvy.net^
@@ -15552,6 +15558,7 @@
 ||frutwafiwah.com^
 ||fruvumoxw.com^
 ||fryawlauk.com^
+||fryboldlymalice.com^
 ||frycmisfixa.com^
 ||frycornwhole.com^
 ||fsalfrwdr.com^
@@ -17125,6 +17132,7 @@
 ||heritageamyconstitutional.com^
 ||herlingvotally.shop^
 ||herma-tor.com^
+||hermitslistred.shop^
 ||herodiessujed.org^
 ||heroinalerttactical.com^
 ||heromainland.com^
@@ -19303,6 +19311,7 @@
 ||knowledconsideunden.info^
 ||knowledgeable-tree.com^
 ||knowmakeshalfmoon.com^
+||known-table.pro^
 ||knownwarn.com^
 ||knpfx.life^
 ||kntodvofiyjjl.xyz^
@@ -19857,6 +19866,7 @@
 ||lhmos.com^
 ||lhpigkujw.com^
 ||lhukudauwklhd.xyz^
+||lhwimdpdjajfx.rocks^
 ||li.blogtrottr.com^
 ||liabilitygenerator.com^
 ||liablematches.com^
@@ -26449,6 +26459,7 @@
 ||rmuahxbcepu.com^
 ||rmuogjdip.com^
 ||rmuuspy.com^
+||rmvvawqleqrov.top^
 ||rmwzbombkqelv.top^
 ||rmxads.com^
 ||rmyfiwopdzf.com^
@@ -27780,6 +27791,7 @@
 ||skinnedunsame.com^
 ||skinssailing.com^
 ||skipdissatisfactionengland.com^
+||skippaccustom.org^
 ||skipperx.net^
 ||skirmishbabencircle.com^
 ||skirtastelic.shop^
@@ -28321,6 +28333,7 @@
 ||ss0uu1lpirig.com^
 ||ssedonthep.info^
 ||ssenciokvgk.com^
+||ssgtbfyxdlch.com^
 ||ssindserving.com^
 ||sskzlabs.com^
 ||ssl-services.com^
@@ -29074,6 +29087,7 @@
 ||tapwhigwy.com^
 ||tapxavjmyajd.com^
 ||tarcavbul.com^
+||tardtodtimpi.com^
 ||targechirtil.net^
 ||targetmatch.co^
 ||targhe.info^
@@ -29486,6 +29500,7 @@
 ||thrashbomb.com^
 ||threatdetect.org^
 ||threatenedfallenrueful.com^
+||threefortressfork.com^
 ||threeinvincible.com^
 ||threewoodslose.com^
 ||thrilledrentbull.com^
@@ -31444,6 +31459,7 @@
 ||vvsalar.top^
 ||vvvvdbrrt.com^
 ||vwagkipi.com^
+||vwahacrubri.com^
 ||vwchbsoukeq.xyz^
 ||vwioxxra.com^
 ||vwpttkoh.xyz^
@@ -102175,6 +102191,7 @@
 ||zvietcombank.com^
 ||zvietnakello.weebly.com^
 ||zywjpypco.7hujk.de^
+||hash.trafficmanager.net^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||bebx.cn^
@@ -102186,6 +102203,8 @@
 ||xjvunf.top^
 ||knwucnd.top^
 ||qqosk05041llo.com^
+||nevtrelathgd.com^
+||okpl05041ai.com^
 ||okpl05030ai.com^
 ||vtqhelleano.com^
 ||qqosk05030llo.com^
