@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 05 May 2025 02:15:56 +0000
+# Last converted - Mon, 05 May 2025 08:37:09 +0000
 #
 
 0.0.0.0 bevfpfekwskzg.world
@@ -37069,6 +37069,7 @@
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 kib.hu
+0.0.0.0 mn-tz.com
 0.0.0.0 tr.thecontentserver.com
 0.0.0.0 sst.hostnet.nl
 0.0.0.0 api.visitorapi.com
@@ -102278,6 +102279,8 @@
 0.0.0.0 yqqv.cn
 0.0.0.0 zxiws.cn
 0.0.0.0 qiwqaagnaell.com
+0.0.0.0 zibjls.top
+0.0.0.0 snwucnb.top
 0.0.0.0 bebx.cn
 0.0.0.0 qqosk05040llo.com
 0.0.0.0 ebroktean.com
