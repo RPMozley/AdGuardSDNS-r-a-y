@@ -1,9 +1,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 06 May 2025 08:36:27 +0000
+# Last converted - Tue, 06 May 2025 16:34:47 +0000
 #
 
+0.0.0.0 gusoclji.com
 0.0.0.0 lolostan.com
 0.0.0.0 awdeliverynet.com
 0.0.0.0 bevfpfekwskzg.world
@@ -87996,6 +87997,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ichnaea.dradis.netflix.com
+0.0.0.0 customerevents.dradis.netflix.com
+0.0.0.0 config.sdk.kochava.dewrain.life
+0.0.0.0 log.cookieyes.com
 0.0.0.0 pl.elements.video
 0.0.0.0 sgtm.alfinans.dk
 0.0.0.0 sgtm.aziendechesifinanzianodasole.com
@@ -88262,6 +88267,7 @@
 0.0.0.0 agi-static.indiatimes.com
 0.0.0.0 fail.adr.ec
 0.0.0.0 t.adii.se
+0.0.0.0 s.bunkr.ru
 0.0.0.0 stats.bunkr.ru
 0.0.0.0 logs.netflix.com
 0.0.0.0 mst.rnd.de
@@ -91726,7 +91732,6 @@
 0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 log-pq.shopfully.cloud
 0.0.0.0 log.aimtell.com
-0.0.0.0 log.cookieyes.com
 0.0.0.0 log.nordot.jp
 0.0.0.0 log.seekda.com
 0.0.0.0 logging.je-apps.com
