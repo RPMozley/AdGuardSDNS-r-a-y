@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 06 May 2025 02:07:21 +0000
+# Last converted - Tue, 06 May 2025 08:36:27 +0000
 #
 
 0.0.0.0 lolostan.com
@@ -37191,6 +37191,7 @@
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 kib.hu
+0.0.0.0 analytics.newsifier.nl
 0.0.0.0 mn-tz.com
 0.0.0.0 tr.thecontentserver.com
 0.0.0.0 sst.hostnet.nl
@@ -102785,9 +102786,12 @@
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
 0.0.0.0 qsko05060mas.com
+0.0.0.0 qsko05061mas.com
 0.0.0.0 pwchaukoieor.com
 0.0.0.0 nzoj.cn
 0.0.0.0 gawnaze.com
+0.0.0.0 bhddjf.top
+0.0.0.0 enwucnw.top
 0.0.0.0 yqqv.cn
 0.0.0.0 zxiws.cn
 0.0.0.0 qiwqaagnaell.com

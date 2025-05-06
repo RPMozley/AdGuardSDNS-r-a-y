@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-06T02:07:28.184Z
+! Last modified: 2025-05-06T08:36:34.788Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 06 May 2025 02:07:21 +0000
+# Last converted - Tue, 06 May 2025 08:36:27 +0000
 #
 ||lolostan.com^
 ||awdeliverynet.com^
@@ -37163,6 +37163,7 @@
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||kib.hu^
+||analytics.newsifier.nl^
 ||mn-tz.com^
 ||tr.thecontentserver.com^
 ||sst.hostnet.nl^
@@ -102724,9 +102725,12 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||qsko05060mas.com^
+||qsko05061mas.com^
 ||pwchaukoieor.com^
 ||nzoj.cn^
 ||gawnaze.com^
+||bhddjf.top^
+||enwucnw.top^
 ||yqqv.cn^
 ||zxiws.cn^
 ||qiwqaagnaell.com^
