@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-07T08:37:36.752Z
+! Last modified: 2025-05-07T16:37:08.167Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 07 May 2025 08:37:26 +0000
+# Last converted - Wed, 07 May 2025 16:37:00 +0000
 #
 ||gusoclji.com^
 ||lolostan.com^
@@ -20565,6 +20565,7 @@
 ||movfull.com^
 ||movie-pass.club^
 ||movie-pass.live^
+||movie-tv-free.com^
 ||moviead55.ru^
 ||moviesflix4k.info^
 ||moviesflix4k.xyz^
@@ -33172,7 +33173,6 @@
 ||media.netrefer.com^
 ||mktg.evvnt.com^
 ||mmwebhandler.888.com^
-||monetize-static.viralize.tv^
 ||mythdev.b-cdn.net^
 ||neural.myth.dev^
 ||newtabextension.com^
@@ -101087,6 +101087,10 @@
 ||mfkfkhfhmfkfkhfh.top^
 ||klvt.cn^
 ||wnwucne.top^
+||hur05071kns.com^
+||zwdrjdyf.icu^
+||nnglgliginnglgligi.top^
+||lfkheedokhld.com^
 ||qsko05060mas.com^
 ||qsko05061mas.com^
 ||pwchaukoieor.com^

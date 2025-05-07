@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 07 May 2025 08:37:26 +0000
+# Last converted - Wed, 07 May 2025 16:37:00 +0000
 #
 
 0.0.0.0 gusoclji.com
@@ -20591,6 +20591,7 @@
 0.0.0.0 movfull.com
 0.0.0.0 movie-pass.club
 0.0.0.0 movie-pass.live
+0.0.0.0 movie-tv-free.com
 0.0.0.0 moviead55.ru
 0.0.0.0 moviesflix4k.info
 0.0.0.0 moviesflix4k.xyz
@@ -33198,7 +33199,6 @@
 0.0.0.0 media.netrefer.com
 0.0.0.0 mktg.evvnt.com
 0.0.0.0 mmwebhandler.888.com
-0.0.0.0 monetize-static.viralize.tv
 0.0.0.0 mythdev.b-cdn.net
 0.0.0.0 neural.myth.dev
 0.0.0.0 newtabextension.com
@@ -101148,6 +101148,10 @@
 0.0.0.0 mfkfkhfhmfkfkhfh.top
 0.0.0.0 klvt.cn
 0.0.0.0 wnwucne.top
+0.0.0.0 hur05071kns.com
+0.0.0.0 zwdrjdyf.icu
+0.0.0.0 nnglgliginnglgligi.top
+0.0.0.0 lfkheedokhld.com
 0.0.0.0 qsko05060mas.com
 0.0.0.0 qsko05061mas.com
 0.0.0.0 pwchaukoieor.com
