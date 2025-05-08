@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 08 May 2025 02:14:32 +0000
+# Last converted - Thu, 08 May 2025 08:36:35 +0000
 #
 
 0.0.0.0 gusoclji.com
@@ -35575,6 +35575,7 @@
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 kib.hu
+0.0.0.0 analytics.turk.pro
 0.0.0.0 metric-api.newrelic.com
 0.0.0.0 conduit-beacon.mtvnservices.com
 0.0.0.0 redfast.com
@@ -91345,7 +91346,6 @@
 0.0.0.0 0.myikas.com
 0.0.0.0 analitik.bik.gov.tr
 0.0.0.0 analytics.faprika.net
-0.0.0.0 analytics.turk.pro
 0.0.0.0 c.keltis.com
 0.0.0.0 sayac.kapital.com.tr
 0.0.0.0 track.livasoft.com.tr
@@ -95159,6 +95159,9 @@
 0.0.0.0 booli-logger.prod.booli.se
 0.0.0.0 boost-cdn.manatee.dk
 0.0.0.0 borsvarlden-banners.azurewebsites.net
+0.0.0.0 bostad24.se
+0.0.0.0 bostadslistan.se
+0.0.0.0 bostadsportal.se
 0.0.0.0 brandy.bonniernewslifestyle.se
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 browser-http-intake.logs.datadoghq.eu
@@ -95275,6 +95278,7 @@
 0.0.0.0 hapyak.com
 0.0.0.0 heroaffiliates.com
 0.0.0.0 hsadspixel.net
+0.0.0.0 hyrio.se
 0.0.0.0 h.online-metrix.net
 0.0.0.0 iba.feedblitz.com
 0.0.0.0 iconosquare.com
@@ -95362,6 +95366,9 @@
 0.0.0.0 r.existenz.se
 0.0.0.0 recirculation.spot.im
 0.0.0.0 regstat.se
+0.0.0.0 rentia.se
+0.0.0.0 rentify.se
+0.0.0.0 rentler.se
 0.0.0.0 resor-external.barnsemester.se
 0.0.0.0 retargettracker.com
 0.0.0.0 revive.edgeflyfishing.com
@@ -101185,6 +101192,7 @@
 0.0.0.0 oaokes.icu
 0.0.0.0 sqif.cn
 0.0.0.0 fmlmbf.top
+0.0.0.0 uuso05081qhs.xyz
 0.0.0.0 ebrid.cn
 0.0.0.0 wtrotilloye.com
 0.0.0.0 dnjxds.top
