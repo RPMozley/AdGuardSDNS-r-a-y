@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-08T16:37:03.610Z
+! Last modified: 2025-05-09T02:08:12.180Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 08 May 2025 16:36:56 +0000
+# Last converted - Fri, 09 May 2025 02:08:04 +0000
 #
 ||catoixeam.click^
 ||trgfx.b-cdn.net^
@@ -5956,6 +5956,7 @@
 ||freecontent.date^
 ||freecontent.stream^
 ||mine.torrent.pw^
+||0019x.com^
 ||00f8c4bb25.com^
 ||0127c96640.com^
 ||01counter.com^
@@ -9890,6 +9891,7 @@
 ||boobausauhipsa.net^
 ||boodaisi.xyz^
 ||boodiecawquaw.top^
+||boodybasalt.com^
 ||boogopee.com^
 ||bookadil.com^
 ||bookbannershop.com^
@@ -11109,6 +11111,7 @@
 ||ckrf1.com^
 ||ckydlxzejeepc.rocks^
 ||ckynh.com^
+||ckzypnshkzevn.xyz^
 ||cl0udh0st1ng.com^
 ||clackbenefactor.com^
 ||cladp.com^
@@ -14400,6 +14403,7 @@
 ||faugrich.info^
 ||faugstat.info^
 ||faukoochoogroo.net^
+||fauphauvuzeey.net^
 ||fauphoaglu.net^
 ||fausamoawhisi.net^
 ||fauseepetoozuk.xyz^
@@ -15218,6 +15222,7 @@
 ||fzivunnigra.com^
 ||fziwzaalp.com^
 ||fzmflvwn.tech^
+||fzyvmvomphvvws.com^
 ||g-xtqrgag.rocks^
 ||g0-g3t-msg.com^
 ||g0-g3t-msg.net^
@@ -15634,6 +15639,7 @@
 ||glaignoopty.net^
 ||glaijauk.xyz^
 ||glaikrolsoa.com^
+||glaikroohy.net^
 ||glaiksoachou.com^
 ||glairsbecchi.top^
 ||glaisseexoar.net^
@@ -16655,6 +16661,7 @@
 ||highercldfrev.com^
 ||highercldfrevb.com^
 ||higheurest.com^
+||highlightattentions.com^
 ||highlypersevereenrapture.com^
 ||highmaidfhr.com^
 ||highmanapts.com^
@@ -17944,6 +17951,7 @@
 ||jcafpiaqjoh.com^
 ||jclrwjceymgec.com^
 ||jcosjpir.com^
+||jcrgmcxyjnk.com^
 ||jd3j7g5z1fqs.com^
 ||jdeekqk-bjqt.fun^
 ||jdoqocy.com^
@@ -18327,6 +18335,7 @@
 ||jyvkwqjremjbj.top^
 ||jyzkut.com^
 ||jzleekzaovelw.top^
+||jzleekzaovzez.top^
 ||jzokkejvjrvrb.top^
 ||jzokkejvjrvwj.top^
 ||jzplabcvvy.com^
@@ -18340,6 +18349,7 @@
 ||k55p9ka2.de^
 ||k5zoom.com^
 ||k68tkg.com^
+||kaakfwbhq.com^
 ||kaarheciqa.xyz^
 ||kaascypher.com^
 ||kabakamarbles.top^
@@ -21277,6 +21287,7 @@
 ||niyimu.xyz^
 ||nizarstream.xyz^
 ||nizationservanta.com^
+||njamlucohwrgu.com^
 ||njicuiabvwawm.one^
 ||njmhklddv.xyz^
 ||njmhnurksjktt.buzz^
@@ -22506,6 +22517,7 @@
 ||outfoxnapalms.com^
 ||outgratingknack.com^
 ||outhaushauviy.xyz^
+||outheelrelict.com^
 ||outhulem.net^
 ||outlandish-pitch.pro^
 ||outlayomnipresentdream.com^
@@ -24763,6 +24775,7 @@
 ||raufajoo.net^
 ||rauheestuma.xyz^
 ||raumipti.net^
+||raunoaptotoaw.com^
 ||raunooligais.net^
 ||raupasee.xyz^
 ||raupsica.net^
@@ -27866,6 +27879,7 @@
 ||taimachojoba.xyz^
 ||taiwhups.net^
 ||taizigly.net^
+||takabaubles.shop^
 ||takeallsoft.ru^
 ||takecareproduct.com^
 ||takegerman.com^
@@ -29999,6 +30013,7 @@
 ||vizoredcheerly.com^
 ||vjdciu.com^
 ||vjlyljbjjmley.top^
+||vjlyljbylmeel.top^
 ||vjugz.com^
 ||vkeagmfz.com^
 ||vkebctjkr.com^
@@ -35674,6 +35689,7 @@
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||kib.hu^
+||mrgr.me^
 ||analytics.turk.pro^
 ||metric-api.newrelic.com^
 ||conduit-beacon.mtvnservices.com^
@@ -89851,6 +89867,7 @@
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^
 ||analyticcdn.globalmailer.com^
+||analyticcdn.wlmediahub.com^
 ||analytics-1.cavai.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
@@ -89994,6 +90011,7 @@
 ||chanalytics.merchantadvantage.com^
 ||cimage.adobe.com^
 ||ck.connatix.com^
+||cl-pbr.cxr.skeepers.io^
 ||clevertap-prod.com^
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
@@ -90167,6 +90185,7 @@
 ||hello.staticstuff.net^
 ||highway.cablecar.sph.com.sg^
 ||hit.mybestpro.com^
+||hit.salesfire.co.uk^
 ||hits.getelevar.com^
 ||hits.gokwik.co^
 ||hits.informer.com^
@@ -90505,6 +90524,7 @@
 ||track.us.org^
 ||track.vscash.com^
 ||track.yfret.com^
+||tracker-server.high-cdn.com^
 ||tracker.au.zitcha.app^
 ||tracker.beezup.com^
 ||tracker.financialcontent.com^
@@ -93891,6 +93911,7 @@
 ||masdak.epsilonsoft.to^
 ||adserve.lasentinelle.mu^
 ||adserver.icimedias.ca^
+||line-e.com^
 ||shindnx.site^
 ||ads-lite2.net^
 ||mid-round.com^
@@ -101252,6 +101273,12 @@
 ||hash.trafficmanager.net^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||jguhqbe.top^
+||fadjqqe.top^
+||bcpxll.icu^
+||uqkcqk.icu^
+||udyi.cn^
+||dlngzx.top^
 ||uuso05080qhs.xyz^
 ||thimhudlop.com^
 ||qiuxl11.cn^
@@ -101262,6 +101289,7 @@
 ||uuso05081qhs.xyz^
 ||qnwucny.top^
 ||uuso05082qhs.xyz^
+||vthruucceod.com^
 ||ebrid.cn^
 ||wtrotilloye.com^
 ||dnjxds.top^
