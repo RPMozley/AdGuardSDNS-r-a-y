@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 11 May 2025 08:32:48 +0000
+# Last converted - Sun, 11 May 2025 16:33:28 +0000
 #
 
 0.0.0.0 edertauvaisoo.net
@@ -100856,6 +100856,10 @@
 0.0.0.0 hash.trafficmanager.net
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 yimh.cn
+0.0.0.0 qwcpme.icu
+0.0.0.0 hjvprx.top
+0.0.0.0 qnhoqullbea.com
 0.0.0.0 stgxau.icu
 0.0.0.0 qpqp05100oki.com
 0.0.0.0 rdut.cn
