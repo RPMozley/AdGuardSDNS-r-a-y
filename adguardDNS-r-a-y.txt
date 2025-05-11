@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-10T16:34:08.315Z
+! Last modified: 2025-05-11T02:19:28.762Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 10 May 2025 16:34:01 +0000
+# Last converted - Sun, 11 May 2025 02:19:20 +0000
 #
 ||edertauvaisoo.net^
 ||pkphftlpkxbhk.com^
@@ -34527,6 +34527,7 @@
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||legy-jp.line-apps.com^
 ||rainmaker.production-public.tubi.io^
 ||configure.rayjump.com^
 ||v.kidoz.net^
@@ -90398,8 +90399,13 @@
 ||yigao.com^
 ||zampda.net^
 ||ztcadx.com^
+||adactive.cz^
+||affiliateport.eu^
 ||analights.com^
+||boldem.cz^
+||ehub.cz^
 ||programmatic.cz^
+||retargeted.co^
 ||semnicneposilejte.cz^
 ||smartselling.cz^
 ||digitaladvisor.dk^
@@ -100799,7 +100805,10 @@
 ||unwucnt.top^
 ||qpqp05101oki.com^
 ||qcogiellq.com^
+||fbhorutgy.com^
+||hur05110kns.com^
 ||hur05101kns.com^
+||xklv.cn^
 ||jguhqbe.top^
 ||fadjqqe.top^
 ||bcpxll.icu^

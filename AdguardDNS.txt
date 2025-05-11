@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 10 May 2025 16:34:01 +0000
+# Last converted - Sun, 11 May 2025 02:19:20 +0000
 #
 
 0.0.0.0 edertauvaisoo.net
@@ -34554,6 +34554,7 @@
 0.0.0.0 deapi.sooplive.co.kr
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 legy-jp.line-apps.com
 0.0.0.0 rainmaker.production-public.tubi.io
 0.0.0.0 configure.rayjump.com
 0.0.0.0 v.kidoz.net
@@ -90434,8 +90435,13 @@
 0.0.0.0 yigao.com
 0.0.0.0 zampda.net
 0.0.0.0 ztcadx.com
+0.0.0.0 adactive.cz
+0.0.0.0 affiliateport.eu
 0.0.0.0 analights.com
+0.0.0.0 boldem.cz
+0.0.0.0 ehub.cz
 0.0.0.0 programmatic.cz
+0.0.0.0 retargeted.co
 0.0.0.0 semnicneposilejte.cz
 0.0.0.0 smartselling.cz
 0.0.0.0 digitaladvisor.dk
@@ -100860,7 +100866,10 @@
 0.0.0.0 unwucnt.top
 0.0.0.0 qpqp05101oki.com
 0.0.0.0 qcogiellq.com
+0.0.0.0 fbhorutgy.com
+0.0.0.0 hur05110kns.com
 0.0.0.0 hur05101kns.com
+0.0.0.0 xklv.cn
 0.0.0.0 jguhqbe.top
 0.0.0.0 fadjqqe.top
 0.0.0.0 bcpxll.icu
