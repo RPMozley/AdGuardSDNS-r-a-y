@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-14T02:09:35.818Z
+! Last modified: 2025-05-14T08:36:48.808Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 14 May 2025 02:09:28 +0000
+# Last converted - Wed, 14 May 2025 08:36:38 +0000
 #
+||hrzn-nxt.com^
+||madcheddar.net^
 ||tradehouse.media^
 ||couloirmatrass.com^
 ||noyanceborer.com^
@@ -101454,6 +101456,7 @@
 ||gmendanln.com^
 ||akoo0514uis.com^
 ||bkqa.cn^
+||jnjslk.top^
 ||upufkg.icu^
 ||bycrovalb.com^
 ||hur05130kns.com^

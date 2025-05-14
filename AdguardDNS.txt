@@ -1,9 +1,11 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 14 May 2025 02:09:28 +0000
+# Last converted - Wed, 14 May 2025 08:36:38 +0000
 #
 
+0.0.0.0 hrzn-nxt.com
+0.0.0.0 madcheddar.net
 0.0.0.0 tradehouse.media
 0.0.0.0 couloirmatrass.com
 0.0.0.0 noyanceborer.com
@@ -101515,6 +101517,7 @@
 0.0.0.0 gmendanln.com
 0.0.0.0 akoo0514uis.com
 0.0.0.0 bkqa.cn
+0.0.0.0 jnjslk.top
 0.0.0.0 upufkg.icu
 0.0.0.0 bycrovalb.com
 0.0.0.0 hur05130kns.com
