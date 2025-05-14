@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-14T08:36:48.808Z
+! Last modified: 2025-05-14T16:36:30.631Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,14 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 14 May 2025 08:36:38 +0000
+# Last converted - Wed, 14 May 2025 16:36:24 +0000
 #
+||aucdn.net^
+||s.dt6ycu.com^
+||zipup.click^
+||cpmemes.cfd^
+||fileescd.cfd^
+||productdownload.pro^
 ||hrzn-nxt.com^
 ||madcheddar.net^
 ||tradehouse.media^
@@ -35495,6 +35501,12 @@
 ||xlog.snssdk.com^
 ||log.snssdk.com^
 ||kib.hu^
+||adlink.wurl.com^
+||miqdigital.com^
+||imp.datafyhq.com^
+||getrockerbox.com^
+||tuhesok.com^
+||advmusic.com^
 ||track.iegcom.com^
 ||af.click.ru^
 ||treconeanalytics.com^
@@ -92219,7 +92231,6 @@
 ||xxyolk.com^
 ||mountrs.com^
 ||multibux.org^
-||advmusic.com^
 ||dtashjvcjswq.info^
 ||7nkbwdf1uq.ru^
 ||tiz.jsite.top^

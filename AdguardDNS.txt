@@ -1,9 +1,15 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 14 May 2025 08:36:38 +0000
+# Last converted - Wed, 14 May 2025 16:36:24 +0000
 #
 
+0.0.0.0 aucdn.net
+0.0.0.0 s.dt6ycu.com
+0.0.0.0 zipup.click
+0.0.0.0 cpmemes.cfd
+0.0.0.0 fileescd.cfd
+0.0.0.0 productdownload.pro
 0.0.0.0 hrzn-nxt.com
 0.0.0.0 madcheddar.net
 0.0.0.0 tradehouse.media
@@ -35523,6 +35529,12 @@
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 kib.hu
+0.0.0.0 adlink.wurl.com
+0.0.0.0 miqdigital.com
+0.0.0.0 imp.datafyhq.com
+0.0.0.0 getrockerbox.com
+0.0.0.0 tuhesok.com
+0.0.0.0 advmusic.com
 0.0.0.0 track.iegcom.com
 0.0.0.0 af.click.ru
 0.0.0.0 treconeanalytics.com
@@ -92257,7 +92269,6 @@
 0.0.0.0 xxyolk.com
 0.0.0.0 mountrs.com
 0.0.0.0 multibux.org
-0.0.0.0 advmusic.com
 0.0.0.0 dtashjvcjswq.info
 0.0.0.0 7nkbwdf1uq.ru
 0.0.0.0 tiz.jsite.top
