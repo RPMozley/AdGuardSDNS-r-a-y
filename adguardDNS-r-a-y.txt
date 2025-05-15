@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-15T08:36:54.685Z
+! Last modified: 2025-05-15T16:37:08.056Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 15 May 2025 08:36:47 +0000
+# Last converted - Thu, 15 May 2025 16:37:00 +0000
 #
 ||aucdn.net^
 ||s.dt6ycu.com^
@@ -96570,6 +96570,7 @@
 ||cpx.vnecdn.com^
 ||csmads.gameclick.vn^
 ||delivery.doisongphapluat.com.vn^
+||delivery.lsvn.vn^
 ||delivery.upremium.asia^
 ||demopage.me^
 ||digi.vinut.com.vn^
@@ -96816,6 +96817,7 @@
 ||tracking.fff.com.vn^
 ||tracking.gapone.vn^
 ||tracking.hapiwork.vn^
+||tracking.lsvn.vn^
 ||tracking.meta.vn^
 ||tracking.phunuadong.vn^
 ||tracking.saostar.vn^

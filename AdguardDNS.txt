@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 15 May 2025 08:36:47 +0000
+# Last converted - Thu, 15 May 2025 16:37:00 +0000
 #
 
 0.0.0.0 aucdn.net
@@ -96631,6 +96631,7 @@
 0.0.0.0 cpx.vnecdn.com
 0.0.0.0 csmads.gameclick.vn
 0.0.0.0 delivery.doisongphapluat.com.vn
+0.0.0.0 delivery.lsvn.vn
 0.0.0.0 delivery.upremium.asia
 0.0.0.0 demopage.me
 0.0.0.0 digi.vinut.com.vn
@@ -96877,6 +96878,7 @@
 0.0.0.0 tracking.fff.com.vn
 0.0.0.0 tracking.gapone.vn
 0.0.0.0 tracking.hapiwork.vn
+0.0.0.0 tracking.lsvn.vn
 0.0.0.0 tracking.meta.vn
 0.0.0.0 tracking.phunuadong.vn
 0.0.0.0 tracking.saostar.vn
