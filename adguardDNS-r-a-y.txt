@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-15T02:06:59.976Z
+! Last modified: 2025-05-15T08:36:54.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 15 May 2025 02:06:51 +0000
+# Last converted - Thu, 15 May 2025 08:36:47 +0000
 #
 ||aucdn.net^
 ||s.dt6ycu.com^
@@ -10219,6 +10219,7 @@
 ||budgetastond.shop^
 ||budsminepatent.com^
 ||budvawshes.ru^
+||buffatopmost.com^
 ||buffethypothesis.com^
 ||buffetreboundfoul.com^
 ||bufmjknaeprvyd.com^
@@ -19388,6 +19389,7 @@
 ||longinghospitalsurveyed.com^
 ||longmansuchcesu.info^
 ||loobilysubdebs.com^
+||loobyfleyed.com^
 ||loodauni.com^
 ||loohaiturigavik.net^
 ||loohiwez.net^
@@ -86668,6 +86670,7 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
+||metrics.cs.money^
 ||counter-mdpr.freetls.fastly.net^
 ||vortex-dual.hulu.com^
 ||alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com^
@@ -101476,6 +101479,8 @@
 ||niu05150jd.top^
 ||fhl05150ps.com^
 ||opkrerkaidf.com^
+||nalyxg.top^
+||niu05151jd.top^
 ||ssqxuy.icu^
 ||gmendanln.com^
 ||akoo0514uis.com^

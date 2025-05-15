@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 15 May 2025 02:06:51 +0000
+# Last converted - Thu, 15 May 2025 08:36:47 +0000
 #
 
 0.0.0.0 aucdn.net
@@ -10245,6 +10245,7 @@
 0.0.0.0 budgetastond.shop
 0.0.0.0 budsminepatent.com
 0.0.0.0 budvawshes.ru
+0.0.0.0 buffatopmost.com
 0.0.0.0 buffethypothesis.com
 0.0.0.0 buffetreboundfoul.com
 0.0.0.0 bufmjknaeprvyd.com
@@ -19414,6 +19415,7 @@
 0.0.0.0 longinghospitalsurveyed.com
 0.0.0.0 longmansuchcesu.info
 0.0.0.0 loobilysubdebs.com
+0.0.0.0 loobyfleyed.com
 0.0.0.0 loodauni.com
 0.0.0.0 loohaiturigavik.net
 0.0.0.0 loohiwez.net
@@ -86703,6 +86705,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 metrics.cs.money
 0.0.0.0 counter-mdpr.freetls.fastly.net
 0.0.0.0 vortex-dual.hulu.com
 0.0.0.0 alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
@@ -101537,6 +101540,8 @@
 0.0.0.0 niu05150jd.top
 0.0.0.0 fhl05150ps.com
 0.0.0.0 opkrerkaidf.com
+0.0.0.0 nalyxg.top
+0.0.0.0 niu05151jd.top
 0.0.0.0 ssqxuy.icu
 0.0.0.0 gmendanln.com
 0.0.0.0 akoo0514uis.com
