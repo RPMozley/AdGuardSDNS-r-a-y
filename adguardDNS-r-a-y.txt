@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-16T08:36:48.097Z
+! Last modified: 2025-05-16T16:35:51.535Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,9 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 16 May 2025 08:36:40 +0000
+# Last converted - Fri, 16 May 2025 16:35:43 +0000
 #
+||obnoljac.com^
 ||aucdn.net^
 ||s.dt6ycu.com^
 ||zipup.click^
@@ -6570,6 +6571,7 @@
 ||75h4x7992.com^
 ||760a131226.com^
 ||76359a95dd.com^
+||76ec5a61ac.com^
 ||7719094ddf.com^
 ||7757139f7b.com^
 ||777seo.com^
@@ -10657,6 +10659,7 @@
 ||cdccdvxbght.com^
 ||cdceed.de^
 ||cdctwm.com^
+||cdd53ec0c3.com^
 ||cddtsecure.com^
 ||cdn-adtech.com^
 ||cdn-adtrue.com^
@@ -11158,6 +11161,7 @@
 ||clearancejoinjavelin.com^
 ||clearancemadnessadvised.com^
 ||clearonclick.com^
+||clearwatch.tv^
 ||cleftmeter.com^
 ||clemencyexceptionpolar.com^
 ||clenchedfavouritemailman.com^
@@ -15899,6 +15903,7 @@
 ||goxithosho.com^
 ||gpcrn.com^
 ||gpfaquowxnaum.xyz^
+||gpfvumsxtbf.com^
 ||gpibcoogfb.com^
 ||gpickufi.com^
 ||gpjwludjwldi.com^
@@ -20212,6 +20217,7 @@
 ||meteordentproposal.com^
 ||methodyprovand.com^
 ||methoxyunpaled.com^
+||methylstewed.com^
 ||metissebifold.shop^
 ||metlcuiousdates.com^
 ||metlculousdates.net^
@@ -27362,6 +27368,7 @@
 ||streakattempt.com^
 ||streakdancingmantle.com^
 ||stream-all.com^
+||streamereasy.click^
 ||streampsh.top^
 ||streamsearchclub.com^
 ||streamtoclick.com^
@@ -31167,6 +31174,7 @@
 ||yeastedbushpig.top^
 ||yeastfeukufund.org^
 ||yeesihighlyre.info^
+||yeljusxttq.com^
 ||yellowblue.io^
 ||yellowish-yesterday.pro^
 ||yellowprotection.com^
@@ -39015,7 +39023,6 @@
 ||visualdna.com^
 ||visualrevenue.com^
 ||vivistats.com^
-||vivocha.com^
 ||vizisense.net^
 ||vizu.com^
 ||vizury.com^
@@ -89456,6 +89463,7 @@
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||track.adflow-prod.minionplatform.com^
 ||t-odx.op-mobile.opera.com^
 ||stat-analytics.mediavitrina.ru^
 ||mob2.mymusic2025.com^

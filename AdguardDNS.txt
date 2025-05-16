@@ -1,9 +1,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Fri, 16 May 2025 08:36:40 +0000
+# Last converted - Fri, 16 May 2025 16:35:43 +0000
 #
 
+0.0.0.0 obnoljac.com
 0.0.0.0 aucdn.net
 0.0.0.0 s.dt6ycu.com
 0.0.0.0 zipup.click
@@ -6596,6 +6597,7 @@
 0.0.0.0 75h4x7992.com
 0.0.0.0 760a131226.com
 0.0.0.0 76359a95dd.com
+0.0.0.0 76ec5a61ac.com
 0.0.0.0 7719094ddf.com
 0.0.0.0 7757139f7b.com
 0.0.0.0 777seo.com
@@ -10683,6 +10685,7 @@
 0.0.0.0 cdccdvxbght.com
 0.0.0.0 cdceed.de
 0.0.0.0 cdctwm.com
+0.0.0.0 cdd53ec0c3.com
 0.0.0.0 cddtsecure.com
 0.0.0.0 cdn-adtech.com
 0.0.0.0 cdn-adtrue.com
@@ -11184,6 +11187,7 @@
 0.0.0.0 clearancejoinjavelin.com
 0.0.0.0 clearancemadnessadvised.com
 0.0.0.0 clearonclick.com
+0.0.0.0 clearwatch.tv
 0.0.0.0 cleftmeter.com
 0.0.0.0 clemencyexceptionpolar.com
 0.0.0.0 clenchedfavouritemailman.com
@@ -15925,6 +15929,7 @@
 0.0.0.0 goxithosho.com
 0.0.0.0 gpcrn.com
 0.0.0.0 gpfaquowxnaum.xyz
+0.0.0.0 gpfvumsxtbf.com
 0.0.0.0 gpibcoogfb.com
 0.0.0.0 gpickufi.com
 0.0.0.0 gpjwludjwldi.com
@@ -20238,6 +20243,7 @@
 0.0.0.0 meteordentproposal.com
 0.0.0.0 methodyprovand.com
 0.0.0.0 methoxyunpaled.com
+0.0.0.0 methylstewed.com
 0.0.0.0 metissebifold.shop
 0.0.0.0 metlcuiousdates.com
 0.0.0.0 metlculousdates.net
@@ -27388,6 +27394,7 @@
 0.0.0.0 streakattempt.com
 0.0.0.0 streakdancingmantle.com
 0.0.0.0 stream-all.com
+0.0.0.0 streamereasy.click
 0.0.0.0 streampsh.top
 0.0.0.0 streamsearchclub.com
 0.0.0.0 streamtoclick.com
@@ -31193,6 +31200,7 @@
 0.0.0.0 yeastedbushpig.top
 0.0.0.0 yeastfeukufund.org
 0.0.0.0 yeesihighlyre.info
+0.0.0.0 yeljusxttq.com
 0.0.0.0 yellowblue.io
 0.0.0.0 yellowish-yesterday.pro
 0.0.0.0 yellowprotection.com
@@ -39050,7 +39058,6 @@
 0.0.0.0 visualdna.com
 0.0.0.0 visualrevenue.com
 0.0.0.0 vivistats.com
-0.0.0.0 vivocha.com
 0.0.0.0 vizisense.net
 0.0.0.0 vizu.com
 0.0.0.0 vizury.com
@@ -89492,6 +89499,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 track.adflow-prod.minionplatform.com
 0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 mob2.mymusic2025.com
