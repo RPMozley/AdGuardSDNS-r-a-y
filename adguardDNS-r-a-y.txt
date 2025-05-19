@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-05-19T08:38:46.796Z
+! Last modified: 2025-05-19T16:36:55.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,8 +12,9 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 19 May 2025 08:38:39 +0000
+# Last converted - Mon, 19 May 2025 16:36:46 +0000
 #
+||aoqenxgnxtnnc.club^
 ||plush-abuse.com^
 ||obnoljac.com^
 ||aucdn.net^
@@ -2562,7 +2563,6 @@
 ||d6b1635a92.829c4efedc.com^
 ||dd47055762.df6733029c.com^
 ||df48924623.4e16b2e294.com^
-||e0c8eba8be.8ffea74ec5.com^
 ||e2154c9ee1.87eb0a33a9.com^
 ||e8a209dc96.ab0a4bc0ae.com^
 ||ecd2f27cc8.d0056a5b0b.com^
@@ -6669,6 +6669,7 @@
 ||80055404.vtt^
 ||8162f6c343.com^
 ||817dae10e1.com^
+||81af8eb64e.com^
 ||81c875a340.com^
 ||8231e5c33a.com^
 ||828af6b8ce.com^
@@ -6689,11 +6690,13 @@
 ||88eq7spm.de^
 ||8ab16250fe.com^
 ||8d96fe2f01.com^
+||8da1db73e4.com^
 ||8db4fde90b.com^
 ||8de5d7e235.com^
 ||8ea1272194.com^
 ||8ecc2aee4f.com^
 ||8exx9qtuojv1.shop^
+||8ffea74ec5.com^
 ||8il2nsgm5.com^
 ||8j1f0af5.de^
 ||8jay04c4q7te.com^
@@ -8183,6 +8186,7 @@
 ||amtgqceeirm.com^
 ||amtracking01.com^
 ||amtropiusr.com^
+||amuletsourcemadden.com^
 ||amunfezanttor.com^
 ||amusedfoisted.top^
 ||amusementrehearseevil.com^
@@ -8429,6 +8433,7 @@
 ||apxlv.com^
 ||apxratqisc.com^
 ||apxszeaj.com^
+||apyboqno.com^
 ||apzgcipacpu.com^
 ||aq30me9nw.com^
 ||aq7ua5ma85rddeinve.com^
@@ -9245,6 +9250,7 @@
 ||bardicjazzed.com^
 ||bardspintura.shop^
 ||barefootedleisurelypizza.com^
+||barelydonkeysteed.com^
 ||barelytwinkledelegate.com^
 ||bargainintake.com^
 ||bargedale.com^
@@ -10342,6 +10348,7 @@
 ||bunintruder.com^
 ||bunjaraserumal.com^
 ||bunkcalfcrystal.com^
+||bunkieloris.shop^
 ||bunnslibby.com^
 ||bunquaver.com^
 ||bunth.net^
@@ -11211,6 +11218,7 @@
 ||clearadnetwork.com^
 ||clearancejoinjavelin.com^
 ||clearancemadnessadvised.com^
+||clearcutadministration.com^
 ||clearonclick.com^
 ||clearwatch.tv^
 ||cleftmeter.com^
@@ -11644,6 +11652,7 @@
 ||constructpiece.com^
 ||constructpreachystopper.com^
 ||consukultinge.info^
+||consukultingeca.com^
 ||consultantvariabilitybandage.com^
 ||consumodakir.top^
 ||contact-universe.com^
@@ -11950,6 +11959,7 @@
 ||criminalalcovebeacon.com^
 ||criminalmention.pro^
 ||criminalweightforetaste.com^
+||criolloflatten.top^
 ||crippledwingant.com^
 ||crisistuesdayartillery.com^
 ||crisp-freedom.com^
@@ -12169,8 +12179,10 @@
 ||cypfdxbynb.com^
 ||cypresslocum.com^
 ||cyrociest.shop^
+||cysegreglo.pro^
 ||cytomecruor.top^
 ||cyuyvjwyfvn.com^
+||czamfgpnexsxo.vip^
 ||czaraptitude.com^
 ||czarmishap.com^
 ||czh5aa.xyz^
@@ -12184,34 +12196,21 @@
 ||d03ab571b4.com^
 ||d08l9a634.com^
 ||d0main.ru^
-||d14x46ho6sn9yf.cloudfront.net^
 ||d15a035f27.com^
 ||d170971757.com^
 ||d1a0c6affa.com^
-||d1d38a26hlyhe3.cloudfront.net^
-||d1dtl43j681tft.cloudfront.net^
 ||d1f76eb5a4.com^
-||d1jd9usa22o1l7.cloudfront.net^
 ||d1x9q8w2e4.xyz^
-||d21uxxljl9m8ns.cloudfront.net^
-||d232dy72shugnx.cloudfront.net^
 ||d24ak3f2b.top^
 ||d29gqcij.com^
-||d2ob6t3bgjo11t.cloudfront.net^
 ||d2ship.com^
-||d39xkyrc56llbg.cloudfront.net^
-||d3cwzq09n68ejj.cloudfront.net^
 ||d3d30ac9d4.com^
 ||d3edbb478c.com^
-||d3gaegctu6cvoa.cloudfront.net^
-||d3gv17rz6malag.cloudfront.net^
-||d3yl7tmbqe1mq.cloudfront.net^
 ||d43849fz.xyz^
 ||d44501d9f7.com^
 ||d49ae3cc10.com^
 ||d5465f9d11.com^
 ||d5db478dde.com^
-||d5xsfddfzb99g.cloudfront.net^
 ||d8c04a25e8.com^
 ||d95bda138b.com^
 ||d9db994995.com^
@@ -12434,7 +12433,6 @@
 ||ddtladjyq.com^
 ||ddtvskish.com^
 ||ddzk5l3bd.com^
-||dea9webxhb7gu.cloudfront.net^
 ||dead-put.com^
 ||deadlyrelationship.com^
 ||deadmentionsunday.com^
@@ -12541,11 +12539,11 @@
 ||degreaseserpentwashhouse.com^
 ||degreewhether.com^
 ||degutu.xyz^
-||deguxtdhf6d01.cloudfront.net^
 ||deitynosebleed.com^
 ||dejjjdbifojmi.com^
 ||deksoarguph.net^
 ||del-del-ete.com^
+||delawhorsely.shop^
 ||delayedmall.pro^
 ||delianoquassa.top^
 ||delicateomissionarched.com^
@@ -12708,12 +12706,12 @@
 ||dfe89deba4.com^
 ||dffa09cade.com^
 ||dfsdkkka.com^
-||dfwp6qatulz0p.cloudfront.net^
 ||dfyui8r5rs.click^
 ||dfyvcihusajf.com^
 ||dgafgadsgkjg.top^
 ||dgcyyabks.com^
 ||dgglooigbvpksp.com^
+||dgkkeiedhqgmp.top^
 ||dgkmdia.com^
 ||dgmaustralia.com^
 ||dgnlrpth-a.today^
@@ -12822,7 +12820,6 @@
 ||dippingunstable.com^
 ||diptaich.com^
 ||dipxmakuja.com^
-||diqftdf1fp8u.cloudfront.net^
 ||dirdoophounu.net^
 ||direcompulsion.com^
 ||direct-specific.com^
@@ -13308,7 +13305,6 @@
 ||dtx.click^
 ||dtyathercockrem.com^
 ||dtylhedgelnham.com^
-||du99h8anpnevg.cloudfront.net^
 ||dualmarket.info^
 ||duamilsyr.com^
 ||dubdiggcofmo.com^
@@ -13542,6 +13538,7 @@
 ||eburnaboost.top^
 ||eburnahornito.shop^
 ||ebuzzing.com^
+||ebxaslffntje.xyz^
 ||ebz.io^
 ||ec49775bc5.com^
 ||ec7be59676.com^
@@ -13896,6 +13893,7 @@
 ||enjaaiwix.com^
 ||enlightencentury.com^
 ||enlightenedstring.pro^
+||enlivebards.shop^
 ||enlnks.com^
 ||enodiarahnthedon.com^
 ||enointselety.shop^
@@ -14286,6 +14284,7 @@
 ||extrer.com^
 ||extsoft.info^
 ||exurbdaimiel.com^
+||exvrbxjy.com^
 ||exxaygm.com^
 ||ey43.com^
 ||eyauknalyticafra.info^
@@ -14672,6 +14671,7 @@
 ||finnan2you.com^
 ||finnan2you.net^
 ||finnan2you.org^
+||finnierazotine.top^
 ||finnnann.com^
 ||finreporter.net^
 ||finsoogn.xyz^
@@ -14963,6 +14963,7 @@
 ||forooqso.tv^
 ||forprimeapeon.com^
 ||forruesummula.shop^
+||forsakenburn.com^
 ||forsawka.com^
 ||forscprts.com^
 ||forsphealan.com^
@@ -15789,6 +15790,7 @@
 ||glyshalimu.com^
 ||gmads.net^
 ||gmaringpoliticism.org^
+||gmbylpvhssfpfhd.com^
 ||gme-trking.com^
 ||gmehcotihh.com^
 ||gmiqicw.com^
@@ -16095,6 +16097,7 @@
 ||grizzled-reality.pro^
 ||grmtas.com^
 ||groabopith.xyz^
+||groadamsoux.com^
 ||groampez.xyz^
 ||groamsal.net^
 ||groaxonsoow.net^
@@ -17020,6 +17023,7 @@
 ||htlbid.com^
 ||htliaproject.com^
 ||htmonster.com^
+||htnejxlhoskug.love^
 ||htnswmuugnjpr.club^
 ||htobficta.com^
 ||htocmofkyqfi.com^
@@ -17221,6 +17225,7 @@
 ||ieluqiqttdwv.com^
 ||ieo8qjp3x9jn.pro^
 ||ietyofedinj89yewtburgh.com^
+||iewixvvsbfkwd.world^
 ||ieyipznx.art^
 ||ieyri61b.xyz^
 ||iezxmddndn.com^
@@ -18031,6 +18036,7 @@
 ||jhodfooz.com^
 ||jholtata.com^
 ||jhsnshueyt.click^
+||jiakihtkynvks.today^
 ||jibbahazara.top^
 ||jicamadoless.com^
 ||jiclzori.com^
@@ -19031,6 +19037,7 @@
 ||leefosto.com^
 ||leeptoadeesh.net^
 ||leersiapsst.shop^
+||leerstighter.top^
 ||leesaushoah.net^
 ||leetaipt.net^
 ||leeteehigloothu.net^
@@ -20647,6 +20654,7 @@
 ||mskpwqlppxham.life^
 ||mslpowan.shop^
 ||msrehcmpeme.com^
+||msstavby.cz^
 ||mt34iofvjay.com^
 ||mtburn.com^
 ||mtkgyrzfygdh.com^
@@ -20954,6 +20962,7 @@
 ||neeceeglogu.net^
 ||neechube.net^
 ||needeevo.xyz^
+||needfulazafrin.shop^
 ||needyscarcasserole.com^
 ||neegreez.com^
 ||neehaifam.net^
@@ -23995,6 +24004,7 @@
 ||qazrvobkmqvmr.top^
 ||qazrvoyayvawv.top^
 ||qbkraweaoemer.top^
+||qblllqzqezlyz.top^
 ||qbrzvovrozqer.top^
 ||qbwebebwkeqar.top^
 ||qcbtygylmnfez.fun^
@@ -24034,6 +24044,7 @@
 ||qgevavwyafjf.com^
 ||qgwgweoxulrb.com^
 ||qgxbluhsgad.com^
+||qhiatcfrywgse.click^
 ||qhnojvbyxfgcf.click^
 ||qhogcyoqrl.com^
 ||qhurchaisrea.org^
@@ -24112,6 +24123,7 @@
 ||qrubv.buzz^
 ||qrwoayzjybzwo.top^
 ||qsbqxvdxhbnf.xyz^
+||qseacheby.xyz^
 ||qservz.com^
 ||qskxpvncyjly.com^
 ||qsmnt.online^
@@ -24260,6 +24272,7 @@
 ||rageryedison.top^
 ||raglassofrum.cc^
 ||ragofkanc.com^
+||rahdarigondi.shop^
 ||raheglin.xyz^
 ||raideeshaili.net^
 ||raikijausa.net^
@@ -24929,6 +24942,7 @@
 ||rizzomdaledh.top^
 ||rjeruqs.com^
 ||rjftgiby.com^
+||rjokawzwvryra.top^
 ||rjowzlkaz.today^
 ||rjw4obbw.com^
 ||rjxphruqiu.com^
@@ -25208,6 +25222,7 @@
 ||rugtranslating.com^
 ||ruincrayfish.com^
 ||ruinertapper.shop^
+||ruiningcoast.shop^
 ||ruinjan.com^
 ||rukanw.com^
 ||rukskijruza.com^
@@ -25872,6 +25887,7 @@
 ||shitucka.net^
 ||shivermarchingchance.com^
 ||shlyapapodplesk.site^
+||shmohuk.shop^
 ||shoacmoackaugnu.com^
 ||shoadessuglouz.net^
 ||shoagloumtoamir.net^
@@ -26678,6 +26694,7 @@
 ||stickyadstv.com^
 ||sticoowhowu.com^
 ||stiesboxtop.top^
+||stiff-hate.com^
 ||stiffeat.pro^
 ||stiffengobetween.com^
 ||stiffenpreciseannoying.com^
@@ -27009,6 +27026,7 @@
 ||swan-swan-goose.com^
 ||swanbxca.com^
 ||swansinksnow.com^
+||swapnell.shop^
 ||swarfamlikar.com^
 ||swarmpush.com^
 ||swarthyamong.com^
@@ -27586,6 +27604,7 @@
 ||tiltoofughes.com^
 ||tilttrk.com^
 ||tiltwin.com^
+||timberfrittermud.com^
 ||time4news.net^
 ||timecrom.com^
 ||timeforagreement.com^
@@ -27596,6 +27615,7 @@
 ||timetoagree.com^
 ||timetrpchines.top^
 ||timidseducingcorpse.com^
+||timingrunaway.com^
 ||timmerintice.com^
 ||timot-cvk.info^
 ||timsef.com^
@@ -27645,6 +27665,7 @@
 ||tizkakcritpe.com^
 ||tizohjpaq.com^
 ||tjaard11.xyz^
+||tjpkgnwvighek.click^
 ||tjpzz.buzz^
 ||tkbo.com^
 ||tkiahfogn.com^
@@ -28091,6 +28112,7 @@
 ||tsapphiresand.info^
 ||tsaristcanapes.com^
 ||tsarkinds.com^
+||tsazdxinqmano.love^
 ||tsbck.com^
 ||tsguwdaubbqgs.world^
 ||tshxxhgmjgut.com^
@@ -28678,6 +28700,7 @@
 ||uuyhonsdpa.com^
 ||uveamiskept.shop^
 ||uvoonaix.top^
+||uvyowldksqt.com^
 ||uvzsmwfxa.com^
 ||uwaxoyfklhm.com^
 ||uwfcqtdb.xyz^
@@ -28915,6 +28938,7 @@
 ||vfuqivac.com^
 ||vfvdsati.com^
 ||vfyhwapi.com^
+||vfyjinofkad.com^
 ||vg4u8rvq65t6.com^
 ||vgfhycwkvh.com^
 ||vhabwaoh.com^
@@ -29226,6 +29250,7 @@
 ||vwwydixeuufec.tech^
 ||vwwzygltq.com^
 ||vxpcarcapffdp.global^
+||vydfergcp.com^
 ||vyebzzbovvorz.top^
 ||vyfrxuytzn.com^
 ||vyhxugizkaktg.tech^
@@ -29311,6 +29336,7 @@
 ||warriorflowsweater.com^
 ||warsabnormality.com^
 ||warscoltmarvellous.com^
+||wartsrokey.com^
 ||warumbistdusoarm.space^
 ||warwickgph.top^
 ||wary-corner.com^
@@ -29497,6 +29523,7 @@
 ||weredthechildre.com^
 ||weremoiety.com^
 ||wererxrzmp.com^
+||werlxcdenbm.com^
 ||weshooship.net^
 ||wesicuros.com^
 ||wesmallproclaim.com^
@@ -29932,6 +29959,7 @@
 ||writhehawm.com^
 ||wroahqavna.com^
 ||wrongwayfarer.com^
+||wrqkrnicufwmc.xyz^
 ||wrrlidnlerx.com^
 ||wrtgbqgjtjo.com^
 ||wrufer.com^
@@ -30001,6 +30029,7 @@
 ||wxseedslpi.com^
 ||wyaoormajveqk.top^
 ||wyaoormajvwqj.top^
+||wyaoormajvykm.top^
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
 ||wyidsbopxpifd.love^
@@ -30081,6 +30110,7 @@
 ||xenylclio.com^
 ||xepsygfqsvyyv.tech^
 ||xerasiasoled.top^
+||xfbjiyqezmwew.space^
 ||xfdmihlzrmks.com^
 ||xfileload.com^
 ||xfjptlrwocfkx.one^
@@ -30351,6 +30381,7 @@
 ||yoads.net^
 ||yoc-adserver.com^
 ||yockingdey.shop^
+||yofnvrab.com^
 ||yogapersuasive.com^
 ||yogar2ti8nf09.com^
 ||yoibbka.com^
@@ -32301,6 +32332,7 @@
 ||inrdeals.com^
 ||join.megaphonetv.com^
 ||js.bigcomics.win^
+||js.gov.cfd^
 ||js.kakuyomu.in^
 ||js.kkraw.com^
 ||js.mangaraw.bid^
@@ -32433,6 +32465,7 @@
 ||d149mkdvjofx4v.cloudfront.net^
 ||d14l1tkufmtp1z.cloudfront.net^
 ||d14osandwrs90r.cloudfront.net^
+||d14x46ho6sn9yf.cloudfront.net^
 ||d14zhsq5aop7ap.cloudfront.net^
 ||d154nw1c88j0q6.cloudfront.net^
 ||d15bcy38hlba76.cloudfront.net^
@@ -32501,11 +32534,13 @@
 ||d1crfzlys5jsn1.cloudfront.net^
 ||d1crt12zco2cvf.cloudfront.net^
 ||d1csp7vj6qqoa6.cloudfront.net^
+||d1d38a26hlyhe3.cloudfront.net^
 ||d1d7hwtv2l91pm.cloudfront.net^
 ||d1dcnte8mfzkpv.cloudfront.net^
 ||d1dh1gvx7p0imm.cloudfront.net^
 ||d1diqetif5itzx.cloudfront.net^
 ||d1djrodi2reo2w.cloudfront.net^
+||d1dtl43j681tft.cloudfront.net^
 ||d1e28xq8vu3baf.cloudfront.net^
 ||d1e3vw6pz2ty1m.cloudfront.net^
 ||d1e51ovcxdu97v.cloudfront.net^
@@ -32554,6 +32589,7 @@
 ||d1j818d3wapogd.cloudfront.net^
 ||d1j9qsxe04m2ki.cloudfront.net^
 ||d1jcj9gy98l90g.cloudfront.net^
+||d1jd9usa22o1l7.cloudfront.net^
 ||d1jnvfp2m6fzvq.cloudfront.net^
 ||d1juimniehopp3.cloudfront.net^
 ||d1jwpd11ofhd5g.cloudfront.net^
@@ -32705,6 +32741,7 @@
 ||d21m5j4ptsok5u.cloudfront.net^
 ||d21rpkgy8pahcu.cloudfront.net^
 ||d21rudljp9n1rr.cloudfront.net^
+||d21uxxljl9m8ns.cloudfront.net^
 ||d223xrf0cqrzzz.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
 ||d227n6rw2vv5cw.cloudfront.net^
@@ -32716,6 +32753,7 @@
 ||d22sfab2t5o9bq.cloudfront.net^
 ||d22xmn10vbouk4.cloudfront.net^
 ||d22z575k8abudv.cloudfront.net^
+||d232dy72shugnx.cloudfront.net^
 ||d235m8fpdlskx9.cloudfront.net^
 ||d236v5t33fsfwk.cloudfront.net^
 ||d23a1izvegnhq4.cloudfront.net^
@@ -32875,6 +32913,7 @@
 ||d2o03z2xnyxlz5.cloudfront.net^
 ||d2o51l6pktevii.cloudfront.net^
 ||d2ob4whwpjvvpa.cloudfront.net^
+||d2ob6t3bgjo11t.cloudfront.net^
 ||d2ohmkyg5w2c18.cloudfront.net^
 ||d2ojfulajn60p5.cloudfront.net^
 ||d2oouw5449k1qr.cloudfront.net^
@@ -33030,6 +33069,7 @@
 ||d396osuty6rfec.cloudfront.net^
 ||d399jvos5it4fl.cloudfront.net^
 ||d39hdzmeufnl50.cloudfront.net^
+||d39xkyrc56llbg.cloudfront.net^
 ||d39xxywi4dmut5.cloudfront.net^
 ||d3a49eam5ump99.cloudfront.net^
 ||d3a781y1fb2dm6.cloudfront.net^
@@ -33049,6 +33089,7 @@
 ||d3cl0ipbob7kki.cloudfront.net^
 ||d3cod80thn7qnd.cloudfront.net^
 ||d3cpib6kv2rja7.cloudfront.net^
+||d3cwzq09n68ejj.cloudfront.net^
 ||d3cynajatn2qbc.cloudfront.net^
 ||d3d0wndor0l4xe.cloudfront.net^
 ||d3d54j7si4woql.cloudfront.net^
@@ -33075,6 +33116,7 @@
 ||d3frqqoat98cng.cloudfront.net^
 ||d3g4s1p0bmuj5f.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
+||d3gaegctu6cvoa.cloudfront.net^
 ||d3gi4w10ruedfh.cloudfront.net^
 ||d3glbzj5024wpt.cloudfront.net^
 ||d3glxtkdbno0so.cloudfront.net^
@@ -33194,6 +33236,7 @@
 ||d3vvrup2jpfiep.cloudfront.net^
 ||d3vw4uehoh23hx.cloudfront.net^
 ||d3x0jb14w6nqz.cloudfront.net^
+||d3yl7tmbqe1mq.cloudfront.net^
 ||d3zd5ejbi4l9w.cloudfront.net^
 ||d415l8qlhk6u6.cloudfront.net^
 ||d41j1hzuhqg2.cloudfront.net^
@@ -33203,6 +33246,7 @@
 ||d5d3sg85gu7o6.cloudfront.net^
 ||d5onopbfw009h.cloudfront.net^
 ||d5wxfe8ietrpg.cloudfront.net^
+||d5xsfddfzb99g.cloudfront.net^
 ||d63a3au5lqmtu.cloudfront.net^
 ||d6cto2pyf2ks.cloudfront.net^
 ||d6deij4k3ikap.cloudfront.net^
@@ -33265,7 +33309,9 @@
 ||ddxwjtou7avz0.cloudfront.net^
 ||ddzswov1e84sp.cloudfront.net^
 ||de2nsnw1i3egd.cloudfront.net^
+||dea9webxhb7gu.cloudfront.net^
 ||defppmasu35cw.cloudfront.net^
+||deguxtdhf6d01.cloudfront.net^
 ||deisd5o6v8rgq.cloudfront.net^
 ||desgao1zt7irn.cloudfront.net^
 ||dew9ckzjyt2gn.cloudfront.net^
@@ -33275,6 +33321,7 @@
 ||dfiqvf0syzl54.cloudfront.net^
 ||dfqcp2awt0947.cloudfront.net^
 ||dfwbfr2blhmr5.cloudfront.net^
+||dfwp6qatulz0p.cloudfront.net^
 ||dg0hrtzcus4q4.cloudfront.net^
 ||dg6gu9iqplusg.cloudfront.net^
 ||dg7k1tpeaxzcq.cloudfront.net^
@@ -33290,6 +33337,7 @@
 ||dihutyaiafuhr.cloudfront.net^
 ||dil4q0t0blrf8.cloudfront.net^
 ||dilvyi2h98h1q.cloudfront.net^
+||diqftdf1fp8u.cloudfront.net^
 ||dita6jhhqwoiz.cloudfront.net^
 ||divekcl7q9fxi.cloudfront.net^
 ||diz4z73aymwyp.cloudfront.net^
@@ -33394,6 +33442,7 @@
 ||du01z5hhojprz.cloudfront.net^
 ||du0pud0sdlmzf.cloudfront.net^
 ||du2uh7rq0r0d3.cloudfront.net^
+||du99h8anpnevg.cloudfront.net^
 ||due5a6x777z0x.cloudfront.net^
 ||dufai4b1ap33z.cloudfront.net^
 ||duh0b8nl8uhfn.cloudfront.net^
@@ -87302,6 +87351,7 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
+||web-ivcbrasil-tag.s3.us-west-2.amazonaws.com^
 ||log.realelements.live^
 ||metrics.cs.money^
 ||counter-mdpr.freetls.fastly.net^
@@ -95799,6 +95849,7 @@
 ||ads.skolvarlden.se^
 ||ads.ungdomar.se^
 ||ads.varldenidag.se^
+||adsaga.telgenytt.se^
 ||adserver.ddev.site^
 ||adserver.so-rummet.se^
 ||adservice.google.se^
@@ -101908,6 +101959,15 @@
 ||cnzz.trafficmanager.net^
 ||xdea.cn^
 ||ldrerirbuaou.com^
+||rwbqll.top^
+||68s4eyiru.com^
+||pbgufjylmzsym.top^
+||adfsda005.xyz^
+||etdggwj.top^
+||ahqihkm.top^
+||rudhjah.top^
+||wbqhehokmy.com^
+||rcilgeill.com^
 ||niu05180jd.top^
 ||n0ocxl4w5g.top^
 ||afce.cn^
