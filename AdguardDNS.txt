@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sat, 31 May 2025 16:34:43 +0000
+# Last converted - Sun, 01 Jun 2025 02:35:53 +0000
 #
 
 0.0.0.0 entertainlavish.com
@@ -103318,6 +103318,13 @@
 0.0.0.0 hash.trafficmanager.net
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 lxsz0w0aw.com
+0.0.0.0 dejcxwlv8.com
+0.0.0.0 fk3nf1xeh.top
+0.0.0.0 atsgiu.icu
+0.0.0.0 nlzyp.cn
+0.0.0.0 cedhoinle.com
+0.0.0.0 xpxi.cn
 0.0.0.0 7x9i88rvn.com
 0.0.0.0 jkn05310loi.com
 0.0.0.0 jkn05311loi.com
