@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-06-01T02:35:59.924Z
+! Last modified: 2025-06-01T08:33:58.918Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 01 Jun 2025 02:35:53 +0000
+# Last converted - Sun, 01 Jun 2025 08:33:51 +0000
 #
 ||entertainlavish.com^
 ||forcefulpacehauled.com^
@@ -97252,7 +97252,6 @@
 ||f.convertkit.com^
 ||faro-collector-prod-eu-west-0.grafana.net^
 ||feed.aservice.tools^
-||fila.com.se^
 ||flag.lab.eu.amplitude.com^
 ||fml-x.com^
 ||footjoygolfskorrea.com.se^
@@ -97398,12 +97397,10 @@
 ||sentry.outbid.io^
 ||seo.compado.com^
 ||seonify.com^
-||servedby.lintigroup.se^
 ||se-ads-microservice.ads.allermedia.io^
 ||sgtm.inet.se^
 ||smetrics.avanza.se^
 ||source.advisible.com^
-||spel.expressen.se^
 ||sprinklecontent.com^
 ||sprinkletxt.com^
 ||sp-eu.dev.polarbyte.com^
@@ -103264,6 +103261,11 @@
 ||nlzyp.cn^
 ||cedhoinle.com^
 ||xpxi.cn^
+||naljjd.top^
+||dilmcrybf.com^
+||8u6stvyww.top^
+||mhaw.cn^
+||7f583jylmjs.top^
 ||7x9i88rvn.com^
 ||jkn05310loi.com^
 ||jkn05311loi.com^

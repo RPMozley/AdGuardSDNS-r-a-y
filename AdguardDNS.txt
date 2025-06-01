@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 01 Jun 2025 02:35:53 +0000
+# Last converted - Sun, 01 Jun 2025 08:33:51 +0000
 #
 
 0.0.0.0 entertainlavish.com
@@ -97312,7 +97312,6 @@
 0.0.0.0 f.convertkit.com
 0.0.0.0 faro-collector-prod-eu-west-0.grafana.net
 0.0.0.0 feed.aservice.tools
-0.0.0.0 fila.com.se
 0.0.0.0 flag.lab.eu.amplitude.com
 0.0.0.0 fml-x.com
 0.0.0.0 footjoygolfskorrea.com.se
@@ -97459,12 +97458,10 @@
 0.0.0.0 sentry.outbid.io
 0.0.0.0 seo.compado.com
 0.0.0.0 seonify.com
-0.0.0.0 servedby.lintigroup.se
 0.0.0.0 se-ads-microservice.ads.allermedia.io
 0.0.0.0 sgtm.inet.se
 0.0.0.0 smetrics.avanza.se
 0.0.0.0 source.advisible.com
-0.0.0.0 spel.expressen.se
 0.0.0.0 sprinklecontent.com
 0.0.0.0 sprinkletxt.com
 0.0.0.0 sp-eu.dev.polarbyte.com
@@ -103325,6 +103322,11 @@
 0.0.0.0 nlzyp.cn
 0.0.0.0 cedhoinle.com
 0.0.0.0 xpxi.cn
+0.0.0.0 naljjd.top
+0.0.0.0 dilmcrybf.com
+0.0.0.0 8u6stvyww.top
+0.0.0.0 mhaw.cn
+0.0.0.0 7f583jylmjs.top
 0.0.0.0 7x9i88rvn.com
 0.0.0.0 jkn05310loi.com
 0.0.0.0 jkn05311loi.com
