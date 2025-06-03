@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Mon, 02 Jun 2025 16:38:57 +0000
+# Last converted - Tue, 03 Jun 2025 02:17:48 +0000
 #
 
 0.0.0.0 aweyqaqkrvjm.top
@@ -103581,6 +103581,14 @@
 0.0.0.0 hash.trafficmanager.net
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 pjdhguh14.com
+0.0.0.0 c7o9xp4e4.com
+0.0.0.0 geqzt6tkg.top
+0.0.0.0 yeandriethzm.com
+0.0.0.0 tfio.cn
+0.0.0.0 dypozx.icu
+0.0.0.0 wmktew.icu
+0.0.0.0 nftxfd.top
 0.0.0.0 lj0hx1sboy.com
 0.0.0.0 nplvdodbja.com
 0.0.0.0 yjoyse.icu
