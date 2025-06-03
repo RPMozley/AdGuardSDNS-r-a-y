@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-06-03T02:17:56.968Z
+! Last modified: 2025-06-03T08:39:43.160Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 03 Jun 2025 02:17:48 +0000
+# Last converted - Tue, 03 Jun 2025 08:39:31 +0000
 #
 ||aweyqaqkrvjm.top^
 ||entertainlavish.com^
@@ -12378,6 +12378,7 @@
 ||crypto-ads.net^
 ||cryptoatom.care^
 ||cryptobeneluxbanner.care^
+||cryptobuffet.care^
 ||cryptojimmy.care^
 ||cryptomaster.care^
 ||cryptomcw.com^
@@ -97844,6 +97845,7 @@
 ||tracking.tranastidning.se^
 ||tracking.trelleborgsallehanda.se^
 ||tracking.ut.se^
+||tracking.varldenshistoria.se^
 ||tracking.vastgotabladet.se^
 ||tracking.vaxjobladet.se^
 ||tracking.vetlandaposten.se^
@@ -103528,6 +103530,8 @@
 ||dypozx.icu^
 ||wmktew.icu^
 ||nftxfd.top^
+||u5eguuk2n.com^
+||ok5xe6r7o.top^
 ||lj0hx1sboy.com^
 ||nplvdodbja.com^
 ||yjoyse.icu^

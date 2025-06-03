@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 03 Jun 2025 02:17:48 +0000
+# Last converted - Tue, 03 Jun 2025 08:39:31 +0000
 #
 
 0.0.0.0 aweyqaqkrvjm.top
@@ -12404,6 +12404,7 @@
 0.0.0.0 crypto-ads.net
 0.0.0.0 cryptoatom.care
 0.0.0.0 cryptobeneluxbanner.care
+0.0.0.0 cryptobuffet.care
 0.0.0.0 cryptojimmy.care
 0.0.0.0 cryptomaster.care
 0.0.0.0 cryptomcw.com
@@ -97905,6 +97906,7 @@
 0.0.0.0 tracking.tranastidning.se
 0.0.0.0 tracking.trelleborgsallehanda.se
 0.0.0.0 tracking.ut.se
+0.0.0.0 tracking.varldenshistoria.se
 0.0.0.0 tracking.vastgotabladet.se
 0.0.0.0 tracking.vaxjobladet.se
 0.0.0.0 tracking.vetlandaposten.se
@@ -103589,6 +103591,8 @@
 0.0.0.0 dypozx.icu
 0.0.0.0 wmktew.icu
 0.0.0.0 nftxfd.top
+0.0.0.0 u5eguuk2n.com
+0.0.0.0 ok5xe6r7o.top
 0.0.0.0 lj0hx1sboy.com
 0.0.0.0 nplvdodbja.com
 0.0.0.0 yjoyse.icu
