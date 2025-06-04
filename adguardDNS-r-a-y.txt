@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-06-03T16:39:58.128Z
+! Last modified: 2025-06-04T02:17:59.976Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 03 Jun 2025 16:39:47 +0000
+# Last converted - Wed, 04 Jun 2025 02:17:49 +0000
 #
 ||otvnwagpia.com^
 ||whiteinflammablejaws.com^
@@ -88871,6 +88871,8 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
+||e.aimerce.ai^
+||j0v36abmdj.execute-api.us-east-1.amazonaws.com^
 ||lumberjack-metrics.razorpay.com^
 ||statistics-collector-api.listglobally.com^
 ||telegraph.prd.api.bleacherreport.com^
@@ -93091,10 +93093,12 @@
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2fj3s7h83rb61.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
+||d2i34c80a0ftze.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2lxqodqbpy7c2.cloudfront.net^
+||d2lyx5ly60ksu3.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2pozfvrp52dk4.cloudfront.net^
 ||d2pt12ct4kmq21.cloudfront.net^
@@ -93759,6 +93763,7 @@
 ||tracker.iltrovatore.it^
 ||tracking.trovaprezzi.it^
 ||tracks.arubamediamarketing.it^
+||usage.centsdonations.com^
 ||vppst.iltrovatore.it^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
@@ -103596,6 +103601,14 @@
 ||hash.trafficmanager.net^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||def2g1kz2t.top^
+||tpuo.cn^
+||ruqneakyp.com^
+||yjnlk.com^
+||titroikan.com^
+||wj9uod3838.com^
+||5d7k30pv1u.com^
+||cpglqg.icu^
 ||pjdhguh14.com^
 ||c7o9xp4e4.com^
 ||geqzt6tkg.top^

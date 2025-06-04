@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 03 Jun 2025 16:39:47 +0000
+# Last converted - Wed, 04 Jun 2025 02:17:49 +0000
 #
 
 0.0.0.0 otvnwagpia.com
@@ -88906,6 +88906,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 e.aimerce.ai
+0.0.0.0 j0v36abmdj.execute-api.us-east-1.amazonaws.com
 0.0.0.0 lumberjack-metrics.razorpay.com
 0.0.0.0 statistics-collector-api.listglobally.com
 0.0.0.0 telegraph.prd.api.bleacherreport.com
@@ -93127,10 +93129,12 @@
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
 0.0.0.0 d2fj3s7h83rb61.cloudfront.net
 0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
+0.0.0.0 d2i34c80a0ftze.cloudfront.net
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
 0.0.0.0 d2j74sjmqqyf26.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
 0.0.0.0 d2lxqodqbpy7c2.cloudfront.net
+0.0.0.0 d2lyx5ly60ksu3.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2pozfvrp52dk4.cloudfront.net
 0.0.0.0 d2pt12ct4kmq21.cloudfront.net
@@ -93795,6 +93799,7 @@
 0.0.0.0 tracker.iltrovatore.it
 0.0.0.0 tracking.trovaprezzi.it
 0.0.0.0 tracks.arubamediamarketing.it
+0.0.0.0 usage.centsdonations.com
 0.0.0.0 vppst.iltrovatore.it
 0.0.0.0 analyzer51.fc2.com
 0.0.0.0 bvr.snva.jp
@@ -103657,6 +103662,14 @@
 0.0.0.0 hash.trafficmanager.net
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 def2g1kz2t.top
+0.0.0.0 tpuo.cn
+0.0.0.0 ruqneakyp.com
+0.0.0.0 yjnlk.com
+0.0.0.0 titroikan.com
+0.0.0.0 wj9uod3838.com
+0.0.0.0 5d7k30pv1u.com
+0.0.0.0 cpglqg.icu
 0.0.0.0 pjdhguh14.com
 0.0.0.0 c7o9xp4e4.com
 0.0.0.0 geqzt6tkg.top
