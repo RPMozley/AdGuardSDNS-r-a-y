@@ -2,7 +2,7 @@
 ! Title: AdGuard SDNS
 ! Description: AdBlock version of r-a-y's SDNS
 ! Version: 1.0.6
-! Last modified: 2025-06-04T16:33:39.043Z
+! Last modified: 2025-06-05T02:17:00.696Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
@@ -12,7 +12,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Wed, 04 Jun 2025 16:33:29 +0000
+# Last converted - Thu, 05 Jun 2025 02:16:50 +0000
 #
 ||livestt.co^
 ||skypie.info^
@@ -8826,6 +8826,7 @@
 ||arleavannya.com^
 ||armaturereadiness.com^
 ||armedtidying.com^
+||armilmacusi.com^
 ||arminius.io^
 ||armmabbi.com^
 ||armsfulpageant.top^
@@ -9108,6 +9109,7 @@
 ||atpansagean.com^
 ||atpawniarda.com^
 ||atraff.com^
+||atrem.site^
 ||atriahatband.com^
 ||atris.xyz^
 ||atrkmankubf.com^
@@ -10588,6 +10590,7 @@
 ||brinkprovenanceamenity.com^
 ||brioletredeyes.com^
 ||brionyamanist.com^
+||bristlechurch.com^
 ||brithungown.com^
 ||britishfinestarrangement.com^
 ||britishinquisitive.com^
@@ -12383,6 +12386,7 @@
 ||crazylead.com^
 ||crazylovepartners.com^
 ||crbbgate.com^
+||crbrdwegmonc.com^
 ||crcgrilses.com^
 ||crcwmxyhc.com^
 ||crdefault.link^
@@ -13220,6 +13224,7 @@
 ||deymalaise.com^
 ||deypersonalreco.com^
 ||dezna.online^
+||dfaazrxihm.com^
 ||dfaobxanhdfa.com^
 ||dfd55780d6.com^
 ||dfdgfruitie.xyz^
@@ -13273,6 +13278,7 @@
 ||dictumstortil.com^
 ||diddestrewinds.top^
 ||didesthanger.com^
+||didsaurtez.net^
 ||diedpractitionerplug.com^
 ||dieehxgtp.com^
 ||diegoinurn.shop^
@@ -15174,6 +15180,7 @@
 ||fermistychism.shop^
 ||fermolo.info^
 ||feroffer.com^
+||ferritemegapod.shop^
 ||ferukentaspects.com^
 ||fervcbytncxaj.icu^
 ||fessedpyropen.shop^
@@ -19371,6 +19378,7 @@
 ||kjyytxyetnueu.club^
 ||kkeichcdm.xyz^
 ||kkeugrilxgql.com^
+||kkgrttfmi.com^
 ||kkieeoxcjpqah.vip^
 ||kkmacsqsbf.info^
 ||kknkcyrkvoqsqa.com^
@@ -20372,6 +20380,7 @@
 ||lpjkwklc.com^
 ||lpmcr1h7z.com^
 ||lpmugcevks.com^
+||lpnikgpqxuyrjm.com^
 ||lptrak.com^
 ||lptrck.com^
 ||lptyuosfcv.com^
@@ -21363,6 +21372,7 @@
 ||molikrebaumt.xyz^
 ||mollesscar.top^
 ||molokerpterion.shop^
+||molpewere.top^
 ||molttenglobins.casa^
 ||molypsigry.pro^
 ||momclumsycamouflage.com^
@@ -22401,6 +22411,7 @@
 ||nvuzubaus.tech^
 ||nvxbjvswajhug.space^
 ||nwabcuwugact.com^
+||nwarktriynwek.store^
 ||nwemnd.com^
 ||nweztoovg.com^
 ||nwjdldsfzszkp.rocks^
@@ -24765,6 +24776,7 @@
 ||ptekuwiny.pro^
 ||ptelastaxo.com^
 ||pteleaspiring.top^
+||ptemsoaksol.net^
 ||ptichoolsougn.net^
 ||ptidsezi.com^
 ||ptifaustounsaz.com^
@@ -24864,6 +24876,7 @@
 ||punosy.com^
 ||punrbligpisll.life^
 ||punslemmas.shop^
+||puntingdeg.com^
 ||puntistbitless.shop^
 ||pupilarouranos.com^
 ||puppyderisiverear.com^
@@ -28065,6 +28078,7 @@
 ||stvbiopr.net^
 ||stvkr.com^
 ||stvwell.online^
+||styldiaasarone.com^
 ||styletrackstable.com^
 ||stylf.com^
 ||stylish-airport.com^
@@ -31306,6 +31320,7 @@
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
 ||wyidsbopxpifd.love^
+||wylin.ai^
 ||wylmzwklkljav.top^
 ||wylmzwklkljwr.top^
 ||wylmzwklklyaz.top^
@@ -31952,6 +31967,7 @@
 ||zogrepsili.com^
 ||zoiefwqhcaczun.com^
 ||zoilusdoping.top^
+||zokqlomemmzbw.top^
 ||zombyfairfax.com^
 ||zonealta.com^
 ||zoneremeriti.top^
@@ -89092,6 +89108,8 @@
 ||wz.allianz.fr^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
+||c2-eu.piano.io^
+||proxima.midjourney.com^
 ||e.aimerce.ai^
 ||j0v36abmdj.execute-api.us-east-1.amazonaws.com^
 ||lumberjack-metrics.razorpay.com^
@@ -89105,7 +89123,6 @@
 ||img.sct.eu1.usercentrics.eu^
 ||segapi.splice.com^
 ||t.illuma-tech.com^
-||experiment-variant.baemin.com^
 ||cdp.yna.co.kr^
 ||ingestion.webanalytics.italia.it^
 ||njoevqi1nx.hockerty.com^
@@ -103824,6 +103841,14 @@
 ||hash.trafficmanager.net^
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
+||uteeo5018.com^
+||yki9xpcuc.com^
+||hgo06050uyi.com^
+||conyz.cn^
+||afcgcq.icu^
+||qvzabbhovve.com^
+||txre.cn^
+||rdbgxi.top^
 ||def2g1kz2t.top^
 ||tpuo.cn^
 ||ruqneakyp.com^
