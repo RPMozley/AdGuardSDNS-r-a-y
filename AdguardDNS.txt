@@ -1,9 +1,10 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 20 Oct 2026 04:41:24 +0000
+# Last converted - Tue, 20 Oct 2026 13:31:23 +0000
 #
 
+0.0.0.0 syncbm.com
 0.0.0.0 pexelss.net
 0.0.0.0 cloudnaery.net
 0.0.0.0 tpiwudolrna.in
@@ -15475,7 +15476,6 @@
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 analytics.ff.avast.com
-0.0.0.0 node.aibeacon.jp
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log-tb.isnssdk.com
@@ -120734,6 +120734,7 @@
 0.0.0.0 777ebfeef8.com
 0.0.0.0 77faf458f4.com
 0.0.0.0 77management.net
+0.0.0.0 77xl8efvneuhce35zh9ngxl7.cfd
 0.0.0.0 77y5c9bl3hi9yvt.rest
 0.0.0.0 782c161d89.com
 0.0.0.0 788facb124.com
@@ -121407,6 +121408,7 @@
 0.0.0.0 acisseora.cyou
 0.0.0.0 ackcdn.net
 0.0.0.0 ackdewsntmybn.online
+0.0.0.0 ackevenusher.com
 0.0.0.0 ackfqyzrdulxc.space
 0.0.0.0 ackkagqqqvdwh.online
 0.0.0.0 acknowledgepronounablaze.com
@@ -122349,6 +122351,7 @@
 0.0.0.0 aj2635.bid
 0.0.0.0 aj2756.top
 0.0.0.0 ajarmargaritaalmond.com
+0.0.0.0 ajbfmnrtwweat.site
 0.0.0.0 ajcdubkqpymme.site
 0.0.0.0 ajddolrmsfsvg.space
 0.0.0.0 ajdfwamz.com
@@ -122716,6 +122719,7 @@
 0.0.0.0 amlzndgkbicak.store
 0.0.0.0 ammhmvurnghxn.space
 0.0.0.0 amminesliquory.cyou
+0.0.0.0 ammkaqpak.in
 0.0.0.0 ammkthgqgatco.space
 0.0.0.0 ammonalquiniakriton.cyou
 0.0.0.0 ammonalsatirestomach.cfd
@@ -122895,6 +122899,7 @@
 0.0.0.0 anonymasiden.cfd
 0.0.0.0 anonymousads.com
 0.0.0.0 anopportunitytost.info
+0.0.0.0 anosiaknesset.cfd
 0.0.0.0 anothercable.pro
 0.0.0.0 anothereldestprogeny.com
 0.0.0.0 anotoenprmmen.space
@@ -122969,6 +122974,7 @@
 0.0.0.0 aocaxppjxvhfj.online
 0.0.0.0 aocdqwzslgqlo.site
 0.0.0.0 aodhnoaolqxkm.space
+0.0.0.0 aoejgndmkflug.online
 0.0.0.0 aoelyynxoztwi.space
 0.0.0.0 aofbfezksdfyc.website
 0.0.0.0 aofrrliqxrumq.site
@@ -123875,6 +123881,7 @@
 0.0.0.0 axoxktmvnhtav.site
 0.0.0.0 axpedsqboflar.space
 0.0.0.0 axperelwuzxzz.website
+0.0.0.0 axrhdperzzjkv.site
 0.0.0.0 axroiubduuqtw.website
 0.0.0.0 axshhgmltiycy.site
 0.0.0.0 axslynebghzxx.website
@@ -123923,6 +123930,7 @@
 0.0.0.0 ayoptcbppwmnw.site
 0.0.0.0 aypgkxgnetnxd.site
 0.0.0.0 ayprxcxbhttpz.space
+0.0.0.0 aypvtboqvzeym.online
 0.0.0.0 aysltbnozkryu.site
 0.0.0.0 aytbhnsvjqdrv.site
 0.0.0.0 ayujucfsngjvl.space
@@ -124519,6 +124527,7 @@
 0.0.0.0 bedsidetray.com
 0.0.0.0 bedsitcovert.qpon
 0.0.0.0 bedsockhelicin.cfd
+0.0.0.0 beduckidaeanaudiles.cyou
 0.0.0.0 beduncharrodegag.qpon
 0.0.0.0 beecheralloy.cfd
 0.0.0.0 beedomcupay.cyou
@@ -124778,6 +124787,7 @@
 0.0.0.0 beveyckzdzheo.site
 0.0.0.0 bevwcymvettup.space
 0.0.0.0 bewailindigestionunhappy.com
+0.0.0.0 bewaredsainte.cyou
 0.0.0.0 bewhidare.com
 0.0.0.0 bewitchedcarry.pro
 0.0.0.0 beworkfangagoulan.qpon
@@ -125360,6 +125370,7 @@
 0.0.0.0 bnpwobsswqtmx.space
 0.0.0.0 bnr.sys.lv
 0.0.0.0 bnrdom.com
+0.0.0.0 bnrhzqmmenger.site
 0.0.0.0 bnrs.it
 0.0.0.0 bnrsis.com
 0.0.0.0 bnrslks.com
@@ -126638,6 +126649,7 @@
 0.0.0.0 carettareagent.com
 0.0.0.0 cargoattachment.com
 0.0.0.0 cargoswrinklesotik.qpon
+0.0.0.0 cariangrists.cfd
 0.0.0.0 caribalpicea.com
 0.0.0.0 caribanpitmans.com
 0.0.0.0 caricatureboretangle.com
@@ -127329,6 +127341,7 @@
 0.0.0.0 chptbtxqkvbel.site
 0.0.0.0 chqdyaoziqacr.website
 0.0.0.0 chromaprotestmelch.cyou
+0.0.0.0 chromylviewy.com
 0.0.0.0 chronicairliner.com
 0.0.0.0 chrwxvdfrkwan.space
 0.0.0.0 chryvast.com
@@ -127931,6 +127944,7 @@
 0.0.0.0 coiywmautzjj.com
 0.0.0.0 cokedalk.com
 0.0.0.0 cokedpariti.com
+0.0.0.0 cokeyreseek.cfd
 0.0.0.0 colafaultsruns.com
 0.0.0.0 colanbalkily.com
 0.0.0.0 colauxesabicu.cfd
@@ -128114,6 +128128,7 @@
 0.0.0.0 congerstunish.com
 0.0.0.0 congeryclucks.com
 0.0.0.0 congestprowessburger.com
+0.0.0.0 congiiscazon.qpon
 0.0.0.0 congresscaptainfatal.com
 0.0.0.0 congruousimplication.com
 0.0.0.0 congruousthey.com
@@ -130504,6 +130519,7 @@
 0.0.0.0 dlwqbzkhncyoc.website
 0.0.0.0 dlzxazsvocjfy.online
 0.0.0.0 dmbfiumbqqimg.space
+0.0.0.0 dmcyifgevdszu.online
 0.0.0.0 dmdksxjnvudwg.site
 0.0.0.0 dmfaqhsvpjtdv.online
 0.0.0.0 dmfebzgplqaur.online
@@ -130595,6 +130611,7 @@
 0.0.0.0 dodgefastertesting.com
 0.0.0.0 dodgyfactoidprecut.com
 0.0.0.0 dodruajxyfeyi.site
+0.0.0.0 dodsepaxial.com
 0.0.0.0 doebirddrowner.com
 0.0.0.0 doeglicbeeper.shop
 0.0.0.0 doffscrumps.shop
@@ -130726,6 +130743,7 @@
 0.0.0.0 dousingnoggen.qpon
 0.0.0.0 dovecyton.com
 0.0.0.0 doveletasmearbotts.cfd
+0.0.0.0 doveletdupped.com
 0.0.0.0 doverunplatpourie.qpon
 0.0.0.0 dowabledecil.com
 0.0.0.0 dowageenjaillasers.cyou
@@ -131367,6 +131385,7 @@
 0.0.0.0 duflij.com
 0.0.0.0 dugdugsorelyholing.cfd
 0.0.0.0 dugrhmdlsdcop.website
+0.0.0.0 dugygysn.com
 0.0.0.0 duhkxehelalch.store
 0.0.0.0 duhxgrfaziemg.site
 0.0.0.0 duidoaghteqgs.website
@@ -131895,6 +131914,7 @@
 0.0.0.0 edzvubkgsokfg.online
 0.0.0.0 ee2b93a3a4.com
 0.0.0.0 eeaeghdfwnjnz.site
+0.0.0.0 eeaejvpkvydly.website
 0.0.0.0 eealrrwurmesx.space
 0.0.0.0 eeawcdhxtjmkb.site
 0.0.0.0 eebd3c4c48.com
@@ -132099,10 +132119,12 @@
 0.0.0.0 ejfstrkmgwrql.site
 0.0.0.0 ejgmkvprpjqww.site
 0.0.0.0 ejidokalis.cfd
+0.0.0.0 ejidqicqmtzkd.space
 0.0.0.0 ejihhtgvjeglq.online
 0.0.0.0 ejke2z8vc9nftl.rest
 0.0.0.0 ejksxgciipiry.space
 0.0.0.0 ejky29he9e4ek7.cfd
+0.0.0.0 ejmilsccgucyno.com
 0.0.0.0 ejmpeymopqcaf.site
 0.0.0.0 ejnhzgcgazhjl.site
 0.0.0.0 ejnnuvhvimfxh.space
@@ -132531,6 +132553,7 @@
 0.0.0.0 envayeconfort.cyou
 0.0.0.0 envczfherlnzg.website
 0.0.0.0 envelopeallydespair.com
+0.0.0.0 enverkxou.com
 0.0.0.0 enviesgoupenbocardo.qpon
 0.0.0.0 envigorchapati.qpon
 0.0.0.0 envious-attention.com
@@ -132778,6 +132801,7 @@
 0.0.0.0 escudosbarrets.shop
 0.0.0.0 esculicshouts.cyou
 0.0.0.0 escy55gxubl6.com
+0.0.0.0 eseklwvyjfceh.online
 0.0.0.0 esemrvueskrke.site
 0.0.0.0 esgwgsnrbevnb.website
 0.0.0.0 eshkol.io
@@ -133160,6 +133184,7 @@
 0.0.0.0 expulsionelinorcorruption.com
 0.0.0.0 expwycheapie.com
 0.0.0.0 expycoster.qpon
+0.0.0.0 exqubzkygkntn.space
 0.0.0.0 exrcfdbcqiddp.space
 0.0.0.0 exrtbsrv.com
 0.0.0.0 exsertsakkaunfazed.cfd
@@ -133494,6 +133519,7 @@
 0.0.0.0 faunsalicquieta.cfd
 0.0.0.0 faurdfurcate.shop
 0.0.0.0 fauyntrhfdiwq.website
+0.0.0.0 favigirningnonly.cfd
 0.0.0.0 favmaqyqgcirx.space
 0.0.0.0 favorite-mine.com
 0.0.0.0 favoriteinside.pro
@@ -134026,6 +134052,7 @@
 0.0.0.0 fizzyacerbitymellow.com
 0.0.0.0 fjabklctbwxey.site
 0.0.0.0 fjcgyzakpsskx.space
+0.0.0.0 fjcmbvbnyuwia.website
 0.0.0.0 fjhqfcgfahfhw.site
 0.0.0.0 fjjdwjwtfnouy.website
 0.0.0.0 fjnikpsggpfxo.site
@@ -134368,6 +134395,7 @@
 0.0.0.0 fontdeterminer.com
 0.0.0.0 fontinaflexorsaltman.qpon
 0.0.0.0 foodieblogroll.com
+0.0.0.0 foojfzqypsubg.online
 0.0.0.0 foojrvqictgwx.website
 0.0.0.0 foolhardy-wall.com
 0.0.0.0 foomaque.net
@@ -134779,6 +134807,7 @@
 0.0.0.0 fsofpbcatzfoz.site
 0.0.0.0 fsophrnrkzfda.website
 0.0.0.0 fsqgocmhgaikr.site
+0.0.0.0 fsqhqgskfadly.site
 0.0.0.0 fsqmmzzeimsgi.online
 0.0.0.0 fsrqhkcwfsrlc.online
 0.0.0.0 fstsrv9.com
@@ -134934,6 +134963,7 @@
 0.0.0.0 fuzzyletter.pro
 0.0.0.0 fvaslplblqgzc.online
 0.0.0.0 fvawdzlobdrrv.online
+0.0.0.0 fvchhlrvfopnd.site
 0.0.0.0 fvclccrvwierv.space
 0.0.0.0 fvcwqkkqmuv.com
 0.0.0.0 fvcyskzlktxul.site
@@ -134972,6 +135002,7 @@
 0.0.0.0 fwhpmbyhxazcj.space
 0.0.0.0 fwkqnknqmuful.site
 0.0.0.0 fwlpazuvbhmkg.online
+0.0.0.0 fwlyluvwhurli.space
 0.0.0.0 fwmknvveyfahw.site
 0.0.0.0 fwnezrrjmbjjl.space
 0.0.0.0 fwoojodpziwfb.website
@@ -135651,6 +135682,7 @@
 0.0.0.0 gibbingbegild.qpon
 0.0.0.0 gibbingcossas.cyou
 0.0.0.0 gibblesunp.qpon
+0.0.0.0 gibedencave.cfd
 0.0.0.0 gicowcqhrjbwd.space
 0.0.0.0 gicuvndqhbalh.online
 0.0.0.0 giddifytannery.cyou
@@ -135732,6 +135764,7 @@
 0.0.0.0 git55share.autos
 0.0.0.0 gitalinnuance.com
 0.0.0.0 gitoku.com
+0.0.0.0 gitoninmegrel.com
 0.0.0.0 gitoxgmnnauiz.space
 0.0.0.0 givawknyjaexj.online
 0.0.0.0 givbctdfqxoec.site
@@ -137347,6 +137380,7 @@
 0.0.0.0 hexsubjockocerago.qpon
 0.0.0.0 heydayseagoeracapnia.qpon
 0.0.0.0 heydeysparus.shop
+0.0.0.0 heygyxpcdlkiu.site
 0.0.0.0 heyhuwldmzxok.online
 0.0.0.0 heypreceding.com
 0.0.0.0 heyptsfbxntii.site
@@ -137788,6 +137822,7 @@
 0.0.0.0 hoistsveld.shop
 0.0.0.0 hokkuarces.com
 0.0.0.0 hokmlnzfftxvg.space
+0.0.0.0 hokqtgravmhkf.space
 0.0.0.0 hoksomuptak.net
 0.0.0.0 hoktrips.com
 0.0.0.0 hokxqbuyxwctx.online
@@ -138035,6 +138070,7 @@
 0.0.0.0 hqstcsetsckmf.website
 0.0.0.0 hquerdxxxxdlp.site
 0.0.0.0 hqurnvlwjlqgk.space
+0.0.0.0 hqxjnwhzvzycu.site
 0.0.0.0 hqxvhbntctxha.space
 0.0.0.0 hqyygsvapzwnv.site
 0.0.0.0 hr79hfw9nln4en9fktl8oe2c.cfd
@@ -138051,6 +138087,7 @@
 0.0.0.0 hrllzdgzyzoiy.website
 0.0.0.0 hrmlljmrwuusm.website
 0.0.0.0 hrnliywumxxp.com
+0.0.0.0 hrnpiriuokgol.website
 0.0.0.0 hrogrpee.de
 0.0.0.0 hrpbmvgbihfac.site
 0.0.0.0 hrrlwaavrttks.online
@@ -138572,6 +138609,7 @@
 0.0.0.0 ideahealkeeper.com
 0.0.0.0 idealistic-bath.com
 0.0.0.0 idealmedia.io
+0.0.0.0 idealvergent.cyou
 0.0.0.0 ideecoral.com
 0.0.0.0 identicaldrench.com
 0.0.0.0 identicalprofile.com
@@ -139075,6 +139113,7 @@
 0.0.0.0 includedmotley.com
 0.0.0.0 includemodal.com
 0.0.0.0 incomesforeleg.qpon
+0.0.0.0 incomesweekend.cyou
 0.0.0.0 incompetencesorting.com
 0.0.0.0 incompletesurnametransparent.com
 0.0.0.0 incomprehensibleselfconfidence.com
@@ -139322,6 +139361,7 @@
 0.0.0.0 instaruptilt.com
 0.0.0.0 instatedopa.cfd
 0.0.0.0 insteadempty.com
+0.0.0.0 insteadjell.com
 0.0.0.0 insteadmodification.com
 0.0.0.0 insteephalakic.cyou
 0.0.0.0 instilligydalarvate.cfd
@@ -139690,6 +139730,7 @@
 0.0.0.0 itcleffaom.com
 0.0.0.0 itcojnlsswzwt.site
 0.0.0.0 itcslocgtbamh.site
+0.0.0.0 itdcizejjqwes.website
 0.0.0.0 itefntyjnozqb.site
 0.0.0.0 iteiqzzmzawtu.online
 0.0.0.0 itemingdissoul.qpon
@@ -140115,10 +140156,12 @@
 0.0.0.0 jcqwudfidmevr.online
 0.0.0.0 jcrhpslysoaww.site
 0.0.0.0 jcsubfkhazsil.website
+0.0.0.0 jcsyknyvserff.online
 0.0.0.0 jct7r5n3z9l6lrigvgt.cfd
 0.0.0.0 jcujxwbmofynd.website
 0.0.0.0 jcunttyfnkqps.online
 0.0.0.0 jcvtdoqmifyzt.site
+0.0.0.0 jcvwteydzkhlr.space
 0.0.0.0 jcwylmuatiaqv.store
 0.0.0.0 jcxnwlwjigrjr.online
 0.0.0.0 jcycsbnveydxx.space
@@ -140148,6 +140191,7 @@
 0.0.0.0 jdookslktoafb.website
 0.0.0.0 jdqwqcckhhjqt.site
 0.0.0.0 jdraskbpyqgpi.site
+0.0.0.0 jdsppzwikhqgd.website
 0.0.0.0 jdssykdlwygwj.site
 0.0.0.0 jdt8.net
 0.0.0.0 jdufgkfwdygge.site
@@ -140269,6 +140313,7 @@
 0.0.0.0 jgcbbgumfijlt.online
 0.0.0.0 jgchbqqejehmo.site
 0.0.0.0 jggoifdxkrimq.website
+0.0.0.0 jghadikzlvvnr.space
 0.0.0.0 jgieklrrgjcjp.site
 0.0.0.0 jgixqmqacjzkk.site
 0.0.0.0 jgjmetqidmbec.website
@@ -140515,6 +140560,7 @@
 0.0.0.0 jmryuvgxhiars.site
 0.0.0.0 jmsiizwqpkirp.website
 0.0.0.0 jmt7mbwce.com
+0.0.0.0 jmteohmiqukxh.online
 0.0.0.0 jmtfwapdtjqgt.online
 0.0.0.0 jmtfxuwwylmrl.website
 0.0.0.0 jmtvjcaomypcfmw.com
@@ -140582,6 +140628,7 @@
 0.0.0.0 jokefilmy.cyou
 0.0.0.0 jokeinvestigationfairly.com
 0.0.0.0 jokercheerfullylet.com
+0.0.0.0 jokersglyphsperjink.cfd
 0.0.0.0 jokfrivqogtwq.site
 0.0.0.0 jokingaspirant.com
 0.0.0.0 jokingflashlights.com
@@ -141070,6 +141117,7 @@
 0.0.0.0 jyapmffzkbkbp.site
 0.0.0.0 jybaekawywkbl.top
 0.0.0.0 jydbuockjatwf.space
+0.0.0.0 jyedyyaxvrvnf.site
 0.0.0.0 jyekwgudnajsai.com
 0.0.0.0 jyfyrcnskjjhy.space
 0.0.0.0 jygotubvpyguak.com
@@ -141288,6 +141336,7 @@
 0.0.0.0 kcjmivforjixu.online
 0.0.0.0 kckilfbzuckfx.site
 0.0.0.0 kcldlqybhdgdk.site
+0.0.0.0 kcnotfqiowvgc.space
 0.0.0.0 kcoktkhntiubu.online
 0.0.0.0 kcqbrwygxixdh.site
 0.0.0.0 kcrojyldwmhig.site
@@ -141463,6 +141512,7 @@
 0.0.0.0 kfhtyotsvfuie.com
 0.0.0.0 kfiqxtcuthefp.online
 0.0.0.0 kfjhd.com
+0.0.0.0 kfjlnu4384hkgy5fh.rest
 0.0.0.0 kfjtkpregiazd.space
 0.0.0.0 kfkewuaghmbfm.website
 0.0.0.0 kfkgfumirrdtr.space
@@ -141566,6 +141616,7 @@
 0.0.0.0 kiacqwxclglgf.site
 0.0.0.0 kiakialen.qpon
 0.0.0.0 kiakigan.cfd
+0.0.0.0 kiaktytmjtmkk.site
 0.0.0.0 kialfjmtmeaay.site
 0.0.0.0 kiblahmafia.com
 0.0.0.0 kickhoistsuccess.com
@@ -141635,6 +141686,7 @@
 0.0.0.0 kirietabawisf.site
 0.0.0.0 kirktonreflate.qpon
 0.0.0.0 kirnedsomeday.cfd
+0.0.0.0 kirpankinky.cfd
 0.0.0.0 kirschgown.qpon
 0.0.0.0 kirstengatemen.cfd
 0.0.0.0 kirtledmonerbise.cyou
@@ -141835,6 +141887,7 @@
 0.0.0.0 knittedcourthouse.com
 0.0.0.0 knivedviqueen.com
 0.0.0.0 kniveybumpstddmp.cfd
+0.0.0.0 kniwldbmmpzno.space
 0.0.0.0 knjkyjtocepbv.website
 0.0.0.0 knknoqpaxluaa.online
 0.0.0.0 knlpbhdaidwil.online
@@ -142152,6 +142205,7 @@
 0.0.0.0 kumvrxoewxdsr.online
 0.0.0.0 kumysbeachy.cfd
 0.0.0.0 kunailxx.com
+0.0.0.0 kunkursparm.qpon
 0.0.0.0 kunvertads.com
 0.0.0.0 kuolkoola.com
 0.0.0.0 kuphlayj.com
@@ -142399,6 +142453,7 @@
 0.0.0.0 laidgreens.com
 0.0.0.0 laihtsfmbrmog.site
 0.0.0.0 lainagecullers.com
+0.0.0.0 lainerneedily.cyou
 0.0.0.0 laingerenuk.qpon
 0.0.0.0 laiqrddhcqstl.space
 0.0.0.0 lairmanmarcan.com
@@ -142602,6 +142657,7 @@
 0.0.0.0 lborikfrxkooz.online
 0.0.0.0 lbpxotmjtdbom.site
 0.0.0.0 lbpzmnnrhnfhf.website
+0.0.0.0 lbqcwmucunix8ygv6.rest
 0.0.0.0 lbqoewlxbeydk.site
 0.0.0.0 lbszsbzuupnoe.online
 0.0.0.0 lbtnxitwwfdqd.site
@@ -142979,6 +143035,7 @@
 0.0.0.0 liawgtbqbeaeq.space
 0.0.0.0 lib4orji46xr854ug59fl2zyu3c.cfd
 0.0.0.0 libbarddibbles.cfd
+0.0.0.0 libdjtedapsjs.website
 0.0.0.0 libellouschurchtommy.com
 0.0.0.0 libertycdn.com
 0.0.0.0 libertycoinsdrew.com
@@ -143115,6 +143172,7 @@
 0.0.0.0 lingercatchpyramid.com
 0.0.0.0 lingetawols.cyou
 0.0.0.0 linguetlainer.cfd
+0.0.0.0 lingywonners.cyou
 0.0.0.0 linkaffectionately.com
 0.0.0.0 linkbuddies.com
 0.0.0.0 linkedkneebrisk.com
@@ -143611,6 +143669,7 @@
 0.0.0.0 loving-link.com
 0.0.0.0 lovingrelation.pro
 0.0.0.0 lovrsdate.com
+0.0.0.0 lowdahlitesvinland.cfd
 0.0.0.0 lowdychlbkivbf.com
 0.0.0.0 loweiteserdabsquieta.qpon
 0.0.0.0 loweststernhaunting.com
@@ -143668,6 +143727,7 @@
 0.0.0.0 lpwtbsfgamivm.space
 0.0.0.0 lpwxjjoxopqrq.space
 0.0.0.0 lpyidhrhhklsp.space
+0.0.0.0 lpzfkjdynfxza.space
 0.0.0.0 lqbvjmkewzwjk.top
 0.0.0.0 lqbvjmkoozmry.top
 0.0.0.0 lqbzvmvwjyor.top
@@ -144130,6 +144190,7 @@
 0.0.0.0 magyarsholloos.qpon
 0.0.0.0 mahaldenaryfrit.qpon
 0.0.0.0 mahallastaboy.com
+0.0.0.0 mahantdominuspedros.cfd
 0.0.0.0 mahassvibccui.store
 0.0.0.0 mahatroo.com
 0.0.0.0 mahfrwpkcnjcv.space
@@ -144490,6 +144551,7 @@
 0.0.0.0 mcnfmjecjemgh.site
 0.0.0.0 mcnlpmzrhpvcq.online
 0.0.0.0 mcnuzaallztck.website
+0.0.0.0 mcnxsrpgxzwem.online
 0.0.0.0 mcobtobfooqc.in
 0.0.0.0 mcppsh.com
 0.0.0.0 mcpuwpsh.com
@@ -144521,6 +144583,7 @@
 0.0.0.0 mdxsavelzylin.online
 0.0.0.0 mdyhysyezdigw.online
 0.0.0.0 mdyjjnmwhhcpa.site
+0.0.0.0 mdyolswbpadfl.space
 0.0.0.0 meadow-assets.click
 0.0.0.0 meadow-static.xyz
 0.0.0.0 mealdisparitydrip.com
@@ -144624,6 +144687,7 @@
 0.0.0.0 mellowwatch.pro
 0.0.0.0 melodic-mess.com
 0.0.0.0 melodramaticquery.com
+0.0.0.0 meloidsandron.qpon
 0.0.0.0 meloshounder.com
 0.0.0.0 melosthosnarc.cfd
 0.0.0.0 meltingpristaw.qpon
@@ -144964,11 +145028,13 @@
 0.0.0.0 minosurgence.com
 0.0.0.0 minotaur107.com
 0.0.0.0 mintaza.xyz
+0.0.0.0 minterspilleek.qpon
 0.0.0.0 minunetclose.com
 0.0.0.0 minusesasfast.com
 0.0.0.0 minutesindowed.cfd
 0.0.0.0 minutessmiles.com
 0.0.0.0 mioymlvrhmlsk.online
+0.0.0.0 miqjmwcnxfnvk.online
 0.0.0.0 miraclethisaddicted.com
 0.0.0.0 miranapigly.cyou
 0.0.0.0 miriestoyesses.com
@@ -145331,6 +145397,7 @@
 0.0.0.0 monarchycurrencyinjury.com
 0.0.0.0 monarchygrumpy.com
 0.0.0.0 monasapotomac.com
+0.0.0.0 monauleaser.com
 0.0.0.0 moncatfgtgdul.website
 0.0.0.0 mondayrecalled.com
 0.0.0.0 mondejudgers.shop
@@ -145539,6 +145606,7 @@
 0.0.0.0 mpokviymzgjmm.online
 0.0.0.0 mppiorwmiggdo.space
 0.0.0.0 mppxlwkdzfunt.space
+0.0.0.0 mppxvlunvaeig.site
 0.0.0.0 mpqemzwqwsfhg.online
 0.0.0.0 mpqersrnqhqii.online
 0.0.0.0 mprsxxhbdhewe.online
@@ -146266,6 +146334,7 @@
 0.0.0.0 nbtyuiecxaamnn.com
 0.0.0.0 nbufgllosxslp.site
 0.0.0.0 nbuipljbiahdp.website
+0.0.0.0 nbuvharullxpn.site
 0.0.0.0 nbvcsyjsoojpd.online
 0.0.0.0 nbvlkenmkihrl.website
 0.0.0.0 nbvmqxuglqoqs.website
@@ -146783,6 +146852,7 @@
 0.0.0.0 nlerkltdcsznn.space
 0.0.0.0 nlezowlzrllro.site
 0.0.0.0 nlfthbrebiuoy.online
+0.0.0.0 nlfxhnobufidz.website
 0.0.0.0 nlglokvwajqxo.site
 0.0.0.0 nlhdswomqdoux.site
 0.0.0.0 nlhotovgeuglc.site
@@ -146800,6 +146870,7 @@
 0.0.0.0 nlsgostuanbpy.website
 0.0.0.0 nlsmhyylwozop.site
 0.0.0.0 nltlotgpuggsj.site
+0.0.0.0 nltwyiypyjnkg.space
 0.0.0.0 nluyukqnyfjfk.space
 0.0.0.0 nlvkkmososyji.website
 0.0.0.0 nlvxcyxcnwxlp.space
@@ -147177,6 +147248,7 @@
 0.0.0.0 ntfkfspmntojh.site
 0.0.0.0 ntgtpdkijhfgj.site
 0.0.0.0 nthqdiipxpdrg.space
+0.0.0.0 ntisospefixmi.space
 0.0.0.0 ntjhidsipuvcj.site
 0.0.0.0 ntjumvumqzufo.space
 0.0.0.0 ntkgkyalavlcs.space
@@ -147371,6 +147443,7 @@
 0.0.0.0 nxksydvpyedbz.online
 0.0.0.0 nxlqtogxebdgs.site
 0.0.0.0 nxmpmugazsghw.website
+0.0.0.0 nxmqgoxazvcwc.space
 0.0.0.0 nxmsiuptjboqj.space
 0.0.0.0 nxnfaqkrtfaus.space
 0.0.0.0 nxnmevzsnlwcc.space
@@ -147646,6 +147719,7 @@
 0.0.0.0 ocmrsmsaazwbw.website
 0.0.0.0 ocmtag.com
 0.0.0.0 ocmufsnhvypis.com
+0.0.0.0 ococlmomp.com
 0.0.0.0 ocoopdcpmqxpy.site
 0.0.0.0 ocop-defender.pro
 0.0.0.0 ocpnroag.com
@@ -147832,6 +147906,7 @@
 0.0.0.0 ofmukindwould.org
 0.0.0.0 ofnpsvob.com
 0.0.0.0 ofphxmkvkpdro.site
+0.0.0.0 ofpnjkbiudjsd.site
 0.0.0.0 ofppahlkiz.com
 0.0.0.0 ofpqmenz.in
 0.0.0.0 ofpwwzlrf5l7wqbn1if7.cfd
@@ -148152,6 +148227,7 @@
 0.0.0.0 omqdbokmnzxnv.online
 0.0.0.0 omqdqupnwbqow.space
 0.0.0.0 omrlipeocxijz.online
+0.0.0.0 omrqf8x3kvm1kl.cfd
 0.0.0.0 omrvgnwyvdbom.website
 0.0.0.0 omshedinjaor.com
 0.0.0.0 omswwmgtqwekb.space
@@ -148516,6 +148592,7 @@
 0.0.0.0 orquideassp.com
 0.0.0.0 orrfphxldambu.site
 0.0.0.0 orricescalmy.cfd
+0.0.0.0 orrislieus.cyou
 0.0.0.0 orrxhawuffypn.site
 0.0.0.0 orsqgxiuhkitm.website
 0.0.0.0 orsvunkydjxsq.site
@@ -148985,11 +149062,13 @@
 0.0.0.0 ozmmzgezcybxp.website
 0.0.0.0 ozmwpmwfujjmv.site
 0.0.0.0 ozonemedia.com
+0.0.0.0 ozonereimfluids.qpon
 0.0.0.0 ozoodywxvkwyx.site
 0.0.0.0 ozpcyftgmeetf.website
 0.0.0.0 ozpflhpfhkvgt.space
 0.0.0.0 ozpifymthfser.space
 0.0.0.0 ozpnmwkzyvazx.store
+0.0.0.0 ozqekfacmwsbn.website
 0.0.0.0 ozqnvcdyoxujj.site
 0.0.0.0 ozqxbtyrotvwk.online
 0.0.0.0 ozramquqvttqy.space
@@ -149211,6 +149290,7 @@
 0.0.0.0 parlourclaye.cfd
 0.0.0.0 parlouroutlayfavor.com
 0.0.0.0 parloursixty.com
+0.0.0.0 parlquacky.cfd
 0.0.0.0 parochfreezer.cyou
 0.0.0.0 parotissniffle.qpon
 0.0.0.0 parpenuncles.com
@@ -149300,6 +149380,7 @@
 0.0.0.0 patinaensky.cfd
 0.0.0.0 patinaesarcina.com
 0.0.0.0 patolachemick.cyou
+0.0.0.0 patozdkidh.in
 0.0.0.0 patroleligulin.cyou
 0.0.0.0 patrolsodium.com
 0.0.0.0 patronagemaestroforestall.com
@@ -149414,6 +149495,7 @@
 0.0.0.0 pcmpcszarkerr.space
 0.0.0.0 pcnerliukctck.online
 0.0.0.0 pcnuhzoxhjhvd.website
+0.0.0.0 pcpbzqghreucy.space
 0.0.0.0 pcpsbdikueqle.online
 0.0.0.0 pcsauvntjwrxm.website
 0.0.0.0 pcssvfanpytpp.space
@@ -149747,6 +149829,7 @@
 0.0.0.0 pgfviujllriob.website
 0.0.0.0 pggmyriiauwnw.com
 0.0.0.0 pghpmvqssfiae.website
+0.0.0.0 pghvozjaunkac.online
 0.0.0.0 pgiergxvckyxe.com
 0.0.0.0 pgiitfpbfsbmv.site
 0.0.0.0 pgisdxbicrxqi.online
@@ -150321,6 +150404,7 @@
 0.0.0.0 pmefxrwwqsgpg.website
 0.0.0.0 pmfahgvvqiyyz.online
 0.0.0.0 pmfmtnykkgpsa.website
+0.0.0.0 pmgbhlhzxthui.website
 0.0.0.0 pmgubrnddynxa.online
 0.0.0.0 pmjlllngnazvr.online
 0.0.0.0 pmjpfmtdfdomy.space
@@ -150388,6 +150472,7 @@
 0.0.0.0 pocketshighlyinquired.com
 0.0.0.0 pockingmolla.com
 0.0.0.0 pockymesons.shop
+0.0.0.0 pocpzsexngocd.website
 0.0.0.0 podargefem.com
 0.0.0.0 poddishdimaris.cyou
 0.0.0.0 podefr2.net
@@ -152280,6 +152365,7 @@
 0.0.0.0 quaymangleeds.cfd
 0.0.0.0 qubhjnodheizn.site
 0.0.0.0 qubisticss.com
+0.0.0.0 quboqnokatcvu.space
 0.0.0.0 qudbmtsluirkx.site
 0.0.0.0 queachycorer.com
 0.0.0.0 queachysfree.cfd
@@ -153335,6 +153421,7 @@
 0.0.0.0 resacaduende.com
 0.0.0.0 resawedfraserapres.cfd
 0.0.0.0 rescalenowy.cfd
+0.0.0.0 resealsprucyharmoot.qpon
 0.0.0.0 resectnonbusyasta.cfd
 0.0.0.0 resedueresedueminimum.com
 0.0.0.0 resentfulsecure.com
@@ -153848,6 +153935,7 @@
 0.0.0.0 rmazxvjbpymsz.website
 0.0.0.0 rmb-trf.net
 0.0.0.0 rmclskudgnbgj.space
+0.0.0.0 rmcyijfeztuoi.space
 0.0.0.0 rmddhrvvnhemw.online
 0.0.0.0 rmddsanqhfkvm.online
 0.0.0.0 rmelvo.shop
@@ -154511,6 +154599,7 @@
 0.0.0.0 ryastalest.cfd
 0.0.0.0 rycfrmbkirh.com
 0.0.0.0 ryddiuaiixndo.site
+0.0.0.0 rydfigwxabdxb.site
 0.0.0.0 rydresa.info
 0.0.0.0 rydtkrsegqpze.website
 0.0.0.0 rydtyitkzhgzw.space
@@ -155503,6 +155592,7 @@
 0.0.0.0 sgcenhidhkl.com
 0.0.0.0 sgcjwdshiacfv.space
 0.0.0.0 sgdanjzdfjtwr.site
+0.0.0.0 sgestpoqzewrg.site
 0.0.0.0 sgfinery.com
 0.0.0.0 sgfsdvc.com
 0.0.0.0 sgftdcfhszswh.site
@@ -155706,6 +155796,7 @@
 0.0.0.0 showilyaletap.com
 0.0.0.0 showmebars.com
 0.0.0.0 showunionsjoker.com
+0.0.0.0 showymycetes.qpon
 0.0.0.0 shpgceahdtjsh.site
 0.0.0.0 shprhqfnjkqf.com
 0.0.0.0 shpyxmtsqnsay.space
@@ -155848,6 +155939,7 @@
 0.0.0.0 silverwhitebirds.co
 0.0.0.0 silylbranny.shop
 0.0.0.0 simarabonzian.cfd
+0.0.0.0 simblumstaired.cyou
 0.0.0.0 simerandom.qpon
 0.0.0.0 simhtgguozodp.online
 0.0.0.0 simialfauld.shop
@@ -156187,6 +156279,7 @@
 0.0.0.0 slopershoji.cyou
 0.0.0.0 sloppedneckful.qpon
 0.0.0.0 sloshesbracker.cfd
+0.0.0.0 slotedembelif.qpon
 0.0.0.0 sloto.live
 0.0.0.0 slotsmiling.com
 0.0.0.0 slottensuccah.cyou
@@ -158222,6 +158315,7 @@
 0.0.0.0 tbidfumqfeucy.site
 0.0.0.0 tbimsmdlxsiam.website
 0.0.0.0 tblsbzfxvamuk.website
+0.0.0.0 tbmj7q95mbrw5ctv.cfd
 0.0.0.0 tbmo5rcgfflmtthp92be4mgrofuqho2i.rest
 0.0.0.0 tbmoxtvskajqz.space
 0.0.0.0 tbmuriivgbidj.online
@@ -158508,6 +158602,7 @@
 0.0.0.0 tfxswxtxcickc.space
 0.0.0.0 tgagqxcwhckxw.online
 0.0.0.0 tgcapgsjdizdv.website
+0.0.0.0 tgclrbecoiqtz.site
 0.0.0.0 tgel2ebtx.ru
 0.0.0.0 tggpgfvgyhgps.website
 0.0.0.0 tgjonodnifuxu.online
@@ -158519,6 +158614,7 @@
 0.0.0.0 tgtrjjlpjntes.space
 0.0.0.0 tguyxzkrxgzqt.online
 0.0.0.0 tgvtlpjqnsiwm.site
+0.0.0.0 tgxvdtsgyownn.space
 0.0.0.0 thafqlstoiluv.site
 0.0.0.0 thairsqojopzz.online
 0.0.0.0 thakdsafoqczb.space
@@ -158640,6 +158736,7 @@
 0.0.0.0 thistlyangili.com
 0.0.0.0 thjxvlrjnbqbs.store
 0.0.0.0 thlaspisedile.cfd
+0.0.0.0 thmgwofnkgxxw.online
 0.0.0.0 thoeqljwjfmnt.site
 0.0.0.0 thoinket.com
 0.0.0.0 tholor.com
@@ -159328,6 +159425,7 @@
 0.0.0.0 tqkyfmdqgwvxx.online
 0.0.0.0 tqlqpxzywbomi.online
 0.0.0.0 tqnogxuqgwlmj.space
+0.0.0.0 tqodtosqykksd.space
 0.0.0.0 tqoktissnsrqqf.com
 0.0.0.0 tqopwjuklgerb.online
 0.0.0.0 tqqavzfshkdsh.website
@@ -160732,6 +160830,7 @@
 0.0.0.0 unfussyvivax.com
 0.0.0.0 unfylmjytbkic.space
 0.0.0.0 ungagtangramfugate.cfd
+0.0.0.0 ungatedequipt.cfd
 0.0.0.0 ungatedthecoid.cfd
 0.0.0.0 ungiftwanganscoying.cyou
 0.0.0.0 ungirdplumply.qpon
@@ -162211,6 +162310,7 @@
 0.0.0.0 vjrjvojuxlkhc.website
 0.0.0.0 vjtoqafkhdz.com
 0.0.0.0 vjtpmzsmcwfko.online
+0.0.0.0 vjtpz13eo22it6lk4ox8wnmem.rest
 0.0.0.0 vjtytsxawhbig.website
 0.0.0.0 vjuenyeckagkz.site
 0.0.0.0 vjvrhchxxvait.space
@@ -162234,6 +162334,7 @@
 0.0.0.0 vkiqovvfivibd.space
 0.0.0.0 vkj9mko5efuminb135m.cfd
 0.0.0.0 vkjiwgmipziva.space
+0.0.0.0 vklaelkgewwbt.website
 0.0.0.0 vkljfmykgnd.com
 0.0.0.0 vklljvwyybry.top
 0.0.0.0 vklyiqzugdwgr.online
@@ -162564,6 +162665,7 @@
 0.0.0.0 vtrrvqbcptsis.space
 0.0.0.0 vtsufsdkrzthc.space
 0.0.0.0 vttlfjsxfridh.site
+0.0.0.0 vtuvnslsejbg.com
 0.0.0.0 vtuzzlfmnpxdq.website
 0.0.0.0 vtwqzbrohcgdt.online
 0.0.0.0 vtyv83k8gl9h7t3hjvx6.cfd
@@ -163235,6 +163337,7 @@
 0.0.0.0 weirdsentence.com
 0.0.0.0 weirdusual.pro
 0.0.0.0 weirdyboreenslittle.cyou
+0.0.0.0 weizkvyqcgsqb.site
 0.0.0.0 wejqzsufiutaa.site
 0.0.0.0 wekauairing.shop
 0.0.0.0 wekazjwmctawy.site
@@ -164350,6 +164453,7 @@
 0.0.0.0 wwbpmbaltpfky.site
 0.0.0.0 wwcjhitmvwdqh.space
 0.0.0.0 wwdhgevpmxmvs.online
+0.0.0.0 wwdjszncajqwt.online
 0.0.0.0 wwfgafqh.com
 0.0.0.0 wwfictxcxfioz.website
 0.0.0.0 wwfmjmjqucuri.website
@@ -164421,6 +164525,7 @@
 0.0.0.0 wyhxnsedjehwt.site
 0.0.0.0 wyjjhagykrgpak.com
 0.0.0.0 wyjvdqyexgomq.online
+0.0.0.0 wylbjbttrwwxm.website
 0.0.0.0 wylespectuprises.qpon
 0.0.0.0 wylhcncknyyzr.website
 0.0.0.0 wylin.ai
@@ -164532,6 +164637,7 @@
 0.0.0.0 xazafvbmicmi.com
 0.0.0.0 xb3cicbx53m8rjxyi94kumyujr.cfd
 0.0.0.0 xbbhrqbjmuart.site
+0.0.0.0 xbbnshajxovxo.space
 0.0.0.0 xbbuafyizlkov.space
 0.0.0.0 xbbznszm.com
 0.0.0.0 xbdthxmpmygwd.space
@@ -164579,6 +164685,7 @@
 0.0.0.0 xckmiovstahqy.website
 0.0.0.0 xckmixodejzep.online
 0.0.0.0 xckudpvitgrdj.online
+0.0.0.0 xckuiejjcnppr.website
 0.0.0.0 xcohzwdmnkryw.online
 0.0.0.0 xcowuheclvwryh.com
 0.0.0.0 xcpepxtwlfwfq.space
@@ -165409,7 +165516,6 @@
 0.0.0.0 yagjugaevqdek.space
 0.0.0.0 yagtyjaefiecu.online
 0.0.0.0 yahgansprugslisa.cfd
-0.0.0.0 yahoo-homepage.html-load.com
 0.0.0.0 yahoosupdart.cyou
 0.0.0.0 yahvehpetaled.cfd
 0.0.0.0 yahxcarxmnp.com
@@ -165463,6 +165569,7 @@
 0.0.0.0 yauztedgzgwbt.online
 0.0.0.0 yavapaigazer.cfd
 0.0.0.0 yavli.com
+0.0.0.0 yavurxepklnzm.space
 0.0.0.0 yawkwxxretzyl.site
 0.0.0.0 yawlsheared.com
 0.0.0.0 yawmarqmnbndi.website
@@ -165509,6 +165616,7 @@
 0.0.0.0 ybtdxfqdnwzly.space
 0.0.0.0 ybtevzivkqolm.website
 0.0.0.0 ybtyvbzvxpvex.store
+0.0.0.0 ybuwtgpqxscop.website
 0.0.0.0 ybycgilqhqyib.website
 0.0.0.0 ybzdctapkjfaj.website
 0.0.0.0 ybzeafuujc.com
@@ -165665,6 +165773,7 @@
 0.0.0.0 ygacesefzgcvt.site
 0.0.0.0 ygaeklqwfmtsl.website
 0.0.0.0 ygbjoob9by1g5gvz5.cfd
+0.0.0.0 ygbpowseebsvu.online
 0.0.0.0 ygcbqnceieyqy.website
 0.0.0.0 ygdvundpxjbbn.online
 0.0.0.0 ygdwvwept.com
@@ -166076,6 +166185,7 @@
 0.0.0.0 yqzpmsjhdccic.online
 0.0.0.0 yraexzjnxasnz.site
 0.0.0.0 yrdsdifwwlicc.site
+0.0.0.0 yrenlfmifhfgr.website
 0.0.0.0 yrflgsqpywsmh.website
 0.0.0.0 yrfyazdbylynj.space
 0.0.0.0 yrixtfepqyfqx.site
@@ -166216,6 +166326,7 @@
 0.0.0.0 yvoria.com
 0.0.0.0 yvqniyisazjxy.website
 0.0.0.0 yvrszirkgpbns.site
+0.0.0.0 yvrumipwlpiih.online
 0.0.0.0 yvshjwqvannfc.space
 0.0.0.0 yvsocbltkrpsl.online
 0.0.0.0 yvtcwrcvkwacm.website
@@ -166252,6 +166363,7 @@
 0.0.0.0 ywugyssrmkvat.website
 0.0.0.0 ywuzuazsjnzto.online
 0.0.0.0 ywygrtyblmaxe.site
+0.0.0.0 ywyngovualyxq.website
 0.0.0.0 ywzyhljazdsrx.space
 0.0.0.0 yx-ads6.com
 0.0.0.0 yx8x4cjpbw5jjt.rest
@@ -166271,6 +166383,7 @@
 0.0.0.0 yxnkrmzdmjwwt.site
 0.0.0.0 yxosmdbrmfepu.space
 0.0.0.0 yxoygmeyhpxnf.site
+0.0.0.0 yxrlvfirqiave.website
 0.0.0.0 yxrztudaxbejo.website
 0.0.0.0 yxrzwtveozhfv.website
 0.0.0.0 yxshiybpbfpbi.site
@@ -166307,6 +166420,7 @@
 0.0.0.0 yysupnvlmqddp.site
 0.0.0.0 yyuaksepmz.com
 0.0.0.0 yyvvkczsfrlkn.online
+0.0.0.0 yyvwhkydulefq.space
 0.0.0.0 yywflujrcwrcrio.net
 0.0.0.0 yywkaozqywjqux.com
 0.0.0.0 yyxaooxwjxofv.space
@@ -166820,6 +166934,7 @@
 0.0.0.0 zlwfvuhznixcn.store
 0.0.0.0 zlwyiedcgsnco.store
 0.0.0.0 zlx.com.br
+0.0.0.0 zlxmvgbkocpqz.online
 0.0.0.0 zlxwsxcnkyeij.site
 0.0.0.0 zlxygrhsimexp.online
 0.0.0.0 zlyxrqpoymlnl.space
@@ -167083,6 +167198,7 @@
 0.0.0.0 zsiezzoevasxb.space
 0.0.0.0 zsiuorvrnkpbw.website
 0.0.0.0 zsleznwqqjcjw.site
+0.0.0.0 zslzwwvjceiom.website
 0.0.0.0 zsnlodckthbjz.online
 0.0.0.0 zsnrhqltxmsdp.site
 0.0.0.0 zsnrkdpoxlfzz.space
@@ -170432,6 +170548,10 @@
 0.0.0.0 dkphbpakvgftxm.com
 0.0.0.0 8kbg4gnw32.com
 0.0.0.0 cmn4xjgp67.com
+0.0.0.0 bp44bqnvdb.com
+0.0.0.0 6mujth3wgx.com
+0.0.0.0 tetrahedron55.com
+0.0.0.0 xeb3x4yj4t.com
 0.0.0.0 lm1o9ejjs.com
 0.0.0.0 velocity83.com
 0.0.0.0 5j01ouj0l.com
@@ -180347,6 +180467,7 @@
 0.0.0.0 monitoring.iraiser.eu
 0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 msadsscale.azureedge.net
+0.0.0.0 mxanalytics.youruncensoredai.workers.dev
 0.0.0.0 myscoop-tracking.googlecode.com
 0.0.0.0 native-ads-events-api.c4s-rd.services
 0.0.0.0 native-ads-events-api2.c4s-rd.services
